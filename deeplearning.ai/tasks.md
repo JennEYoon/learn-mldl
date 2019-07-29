@@ -11,3 +11,6 @@
  
  - download project notebooks.  Start them
   
+ - NOTEBOOKS cannot be saved from iPAD.  Download from computer first.
+ 
+ 
