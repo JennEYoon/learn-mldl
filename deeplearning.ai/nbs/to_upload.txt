@@ -1,0 +1,6 @@
+jupyter notebooks to be uploaded.
+
+ * week 2 numpy vectorize
+ * week 2 programming assignment
+ 
+ 
