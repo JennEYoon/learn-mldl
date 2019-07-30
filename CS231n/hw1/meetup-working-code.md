@@ -1,7 +1,7 @@
 # Meetup Links to Working Code, Stanford cs231n Assignment 1  
 
 
-### Chris Malec:
+### Chris Malec:  (Chris posted that he finished all parts as of 7/29/2019)
 
    https://github.com/cemalec/CS231/blob/master/assignment1/  
    
@@ -20,9 +20,11 @@
    ttps://cemalec.github.io/Gradients_NN/ (edited)   
    
    
-### Colleen Chen: 
+### Colleen Chen: (Colleen seems to have taken down her content as of 7/30/2019)
 
-https://github.com/colleen-chen/learn--cs231n-
+   I will update when she puts it back up.  She may be working on them this week.
+   
+   https://github.com/colleen-chen/learn--cs231n-
 
  - Two layer nn:  
    https://github.com/colleen-chen/learn--cs231n-/blob/master/two_layer_net.ipynb  
