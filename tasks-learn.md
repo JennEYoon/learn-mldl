@@ -23,4 +23,5 @@
    
  * deeplearning.ai -- all classes notesbooks with solution uploaded.  
  
+ * fastai -- class notebooks to upload later.
  
