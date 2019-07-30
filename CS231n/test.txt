@@ -1,1 +1,5 @@
 this is a test of subfolder pre commit
+
+test of commit successful.
+Did not rename directory to lower case.
+
