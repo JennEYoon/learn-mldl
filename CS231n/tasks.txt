@@ -1,0 +1,5 @@
+# Tasks for cs231n github repo
+
+Updated tutorial files for python, numpy, ipython.
+7/30/2019 5:15 PM
+
