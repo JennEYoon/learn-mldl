@@ -20,22 +20,15 @@
    ttps://cemalec.github.io/Gradients_NN/ (edited)   
    
    
-### Colleen Chen: (Colleen seems to have taken down her content as of 7/30/2019)
-
-   I will update when she puts it back up.  She may be working on them this week.
-   
-   https://github.com/colleen-chen/learn--cs231n-
-
- - Two layer nn:  
-   https://github.com/colleen-chen/learn--cs231n-/blob/master/two_layer_net.ipynb  
-   https://github.com/colleen-chen/learn--cs231n-/blob/master/classifier/neural_net.py  
+### Colleen Chen:  
+ - Two layer nn:  (Updated link from Colleen, as of 7/31/2019.)
+   https://github.com/colleen-chen/learn--cs231n-/tree/master/classifier/neural_net.py 
    
  - knn and softmax:  
-   https://github.com/colleen-chen/learn--cs231n-/blob/master/knn.ipynb  
    https://github.com/colleen-chen/learn--cs231n-/blob/master/classifier/k_nearest_neighbor.py  
-   https://github.com/colleen-chen/learn--cs231n-/blob/master/softmax.ipynb  
+   https://github.com/colleen-chen/learn--cs231n-/blob/master/knn.ipynb  
    https://github.com/colleen-chen/learn--cs231n-/blob/master/classifier/softmax.py  
-   
+   https://github.com/colleen-chen/learn--cs231n-/blob/master/softmax.ipynb  
    
 ### Nathan Bendich:     
 
