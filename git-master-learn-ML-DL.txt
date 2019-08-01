@@ -1,0 +1,14 @@
+learn-ML-DL
+This folder is a git repo.
+Local: c:\python\learn-ML-DL
+Github: https://github.com/JennEYoon/learn-ML-DL
+Date: 8/1/2019 4:33 PM  EST
+
+Delete local master repo.
+First create a temp branch and switch to it
+
+git branch temp
+git checkout temp
+git branch -D master
+
+Then manually delete folder from File Explorer.
