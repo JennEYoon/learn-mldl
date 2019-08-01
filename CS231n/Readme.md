@@ -1,4 +1,5 @@
-# README for Stanford class CS231n convolutional neural networks for visual recognition.
+# Stanford class CS231n  
+### convolutional neural networks for visual recognition.  
 
 This is my personal learning repo.  I am learning this material with a local Meetup group.
 
