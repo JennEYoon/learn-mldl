@@ -1,4 +1,4 @@
-# My exercises and practice doing fast.ai deep learning classes
+## My exercises and practice doing fast.ai deep learning classes
 
 Machine Learning for Coders (2018 fast.v07)
 
@@ -13,7 +13,10 @@ Commits made to my fork does not count towards Github contributions graph, bad!
 
 Verify that my fork is auto merging changes from remote upstream master.
 
+### Tastks
 
+ * Deleted folder, moved to root.
+ * Move to a separate repo?
 
 
 
