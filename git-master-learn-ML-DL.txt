@@ -12,3 +12,6 @@ git checkout temp
 git branch -D master
 
 Then manually delete folder from File Explorer.
+Also check Github for master branch that has been deleted.
+
+******
