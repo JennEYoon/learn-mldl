@@ -12,3 +12,4 @@ CONDA environment "class" and installed packages.
 
 Stackoverflow answers on pywin32 and Excel-VBA.
 
+### Consolidate resources into "datasciY" repo.  
