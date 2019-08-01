@@ -42,5 +42,4 @@ Repo started on 7/17/2019 as a Github public repo.
 
 ### Author:  
 Main author is **Jennifer E. Yoon**  
-Contributors include members of a Meetup Group: 
-https://www.meetup.com/Data-Science-Machine-Learing-Collaborative-Learning-Group/  
+Contributors include members of a local Meetup Group: <a href="https://www.meetup.com/Data-Science-Machine-Learing-Collaborative-Learning-Group/">DSML Collaborative</a>
