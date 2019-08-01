@@ -1,4 +1,4 @@
-# Meetup Links to Working Code, Stanford cs231n Assignment 1  
+#@ Meetup Links to Working Code, Stanford cs231n Assignment 1  
 
 
 ### Chris Malec:  (Chris posted that he finished all parts as of 7/29/2019)
@@ -21,14 +21,13 @@
    
    
 ### Colleen Chen:  
- - Two layer nn:  (Updated link from Colleen, as of 7/31/2019.)
-   https://github.com/colleen-chen/learn--cs231n-/tree/master/classifier/neural_net.py 
+
+   https://github.com/colleen-chen/learn--cs231n-
+    
+ - Two layer nn:  (Updated link from Colleen, as of 7/31/2019.)  
+   https://github.com/colleen-chen/learn--cs231n-/tree/master/classifier/neural_net.py  
    
- - knn and softmax:  
-   https://github.com/colleen-chen/learn--cs231n-/blob/master/classifier/k_nearest_neighbor.py  
-   https://github.com/colleen-chen/learn--cs231n-/blob/master/knn.ipynb  
-   https://github.com/colleen-chen/learn--cs231n-/blob/master/classifier/softmax.py  
-   https://github.com/colleen-chen/learn--cs231n-/blob/master/softmax.ipynb  
+   https://github.com/colleen-chen/learn--cs231n-/blob/master/classifier/neural_net.py
    
 ### Nathan Bendich:     
 
