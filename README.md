@@ -1,4 +1,4 @@
-# learn-ML-DL  
+# learn-mldl
 ### My adventure in learning Python machine learning and deep learning.  
 
 I am learning Python Machine Learning and Deep Learning.  My goal is to document my progress on a GitHub repo.  
