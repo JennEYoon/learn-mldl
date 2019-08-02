@@ -12,7 +12,8 @@
     
  * Udemy DSML
     - Uploaded Matplotlib chapter, ipynbs. 8/2/2019 3:36 PM
-    - Uploaded Numpy exercises chapter.
+    - Uploaded Numpy exercises chapter.  
+    - To upload more.   
     
     
     -----------------------------------------------------------------  
