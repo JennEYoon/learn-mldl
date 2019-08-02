@@ -30,7 +30,10 @@ Briefly describe an area that you find confusing or is not adaquately covered.
 Use a pull request to make corrections or to share additional information.  Typos and grammatical fixes are always welcome.  Supporting information on any of the topics are also welcome.   
 
 #### History:  
-Started on 7/17/2019 as a Github public repo.  
+
+ * Started on 7/17/2019 as a Github public repo.  
+ * Moved Udemy data science boot camp to datasciY.com repo, date  8/2/2019
+
 
 #### Author:  Jennifer E. Yoon  
 
