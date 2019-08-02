@@ -9,8 +9,11 @@ I really enjoyed this class.  If you do most of the exercises from scratch in a 
 
 #### Author: Jennifer E Yoon in Leesburg, Virginia
 
-/================== More Class Info =====================================  
-**About the instructor:**  Jose Portilla; 4.5 Instructor Rating; 339,532  Reviews
+---------------------------------------------------------------------------------------
+
+#### About the Instructor:  
+
+**Jose Portilla**; 4.5 Instructor Rating; 339,532  Reviews
 
 Jose Portilla
 Head of Data Science, Pierian Data Inc.
@@ -18,14 +21,11 @@ Head of Data Science, Pierian Data Inc.
 
 ### Author Code for signing up.  
 
+##### Data Science and Machine Learning Bootcamp  
+
 https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/?couponCode=CURRENT_PY_DS_ML
  
-      If you take this course, make sure to use the **author coupon code** -- so the author will receive
-      95% of your money ($11 current cost).  Otherwise, Udemy takes most of the money for doing very little. :-)
-      Click this link when ready to sign up with your credit card.
-
-     
-
-
+If you take this course, make sure to use the **author coupon code** -- so the author will receive 95% of your money ($11 current cost).  Otherwise, Udemy takes most of the money for doing very little. :-)  
+Click on the code link above when ready to sign up with your credit card.
 
 #### Moved to datasciY.com repo date 8/2/2019.  
