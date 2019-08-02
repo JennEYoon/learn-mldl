@@ -10,15 +10,7 @@ I am learning Python Machine Learning and Deep Learning.  My goal is to document
       
  * Coursera.org, deeplearning.ai class 4, Convolutional Neural Networks  
       https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning  
-      
- * Udemy.com Python for Data Science and Machine Learning Bootcamp  
-      https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
-      
-      If you take this course, make sure to use the author coupon code -- so the author will receive
-      95% of your money ($11 current cost).  Otherwise, Udemy takes most of the money for doing very little. :-)
-      Click this link when ready to sign up with your credit card.
-      
-      https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/?couponCode=CURRENT_PY_DS_ML
+
     
 **Main Books:**  
  * Jake VanderPlas, Python Data Science Handbook (c 2017)  
