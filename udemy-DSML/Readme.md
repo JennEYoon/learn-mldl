@@ -1,5 +1,6 @@
-# My practice, exercises
-# Udemy.com -- Python Data Science Machine Learning Bootcamp
+## Udemy.com -- Python Data Science Machine Learning Bootcamp  
+## My practice, exercises  
+
 (By Jose Portilla at Pierian Data Inc.)
 https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
 
