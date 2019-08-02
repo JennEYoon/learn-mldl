@@ -7,7 +7,7 @@ I really enjoyed this class.  If you do most of the exercises from scratch in a 
 
 #### Author: Jennifer E Yoon in Leesburg, Virginia
 
-#### Moved to datasciY.com repo date 8/2/2019.  
+#### Moved to datasciY.com repo?  Maybe. date 8/2/2019.  
 
 ---------------------------------------------------------------------------------------
 
