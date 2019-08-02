@@ -32,7 +32,7 @@ Use a pull request to make corrections or to share additional information.  Typo
 #### History:  
 
  * Started on 7/17/2019 as a Github public repo.  
- * Renamed repo to "learn-mlds" from "learn-ML-DS".  Date 8/2/2019
+ * Renamed repo to "learn-mldl" from "learn-ML-DL".  Date 8/2/2019
 
 
 #### Author:  Jennifer E. Yoon  
