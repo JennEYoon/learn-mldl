@@ -20,4 +20,17 @@ Head of Data Science, Pierian Data Inc.
 
 ### To add author code.  
 
+ * Udemy.com Python for Data Science and Machine Learning Bootcamp  
+      https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
+      
+      If you take this course, make sure to use the **author coupon code** -- so the author will receive
+      95% of your money ($11 current cost).  Otherwise, Udemy takes most of the money for doing very little. :-)
+      Click this link when ready to sign up with your credit card.
+
+      #### Author Coupon Code -- so author will get most of the money.  
+      
+      https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/?couponCode=CURRENT_PY_DS_ML
+
+
+
 #### Moved to datasciY.com repo date 8/2/2019.  
