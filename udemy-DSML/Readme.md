@@ -10,7 +10,7 @@ I really enjoyed this class.  If you do most of the exercises from scratch in a 
 #### Tasks as of 8/3/2019   
 
  * Uploaded folders for numpy, pandas, matplotlib
- * Upload to do exercide details ipynbs
+ * Upload to do -- my exercise details ipynbs
  
  
 ---------------------------------------------------------------------------------------
