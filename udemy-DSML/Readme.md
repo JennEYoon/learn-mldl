@@ -6,8 +6,8 @@ I really enjoyed this class.  If you do most of the exercises from scratch in a 
 ### Chapters with My Exercises  
 
 #### Part 1: Data Wrangling  
- * Chapter 2: Numpy -- matrix vectorization, data reshaping     
- * Chapter 3 & 4: Pandas - Data wrangling, Plotting, SQL tables    
+ * Chapter 2: Numpy -- Matrix Operation   
+ * Chapter 3 & 4: Pandas - Data wrangling  
  * Chapter 5: Matplotlib - Plotting   
  * Chapter 6: Seaborn - Plotting 
  * Chapter 7: Pandas Built-in Plotting
