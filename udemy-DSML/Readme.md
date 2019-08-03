@@ -3,7 +3,7 @@
 
 I really enjoyed this class.  If you do most of the exercises from scratch in a new Jupyter notebook, instead of only watching the vieos, you will become a competent user of basic data science libraries (Jupyter notebook/shell, numpy, pandas, matplotlib and sklearn).  One friend found this class to be unfulfilling because it does not examine much math or the logic of  algorithms used in the libraries.  I like it just fine for quickly learning the most useful Python library commands for doing Machine Learning.  It's a beginner version of Jake VanderPlas's Python Data Science Handbook.
 
-#### Date: 2018 March - 2019 June
+#### Date: 2018 April - 2019 June
 
 #### Author: Jennifer E Yoon in Leesburg, Virginia
 
