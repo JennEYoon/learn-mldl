@@ -1,14 +1,16 @@
 # Tasks for learn-MD-DL github repo.
 
-#### July 29, 2019 3:26 PM  
+#### Aug 5, 2019 12:09 PM
 
  * Focus on CS231n two-layer nn this week!
-   *** get it done before next Meetup.
+   *** attempt before next Meetup.
     - Chris's math and code review
-    - Deeplearning.ai Class 1 wk2 - rewatch backprop math, partial derivative. -- done.
-      * Class 1 wk2, do notebooks.
+    - Get help from 2lnn codes Chris, Colleen, Nathan.
+    - Deeplearning.ai Class 1 - wk2, do notebooks (numpy, simple nn classifier with custom classes)
     - Deeplearning.ai Class 4, wk1 - do notebook, cnn example.  
     - CS231n notes on cnn, optimization, back-prop partial derivative of activation function (ReLU, softmax, svm).
+    
+ * fast.ai master upstream  fork not-syncing.  How?   
     
  * Udemy DSML
     - Uploaded Matplotlib chapter, ipynbs. 8/2/2019 3:36 PM
