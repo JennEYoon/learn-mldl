@@ -10,7 +10,9 @@
     - Deeplearning.ai Class 4, wk1 - do notebook, cnn example.  
     - CS231n notes on cnn, optimization, back-prop partial derivative of activation function (ReLU, softmax, svm).
     
- * fast.ai master upstream  fork not-syncing.  How?   
+ * fast.ai master upstream  fork not-syncing.  How?  Fetch?
+    - pull request is submitting changes to open source project.  Not syncing my fork of upstream.
+    - If I create a fork on my computer, then pull from upstream original, not my github fork, it will work.
     
  * Udemy DSML
     - Uploaded Matplotlib chapter, ipynbs. 8/2/2019 3:36 PM
