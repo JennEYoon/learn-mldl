@@ -14,12 +14,6 @@
     - pull request is submitting changes to open source project.  Not syncing my fork of upstream.
     - If I create a fork on my computer, then pull from upstream original, not my github fork, it will work.
     
- * Udemy DSML
-    - Uploaded Matplotlib chapter, ipynbs. 8/2/2019 3:36 PM
-    - Uploaded Numpy exercises chapter.  
-    - To upload more.   
-    
-    
     -----------------------------------------------------------------  
  #### 7/20/2019 update  
  
