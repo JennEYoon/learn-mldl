@@ -1,8 +1,8 @@
-learn-ML-DL
+learn-mldl
 This folder is a git repo.
-Local: c:\python\learn-ML-DL
-Github: https://github.com/JennEYoon/learn-ML-DL
-Date: 8/1/2019 4:33 PM  EST
+Local: c:\python\learn-mldl
+Github: https://github.com/JennEYoon/learn-mldl
+Date: 8/1/2019 4:33 PM  EST, updated 8/5/2019 8:57 PM 
 
 Delete local master repo.
 First create a temp branch and switch to it
