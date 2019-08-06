@@ -4,14 +4,5 @@ Local: c:\python\learn-mldl
 Github: https://github.com/JennEYoon/learn-mldl
 Date: 8/1/2019 4:33 PM  EST, updated 8/5/2019 8:57 PM 
 
-Delete local master repo.
-First create a temp branch and switch to it
-
-git branch temp
-git checkout temp
-git branch -D master
-
-Then manually delete folder from File Explorer.
-Also check Github for master branch that has been deleted.
 
 ******
