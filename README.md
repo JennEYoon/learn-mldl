@@ -33,7 +33,7 @@ Use a pull request to make corrections or to share additional information.  Typo
 
  * Started on 7/17/2019 as a Github public repo.  
  * Renamed repo to "learn-mldl" from "learn-ML-DL".  Date 8/2/2019
-
+ * Moved Udemy-dsml folder to datasciY repo.  Renamed udemy-ds.  8/5/2019 8:51 PM  
 
 #### Author:  Jennifer E. Yoon  
 
