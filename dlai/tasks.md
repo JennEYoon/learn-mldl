@@ -16,5 +16,6 @@
 ### 8/7/2019 Tasks update
 
  * Critical -- focus on code for 2lnn.  Colleen will not be at meetup to present.
+ * Suppliment with cifar 10 notebook from fastai 2018 version dl1 class code example.
  
 #### Move to a separate repo - no keep here w. CS231n  
