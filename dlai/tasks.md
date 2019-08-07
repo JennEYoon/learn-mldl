@@ -15,6 +15,6 @@
  
 ### 8/7/2019 Tasks update
 
- * Critical -- focus on code for 2lnn.  Colleen will not be at meetup topresent.
+ * Critical -- focus on code for 2lnn.  Colleen will not be at meetup to present.
  
 #### Move to a separate repo - no keep here w. CS231n  
