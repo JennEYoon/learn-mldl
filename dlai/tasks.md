@@ -3,7 +3,7 @@
 ### 7/29/2019 3:22 PM:
 
 - Class 1: On week 2, python help secion.
-  - Redo backprop partial derivative calculation.
+  - Redo backprop partial derivative calculation - done
   - Read Chris's backprop derivative math notes
   - Read notes for CS231n and try to do two layer nn soon.
   
@@ -13,4 +13,8 @@
   
  - NOTEBOOKS cannot be saved from iPAD.  Download from computer first.
  
-#### Move to a separate repo?    
+### 8/7/2019 Tasks update
+
+ * Critical -- focus on code for 2lnn.  Colleen will not be at meetup topresent.
+ 
+#### Move to a separate repo - no keep here w. CS231n  
