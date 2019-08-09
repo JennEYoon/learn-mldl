@@ -7,15 +7,21 @@ I am learning Python Machine Learning and Deep Learning.  My goal is to document
 
  * Stanford CS231n Spring 2019, Convolutional Neural Networks for Visual Recognition  
       http://cs231n.stanford.edu/  
+      http://faculty.marshall.usc.edu/gareth-james/ISL/  
       
  * Coursera.org, deeplearning.ai class 4, Convolutional Neural Networks  
       https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning  
-
+   
     
 **Main Books:**  
  * Jake VanderPlas, Python Data Science Handbook (c 2017)  
+   - https://github.com/jakevdp/PythonDataScienceHandbook  
+ 
  * Gareth James et. al., An Introduction to Statistical Learning: with Applications in R (c 2013)  
+   - https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about  
+ 
  * Francois Chollet, Deep Learning with Python (c 2018)  
+   - https://github.com/fchollet/deep-learning-with-python-notebooks  
 
 Folder structure will be either by topic or by class name.  
   
