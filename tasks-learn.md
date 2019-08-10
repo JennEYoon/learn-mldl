@@ -29,7 +29,7 @@
 #### fast.ai master upstream  fork not-syncing.  How?  Fetch?  
     * pull request is submitting changes to open source project.  Not syncing my fork of upstream.
     
-    #### How to Sync FORK with Upstread Original Master:  
+#### How to Sync FORK with Upstread Original Master:  
          - Need to clone to my laptop from upstream URL.
          - Then merge with my local working files on my computer.
          - Then push to my Github FORK!  to match fork with upstream original master.
