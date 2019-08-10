@@ -24,14 +24,15 @@
     - Deeplearning.ai Class 1 - wk2, do notebooks (numpy, simple nn classifier with custom classes)
     - Deeplearning.ai Class 4, wk1 - do notebook, cnn example.  
     - CS231n notes on cnn, optimization, back-prop partial derivative of activation function (ReLU, softmax, svm).
-    #### fastai 2018 dl1, cifar10 noteboook -- read code and focus on this!
+     ***fastai 2018 dl1, cifar10 noteboook -- read code and focus on this!***
     
- * fast.ai master upstream  fork not-syncing.  How?  Fetch?
-    - pull request is submitting changes to open source project.  Not syncing my fork of upstream.
- *  How to Sync FORK with Upstread Original Master:
-    - Need to clone to my laptop from upstream URL.
-    - Then merge with my local working files on my computer.
-    - Then push to my Github FORK!  to match fork with upstream original master.
+#### fast.ai master upstream  fork not-syncing.  How?  Fetch?  
+    * pull request is submitting changes to open source project.  Not syncing my fork of upstream.
+    
+    #### How to Sync FORK with Upstread Original Master:  
+         - Need to clone to my laptop from upstream URL.
+         - Then merge with my local working files on my computer.
+         - Then push to my Github FORK!  to match fork with upstream original master.
     
 #### Update August 10, 2019  12:46 PM  
 
