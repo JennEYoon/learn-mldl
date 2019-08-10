@@ -33,7 +33,10 @@
     - Then merge with my local working files on my computer.
     - Then push to my Github FORK!  to match fork with upstream original master.
     
-#### Uploaded Chris's 2lnn folder files, Uploaded my own working files for CS231n
-  * August 10, 2019  12:46 PM
+#### Update August 10, 2019  12:46 PM  
+
+   * Uploaded Chris's 2lnn folder files
+   * Uploaded my own working files for CS231n
+   
     -----------------------------------------------------------------  
 
