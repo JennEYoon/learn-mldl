@@ -1,6 +1,0 @@
-Test of git uploading from local master.
-7/30/2019 5:15 PM
-
-Upload successful, tutorials render notebook view on github
-7/30/2019 5:19 PM 
-
