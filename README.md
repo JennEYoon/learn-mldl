@@ -29,9 +29,7 @@ I am also a member of a Meetup group in Sterling, Virginia that are learning Sta
  * https://www.meetup.com/Data-Science-Machine-Learing-Collaborative-Learning-Group/  
 
 
-#### How to Contribute  
-If you would like me to expand upon a topic or cover a new topic, open a new issue.  
-Briefly describe an area that you find confusing or is not adaquately covered.  
+#### Correcting My Errors
 
 Use a pull request to make corrections or to share additional information.  Typos and grammatical fixes are always welcome.  Supporting information on any of the topics are also welcome.   
 
