@@ -1,4 +1,4 @@
-#  Books uses as reference for CS 231n Stanford 2019 Class
+#  Books & External Resources for CS 231n Stanford 2019 Class
 
 To Upload
 
