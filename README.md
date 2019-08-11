@@ -1,8 +1,9 @@
-# My adventure in learning Python machine learning and deep learning.  
+## My learning adventure in Python machine learning and deep learning.  
 
 I am learning Python Machine Learning and Deep Learning.  My goal is to document my progress on a GitHub repo.  
 
 ### Author:  Jennifer E. Yoon  
+
 
 **Main Classes:**  
 
