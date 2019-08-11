@@ -20,9 +20,6 @@ I am learning Python Machine Learning and Deep Learning.  My goal is to document
  * Jake VanderPlas, Python Data Science Handbook (c 2017)  
    - https://github.com/jakevdp/PythonDataScienceHandbook  
  
- * Gareth James et. al., An Introduction to Statistical Learning: with Applications in R (c 2013)  
-   - https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about  
- 
  * Francois Chollet, Deep Learning with Python (c 2018)  
    - https://github.com/fchollet/deep-learning-with-python-notebooks  
 
