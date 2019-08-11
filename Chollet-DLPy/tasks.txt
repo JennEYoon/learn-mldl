@@ -1,1 +1,4 @@
 Upload exercises from Francois Chollet Deep Learning with Python book (c 2018)
+
+CIFAR 10 example, chapter 8, 10
+Use Tensor Flow to load dataset cifar10
