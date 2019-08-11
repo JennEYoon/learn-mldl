@@ -2,8 +2,9 @@
 
 I am learning Python Machine Learning and Deep Learning.  My goal is to document my progress on a GitHub repo.  
 
-### Author:  Jennifer E. Yoon  
+### Author:  Jennifer E. Yoon   
 
+  
 
 **Main Classes:**  
 
