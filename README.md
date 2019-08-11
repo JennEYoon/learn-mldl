@@ -1,7 +1,8 @@
-# learn-mldl
-### My adventure in learning Python machine learning and deep learning.  
+# My adventure in learning Python machine learning and deep learning.  
 
 I am learning Python Machine Learning and Deep Learning.  My goal is to document my progress on a GitHub repo.  
+
+### Author:  Jennifer E. Yoon  
 
 **Main Classes:**  
 
@@ -39,5 +40,5 @@ Use a pull request to make corrections or to share additional information.  Typo
  * Renamed repo to "learn-mldl" from "learn-ML-DL".  Date 8/2/2019
  * Moved Udemy-dsml folder to datasciY repo.  Renamed udemy-ds.  8/5/2019 8:51 PM  
 
-#### Author:  Jennifer E. Yoon  
+
 
