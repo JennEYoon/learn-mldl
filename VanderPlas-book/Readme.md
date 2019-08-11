@@ -3,6 +3,6 @@
 
 Example Jupyter Notebooks, my own trials, other resources.
 
-Link to eBook from my Google Drive:  Python Data Science Handbook, VanderPlas (c 2017)
+My Google Drive shareable link:  Python Data Science Handbook, VanderPlas (c 2017)
 
-https://drive.google.com/file/d/1_QUZKxzqp2ecdVxuzBW2URaKX_QAk9gW/view?usp=sharing
+https://drive.google.com/file/d/1gb_48QCsQoUfTp_m7K76Gafj4y-4jnl3/view?usp=sharing  
