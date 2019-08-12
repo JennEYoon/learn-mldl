@@ -40,4 +40,11 @@
    * Uploaded my own working files for CS231n
    
     -----------------------------------------------------------------  
+#### Tasks
 
+   * CS231n folder, get rid of duplicates.  
+   * Local C:\python and C:\gdrive\_python  get rid of duplicates.
+   * Load data with tensor flow load datasets command.
+   * Keep just 1 copy of unzipped cifar10 data on local computer, not on github.  Too big.
+   
+   
