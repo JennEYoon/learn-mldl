@@ -52,3 +52,4 @@
    * Both Colleen Chen and Peter will not make it today.
    * Chris Maleck is also absent - so no one who did the project will be there!!!
    
+## Make more edits later, after Meetup today.  
