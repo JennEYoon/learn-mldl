@@ -47,4 +47,6 @@
    * Load data with tensor flow load datasets command.
    * Keep just 1 copy of unzipped cifar10 data on local computer, not on github.  Too big.
    
-   
+#### Present to meetup -- deeplearning.ai class1 wk2, class4 wk1.  
+   * pose as alternative to cs231n
+  
