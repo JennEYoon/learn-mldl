@@ -49,4 +49,5 @@
    
 #### Present to meetup -- deeplearning.ai class1 wk2, class4 wk1.  
    * pose as alternative to cs231n
-  
+   * Both Colleen Chen and Peter will not make it today.
+   
