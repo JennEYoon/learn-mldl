@@ -1,4 +1,6 @@
-# Tasks for Tensor Flow class, DeepLearning.AI -- Coursera.org  
+## Tasks for Tensor Flow class -- deeplearning.ai, Coursera.org  
+
+>Note: Exercise notebooks are locked for auditors, but downloaded them from a student's Github account.
 
 #### Week1:
 
