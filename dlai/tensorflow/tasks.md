@@ -13,7 +13,8 @@
  * Housing Price prediction notebook  
    https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Exercises/Exercise%201%20-%20House%20Prices/Exercise_1_House_Prices_Question.ipynb  
    
-    * Exercise
+  * Exercise  
+    https://github.com/JennEYoon/learn-mldl/blob/master/dlai/tensorflow/Exercises/Exercise%201%20-%20House%20Prices/Exercise_1_House_Prices_Answer.ipynb
  
  #### Week2:
  
