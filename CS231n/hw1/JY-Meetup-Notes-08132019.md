@@ -1,9 +1,10 @@
-# Meetup Outline 8/13/2019 – Jennifer Yoon  
+# Meetup Notes 8/13/2019 – Jennifer Yoon  
 
 Coursera Deep Learning AI Specialization
  - https://www.coursera.org/specializations/deep-learning?
  - There are 5 courses in total
- - Solutions to all programming notebooks are available. (https://github.com/JennEYoon/learn-mldl/tree/master/dlai/source)
+ - Solutions to all programming notebooks are available. 
+ - (https://github.com/JennEYoon/learn-mldl/tree/master/dlai/source)
 
 #### Deeplearning.ai  Class4, Week1, Convolutional Neural Networks  
  -	Vertical edge detector
