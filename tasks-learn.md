@@ -47,9 +47,14 @@
    * Load data with tensor flow load datasets command.
    * Keep just 1 copy of unzipped cifar10 data on local computer, not on github.  Too big.
    
-#### Present to meetup -- deeplearning.ai class1 wk2, class4 wk1.  
-   * pose as alternative to cs231n
+#### Present to meetup -- deeplearning.ai class1 wk2, class4 wk1, fast.ai deep learning part 1 and part 2.  
+   * pose as augmentation to cs231n
    * Both Colleen Chen and Peter will not make it today.
    * Chris Maleck is also absent - so no one who did the project will be there!!!
+   * Julius was there but didn't get far enought on project to be comfortable presenting.
+   * brief mention of how knn distance is calculated.
    
-## Make more edits later, after Meetup today.  
+#### Upload links to my discussion  
+   * done - MS Word file and Markdown file - in CS231/hw1 folder.  
+   
+   
