@@ -56,5 +56,5 @@
    
 #### Upload links to my discussion  
    * done - MS Word file and Markdown file - in CS231/hw1 folder.  
-   
+   * done -- edited markdown file, Meetup Notes for 8/13/2019. 
    
