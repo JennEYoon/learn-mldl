@@ -1,6 +1,6 @@
 ## Tasks for Tensor Flow class -- deeplearning.ai, Coursera.org  
 
->Note: Exercise notebooks are locked for auditors, but downloaded them from a student's Github account.
+>Note: Exercise notebooks are locked for auditors, but I downloaded them from a student's Github page.
 
 #### Week1:
 
