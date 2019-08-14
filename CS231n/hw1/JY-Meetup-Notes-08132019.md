@@ -1,10 +1,12 @@
 # Meetup Notes 8/13/2019 – Jennifer Yoon  
 
-Coursera Deep Learning AI Specialization
+### Coursera Deep Learning AI Specialization
  - https://www.coursera.org/specializations/deep-learning?
  - There are 5 courses in total
  - Solutions to all programming notebooks are available. 
  - (https://github.com/JennEYoon/learn-mldl/tree/master/dlai/source)
+ - Easy tensor flow introduction is "6th class" of this specialization
+ - https://www.coursera.org/learn/introduction-tensorflow/home/welcome
 
 #### Deeplearning.ai  Class4, Week1, Convolutional Neural Networks  
  -	Vertical edge detector
@@ -24,7 +26,7 @@ Coursera Deep Learning AI Specialization
  -	https://github.com/JennEYoon/learn-mldl/blob/master/dlai/source/Neural-networks-Deep-learning/Week2/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv4.ipynb
 
 
-#### Fast.ai  https://www.fast.ai/  
+### Fast.ai  https://www.fast.ai/  
 Practical Deep Learning for Coders (2019 version) - Part 1
  - https://course.fast.ai/videos/?lesson=1
  - Transfer learning, can start making good prediction models in a few weeks.  Can use for work.
@@ -33,7 +35,8 @@ Deep Learning from the Foundations (2019 version) - Part 2
  - https://course.fast.ai/videos/?lesson=8
  - Build all tools from scratch using Tensor Flow.
 
-#### KNN - Stanford CS231n part 1 of Assignment 1    
+
+### KNN - Stanford CS231n part 1 of Assignment 1    
  -	A way to calculate distance between data points
  -	Each image is one data point
  -	Closest distance – is closest neighbor
