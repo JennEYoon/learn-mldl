@@ -3,8 +3,8 @@
 ### Coursera Deep Learning AI Specialization
  - https://www.coursera.org/specializations/deep-learning?
  - There are 5 courses in total
- - An easy tensor flow introduction is a "6th class."  
-    * https://www.coursera.org/learn/introduction-tensorflow/home/welcome
+ - An easy tensor flow introduction is the "6th class."  
+    * https://www.coursera.org/learn/introduction-tensorflow
  - Solutions to all programming notebooks are available.   
     * https://github.com/JennEYoon/learn-mldl/tree/master/dlai/source
 
