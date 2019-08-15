@@ -1,0 +1,1 @@
+Items in Classifiers moved to each part's folders. 
