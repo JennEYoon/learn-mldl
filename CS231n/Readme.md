@@ -1,8 +1,16 @@
-## Stanford class CS231n  
-### convolutional neural networks for visual recognition  
+# Stanford class CS231n  
+## Convolutional Neural Networks for Visual Recognition  
 
-This is my personal learning repo.  I am learning this material with a local Meetup group.
+#### This is my personal learning repo.  I am learning this material with a local Meetup group.
 
-Assignment #1: Datasource CIFAR-10 image files
-28 x 28 3 channel RGB color images
-60,000 labelled data sets for training and testing machine learning models.
+There are 3 assignments in this class, plus in-class midterm and final exams and a major final project.  Our meetup group will not attempt the exams and final project, but we will attempt to code all homework assignments.
+
+#### The first assignment uses image dataset from CIFAR-10.
+
+The dataset has 60,000 images of size (32 x 32 x 3 RGB channels).  Each image is labelled with a correct classification to use in training deep learning models.  Each image is flattened into a long row of 3072 pixel values, in unsigned integer number format (uint8).  The numbers range from 0 for black to 255 for brightest in each color channel of Red, Green, or Blue.  
+
+  * Example Image to load later with classification.
+  
+  * Pillow example of Jennifer Lawrence to load later.  
+  
+
