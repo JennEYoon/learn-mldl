@@ -1,11 +1,12 @@
-### Copy data to here <<-- Can't!  
+# HW1 uses CIFAR10 Dataset
 
-Data size too big, github will not allow over 100 MB.
-Need to use Large Data File app, not free.
+ * Link to data:  https://www.cs.toronto.edu/~kriz/cifar.html
 
-To DO:  Add linke to my Gdrive with ONE set of datasets.!!!
+#### Data NOT uploaded/synced with Github  
 
-Try TensorFlow for loading CIFAR-10 dataset.
+Data size is too big, github will not allow over 100 MB on the free account.
+Need to use Large Data File app, which is not free.
 
- * Link to CIFAR-10 dataset:
-     https://www.cs.toronto.edu/~kriz/cifar.html
+#### To DO:  Try TensorFlow for loading CIFAR-10 dataset
+
+
