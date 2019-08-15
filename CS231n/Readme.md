@@ -3,6 +3,9 @@
 
 #### This is my personal learning repo.  I am learning this material with a local Meetup group.
 
+Link to ***Data Science and Machine Learning Collaborative Learning Group:***  
+https://www.meetup.com/Data-Science-Machine-Learing-Collaborative-Learning-Group/  
+
 There are 3 assignments in this class, plus in-class midterm and final exams and a major final project.  Our meetup group will not attempt the exams and final project, but we will attempt to code all homework assignments.
 
 #### The first assignment uses image dataset from CIFAR-10.
