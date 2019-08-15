@@ -57,7 +57,14 @@ terminado==0.8.2
 testpath==0.4.2
 tornado==6.0.2
 traitlets==4.3.2
-urllib3==1.24.1
+#### urllib3==1.24.1 was replace with urllib3>=1.24.2 due to Security Alert at Github.
+urllib3>=1.24.2
 wcwidth==0.1.7
 webencodings==0.5.1
 widgetsnbextension==3.4.2
+
+Remediation
+Upgrade urllib3 to version 1.24.2 or later. For example:
+
+urllib3>=1.24.2
+Always verify the validity and compatibility of suggestions with your codebase.
