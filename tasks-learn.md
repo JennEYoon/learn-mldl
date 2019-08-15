@@ -58,3 +58,7 @@
    * done - MS Word file and Markdown file - in CS231/hw1 folder.  
    * done -- edited markdown file, Meetup Notes for 8/13/2019. 
    
+#### Task 8/15/2019  
+
+    * Find out how to add Google Backup & Sync temp files to .gitignore, so my local git won't say there are untracked files to add.
+    
