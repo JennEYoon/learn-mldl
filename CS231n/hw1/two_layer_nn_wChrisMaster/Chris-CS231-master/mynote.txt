@@ -1,0 +1,5 @@
+Chris's repo CS231n -- last updated 18 days ago, 8/1/2019
+neural-net.py file, 19 days ago two-layer file.
+
+Downloaded 8/16/2019.  All changes up to date, keep file structure.
+Jennifer Yoon
