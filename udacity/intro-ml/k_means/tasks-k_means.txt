@@ -1,0 +1,9 @@
+Module feature_format.py copied from "tools" folder to kmeans.
+
+Don't need os.sys.append(... tools)
+
+8/2/2019 5:25 PM
+
+Git push to Github changes. -- done.
+
+Work on notebook files, upload to website.

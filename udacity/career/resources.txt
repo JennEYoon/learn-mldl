@@ -1,0 +1,22 @@
+# To upload career resources  
+
+### Git and Github  
+* git daily uploading -- done 2 weeks, daily update to continue.
+* git commands practice -- done on bash WSL.  
+* Program bash git not working on Windows, skip.
+* git profile flesh out -- done
+* git README for each repo -- done
+
+* Uploaded Udacity Nano-degree style guide.
+* Uploaded Udactiy Github Commit message styles guide.
+
+### LinkedIn Profile review -- done
+
+### Blog coding portfolio website -- done
+
+### Resume -- review based on Udacity and GetAJob booklet.
+
+### Cover Letter -- review based on Udacity and Book on Great Cover Letters.
+
+### Jobs Descriptions -- to do, based on GetAJob booklet
+
