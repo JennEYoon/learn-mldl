@@ -6,6 +6,6 @@
 Data size is too big, github will not allow over 100 MB on the free account.  
 Need to use Large Data File app, which is not free.  
 
-#### To DO: Try TensorFlow for loading CIFAR-10 dataset
+#### To Do: Try TensorFlow for loading CIFAR-10 dataset
 
 

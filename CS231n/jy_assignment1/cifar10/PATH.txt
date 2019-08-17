@@ -1,0 +1,8 @@
+PATH to local datasets
+
+C:\python\work\w_231\cifar-10-batches-py\
+
+batches.meta
+data_batch_1 to 5
+test_batch
+readme.html
