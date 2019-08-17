@@ -1,4 +1,4 @@
-# udacity-ds
+# udacity
 #### My working files for Udacity data science and data analyst nano degrees.  
 
 I started taking Udacity's data analyst nano-degree is the Fall of 2015 to Spring 2016.  Then I needed to pause because of work demands.  In July 2019 I rediscovered Udacity and learned they have added a Data Science nano degree.  They also revamped the program to make the earlier classes free and charge much more for the later classes, which are the meat of the degrees.  I decided to audit both for now.  I may decide to take them for credit later on.  I like to attempt to do the programming assignments first, and get most of them working, before starting to pay for the class.  I am cheap that way. ;-)  
@@ -21,3 +21,6 @@ After evaluating many data science boot camps recently, many of which charge $17
  * Tasks for 8/5/2019 12:35 PM  
    - Titanic project and Baseball project
      - Do both and post on website, datasciY.com
+     
+     
+### Repo merged with learn-mldl repo on 8/17/2019  
