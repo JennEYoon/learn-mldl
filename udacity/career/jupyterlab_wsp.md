@@ -6,3 +6,13 @@
    * Even though .json file lists all open files and in proper markdown views.
    * Only seem to save settings for Jupyte Lab app.
    
+#### cs231 Workspace setting for Jupyter Lab  
+
+ * Open all markdown files in preview for 
+   * neural-nets 1 to 3, case study, 
+   * optimize 1 dn 2
+   * beginning classify, linear-classify
+   
+ * use split, on  2nd window
+   * Chris's 2lnn, neural-net.py
+   * my scratchpad ipynb
