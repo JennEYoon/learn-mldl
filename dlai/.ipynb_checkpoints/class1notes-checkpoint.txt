@@ -1,0 +1,4 @@
+# Week 2 numpy vectorize
+
+     Logistic equation 70% accuracy with one binary class. 
+     
