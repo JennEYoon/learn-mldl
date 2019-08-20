@@ -16,3 +16,9 @@
  * use split, on  2nd window
    * Chris's 2lnn, neural-net.py
    * my scratchpad ipynb
+
+#### Other Notes on Jupyter Lab  
+
+ * Fixed node.js error messages -- installed newer node.js
+ * Later -- how to load extension manager?  Can't change any settings.
+ * Load extention for code folding.
