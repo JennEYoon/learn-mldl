@@ -2,3 +2,6 @@ Upload exercises from Francois Chollet Deep Learning with Python book (c 2018)
 
 CIFAR 10 example, chapter 8, 10
 Use Tensor Flow to load dataset cifar10
+Can load tensor flow to windows 10 machine.
+Maybe Ubuntu WSL?  With conda environment?  Try
+8/23/2019
