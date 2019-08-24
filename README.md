@@ -44,6 +44,6 @@ Use a pull request to make corrections or to share additional information.  Typo
    Vanderplas machine learning book.
  * Renamed repo to "learn-mldl" from "learn-ML-DL".  Date 8/2/2019
  * Move Udemy-dsml folder to datasciY repo.  Rename "udemy."
- * Add udacity folder -- data science, machine learning, career folder.
+ * Add Udacity folder -- data science, machine learning, career folder.
 
 
