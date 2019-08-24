@@ -40,8 +40,10 @@ Use a pull request to make corrections or to share additional information.  Typo
 #### History:  
 
  * Started on 7/17/2019 as a Github public repo.  
+ * Add folders for CS231n, dlai (deep learning .ai), Chollet-DLPy book, 
+   Vanderplas machine learning book.
  * Renamed repo to "learn-mldl" from "learn-ML-DL".  Date 8/2/2019
- * Removed Udemy-dsml folder to datasciY repo.  Renamed udemy-ds.  8/5/2019 8:51 PM  
+ * Move Udemy-dsml folder to datasciY repo.  Rename "udemy."
  * Add udacity folder -- data science, machine learning, career folder.
 
 
