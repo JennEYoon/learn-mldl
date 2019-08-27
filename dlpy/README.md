@@ -3,8 +3,8 @@
 Upload my exercises for this book.
 
  * Book link:
-   https://drive.google.com/open?id=1j7FalY2EV4s2NkRtz5xSLFXGOpJnwOev  
    (Deleted book from Github, too large 13.3 MB.)
+   (Also removed link to my Google Drive link.  Copyrighted.)
 
   * CIFAR 10 example, chapter 8, 10  
       Use Tensor Flow to load dataset cifar10  
