@@ -1,0 +1,32 @@
+# fastai setup -- Symlink Symbols, works in Python 3.6+
+
+stack overflow
+
+0
+
+Strings in the shape of:
+
+f'{path}/*.*'
+are called f-strings and were introduced in Python3.6. That's why you get the SyntaxError - for versions lower than Python3.6 a SyntaxError will be raised, as this syntax just doesn't exist in lower versions.
+
+So obviously fast-ai is programmed for Python3.6 or higher.
+
+When you take a look at the installation issues (you have to scroll down a bit),
+you can see under Is My System Supported? the first point:
+
+Python: You need to have python 3.6 or higher
+
+So I'm afraid updating your python is the easiest way to solve the problem!
+
+If you like to learn more about f-strings you can take a look here: https://www.python.org/dev/peps/pep-0498/
+
+shareeditflag
+edited Nov 20 '18 at 17:52
+answered Nov 12 '18 at 8:55
+
+blue-phoenox
+5,8721212 gold badges2727 silver badges6060 bronze badges
+ 
+Thanks for the response. I installed fastai on python 3.6.6 as well. It allows me to do import fastai but doesn't allow me to import fastai.dataset. It says the package dataset does not exist. However, I do need the module dataset. – Fan Nov 12 '18 at 17:34
+ 
+@Fan I'm not sure, but I believe it changed to fastai.datasets - can you try that? So import fastai.datasets then. – blue-phoenox Nov 12 '18 at 18:05 

@@ -1,5 +1,0 @@
-# Introduction to Machine Learning resources  
-
-To add working files here.
-
-Numpy vectorize exercises.

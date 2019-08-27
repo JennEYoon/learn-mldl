@@ -1,0 +1,71 @@
+#  Fastai setup -- from Stack Overflow -- 
+AWS setup on Windows with fastai v 0.7 in 2018.
+
+stack overflow
+
+AttributeError: module 'PIL.Image' has no attribute 'register_extensions'
+Ask Question
+Asked 1 year, 6 months ago
+Active 7 months ago
+Viewed 12k times
+
+21
+
+
+5
+I was running lesson1 of fast.ai in google-colab. When I came to the line
+
+img = plt.imread(f'{PATH}valid/cats/{files[0]}')
+
+plt.imshow(img);
+It didn't show an image. Instead I got an error:
+
+AttributeError: module 'PIL.Image' has no attribute 'register_extensions'
+What could be causing this?
+4
+
+run these 3 lines at the start of your colab notebook
+
+!pip install Pillow==4.0.0
+!pip install PIL
+!pip install image
+I was also struggling with the same issue. But this has worked for me. https://pillow.readthedocs.io/en/3.1.x/reference/Image.html
+
+shareeditflag
+edited Dec 2 '18 at 11:02
+answered Dec 2 '18 at 10:54
+
+van neilsen
+40244 silver badges1818 bronze badges
+add a comment
+
+3
+
+Your installed Pillow version is not up-to-date. Run the following:
+
+import PIL
+print(PIL.PILLOW_VERSION)
+It will probably be 4.0.0. If so, run the following commands:
+
+!pip uninstall Pillow
+!pip install Pillow==5.3.0
+Then restart your runtime (press CTRL + M ., or Runtime --> Restart runtime from the menu). Run the first set of commands again to ensure your current PIL version is 5.3.0.
+
+shareeditflag
+edited Jan 5 at 22:58
+answered Dec 16 '18 at 5:53
+
+Sia
+30222 silver badges88 bronze badges
+add a comment
+
+2
+
+Next time, you start your colab VM, be sure to comment out the following two lines (i.e do not run them)
+
+#%reload_ext autoreload        <------------— comment out 
+#%autoreload 0                 <------------— comment out
+%matplotlib inline
+Just to be safe, I also reinstalled my PIL
+
+!pip install --no-cache-dir -I pillow

@@ -1,0 +1,22 @@
+#  fastai setup -- stack overflow -- CoLab adding libraries. 
+
+***
+Installing library in google colab for all notebooks
+Ask Question
+Asked 10 months ago
+Active 10 months ago
+Viewed 266 times
+
+I am learning fastai so I wanted all my notebooks to have it. Right now, I have to pip install it every time I make a new notebook. Is there a way to make it default for all my notebooks?
+
+python google-colaboratory
+While Azure Notebooks have a startup task for Libraries, I could not find similar stuff for Google Colaboratory while having a quick look at this awesome tool.
+
+Installing libraries that are NOT in the default (Python) runtime is an explicit task to setup the environment for task at hand. That might change in near future with regard to a rapid platform adoption of fastai.
+
+Convenience options
+
+You might connect to a local runtime, a local Anaconda installation with fastai installed
+You manage dependencies in a requirements.txt file and have a first cell !pip install -r requirements.txt
+Installing fastai might become a Code snippet that you can insert conveniently
+By the way, I really like the idea behind code snippets. There is room for snippets provided by community or snippets managed in user scope.
