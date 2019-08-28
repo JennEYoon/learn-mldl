@@ -79,7 +79,12 @@
   * Windows 10 with CMD.exe  
     Full repo copied to  C:\python\work\w_fastai\fastai  (version 1.0 top level)
      * version 0.7 in sub-level  ..\old\fastai\  
-      - CMD.exe -- fastai version 1.0 may also work here.
+      - CMD.exe -- fastai version 1.0 may also work here -- YES!
+         - C:\python\work\w_fastai\class2019\course-v3-master\nbs\dl1
+           and .\images
+           Notebooks in this folder successfully called fastai.vision module.  
+           Successfully called jpg file in .\images folder.  
+           Github CANNOT render notebooks correctly with "raw" cell, even though it works fine on local computer.
       - Some sort of path twicking at the top of each notebook to work with version 0.7.
       - **Added User Env Path: C:\python\work\w_fastai\fastai\old\fastai**
       - May need "conda install" into new windows env.  Use Yaml file and setup new env for v 0.7.
