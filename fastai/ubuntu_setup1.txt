@@ -16,15 +16,23 @@ Search: Win + s
 Run: Win + r 
 File Explorer:  \\wsl$\Ubuntu
 
+   #### Update 8/20/2019 4:55 PM  
+   $home/jyoon now 10.4 GB size, with fastai repo, full conda3 pkgs.
+   --------------------------------------------
+
 Apple keyboard:  Command-clover-key is Win key.
 Option-alt key + Tab, to cycle through apps
 Control key: is 2nd from left-bottom corner.
 
-In Ubuntu terminal: Shift+Control + C/V to cut and paste
+In Ubuntu terminal: Shift+Control + C/V to copy and paste
 Mouse: Click and Shift+click to select line
 Mouse Drag: click-hold to lock, then click again to release lock, 
 before cut (control+shift+X).
+or copy (control+shift+C)
 
+nano keyboard shortcuts
+cut (Control K)
+save & exit (Control X)
 =========== Ubuntu setup 8/25/2019 ===============
 
 Reinstalled conda3 linux version to $home/jyoon/conda3 location.
@@ -66,13 +74,19 @@ Original copy in cpythowork was deleted.
 #### WIP 8/25/2019  
  * Firefox browser on Ubuntu -- works now. VcXsrv added to .bashrc 
     * Jupyter notebook auto-opens firefox browser with session, but seems fuzzy resolution.
+    ------------
+    * Update 8/20/2019, removed VcXSrv from Windows Startup Items (disabled).  
+    * Keeps asking for re-configuration, even after it is saved.
+    * Fix later.  Now, copy URL to Chrome to start jupyter notebook.
+    ---------------
  * tensorflow CPU version installed, not beta, stable version.
     * tensorflow-datasets installed now!  Need to learn how to use it with API.
  * fastai v1.0 -- copied to conda3, but does not work.
      * need to reinstall, use fastai commands, to conda3 on Ubuntu.
      * Still working on it.  Just getting version 1.0 to work is OK.
      
- * Deleted conda3linux on c:\python.  Saved 10 GB disk space.     
+ * Deleted conda3linux on c:\python.  Saved 10 GB disk space.   
+ * But $home/jyoon is now 10.4GB in disk.  Also includes fastai repo, and courses-v3.
    --------- 
  * Can use ROKU-TV as wireless 3rd monitor -- but resolution is too low.
     OK for watching YouTube videos.
