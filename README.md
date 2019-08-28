@@ -46,6 +46,6 @@ Use a pull request to make corrections or to share additional information.  Typo
  * Move Udemy-dsml folder to datasciY repo.  Rename "udemy."
  * Add Udacity folder -- data science, machine learning, career folder.
  * Add back fastai folder for 2019 dl1 my exercises, vastai v1.0 software.
-    - Githus DOES NOT RENDER "raw" cells in browser, even though it works in Windows.
+    - Github DOES NOT RENDER "raw" cells in browser, even though it works in Windows.
     
 
