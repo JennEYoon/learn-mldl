@@ -1,0 +1,32 @@
+# Setup fastai v1.0 on Windows 10.
+
+conda3 env "fastv1"
+
+Software needs to be installed with a package manager, conda.
+Saw instructions somewhere.  Something like this. 
+
+ * conda install -c fastai fastai -c ... pytorch
+ 
+Current software load works with fastai v 1.0 and fastai repo download.
+
+Module folder path in class repo needs to be kept same.
+ * Tested 00_Notebook_setup/help file
+ * Tested importing vision.
+-----------------------------------------
+
+Uses Python 3 explicit relative path in fastai modules.
+
+from . import module1
+from .module1 import sub1
+from .module1.sub1 import subsub2
+
+from .. import parent1
+from ..parent1 import chdofparent1
+from ..parent1.chd1 import chdchdofparent1
+
+--------------------
+
+The version 0.7 may be able to set up separate environment
+load fastai version 0.7 with different channel?
+
+ * conda install -c fastai fastai=0.7 ?  something like this.
