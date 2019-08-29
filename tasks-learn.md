@@ -60,5 +60,9 @@
    
 #### Task 8/15/2019  
 
-    * Find out how to add Google Backup & Sync temp files to .gitignore, so my local git won't say there are untracked files to add.
+    * Find out how to add Google Backup & Sync temp files to .gitignore, 
+    so my local git won't say there are untracked files to add. -- done.  Can't have .txt at the end of .gitignore.  
+    Just .gitignore  .
+    
+    
     
