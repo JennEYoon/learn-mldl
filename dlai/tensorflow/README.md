@@ -1,6 +1,7 @@
-# Tensor Flow introduction class, Coursera.org DeepLearning.AI  
+# TensorFlow Class, Coursera.org DeepLearning.AI  
 
 Andrew Ng's class, Introduction to Tensor Flow.
+ * https://www.coursera.org/learn/introduction-tensorflow/home/info  
 
 **TensorFlow** is a **Python** and **C++** API library for running deep learning models.  It comes with **NumPy** for **Python v3+** users.  Requires the use of a package manager for installation, such as Docker (recommended by Nishant Shukla) or Conda (Anaconda or Miniconda).
 
