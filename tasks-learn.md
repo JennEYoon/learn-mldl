@@ -64,5 +64,11 @@
     so my local git won't say there are untracked files to add. -- done.  Can't have .txt at the end of .gitignore.  
     Just .gitignore  .
     
-    
+#### Task 8/29/2019  
+
+   * Review Nathan's HW2 complete code, CS231n  
+   * Watch some more videos on deep learning.ai, fastai dl1.  
+   
+   
+   
     
