@@ -1,5 +1,16 @@
-#@ Meetup Links to Working Code, Stanford cs231n Assignment 1  
+# Meetup Links to Working Code, Stanford cs231n 
 
+# Assignment 2 and 3:  
+
+### Nathan Bendich has finished Assignments 2 and 3
+
+  https://github.com/neonb88/cs231n_spring_2019    
+ 
+  See his website for solutions to all 3 assignments.  
+  Thank you, Nathan!   
+
+
+# Assignment 1:   
 
 ### Chris Malec:  (Chris posted that he finished all parts as of 7/29/2019)
 
