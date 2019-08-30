@@ -8,7 +8,7 @@
  
   See his website for solutions to all 3 assignments.  
   Thank you, Nathan!   
-
+  Updated as of 8/29/2019.
 
 # Assignment 1:   
 
