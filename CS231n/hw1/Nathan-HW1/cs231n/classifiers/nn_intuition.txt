@@ -1,0 +1,43 @@
+
+  input_size  =  4  each data pt is (x,y,z) locations at time t (x,y,z,t)
+  hidden_size = 10  internal parameter of the neural network (hidden layer's size)
+  n_classes   =  3  (some of these events are sexual encounters, others are commercial encounters (going to Starbucks), and still others are nonsexual social encounters (ie. ~ having Mother's Day dinner))
+  n_inputs    =  5  (there are 5 events we have to classify)
+
+
+  D=4
+  C=3
+  H=10   "H=hidden"
+  N=5
+
+  dscores.shape == (N,C) == (5,3)
+  dW2.shape ==  ()
+  db2.shape ==  (1, 3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        # np.maximum() is not the same as np.max(); "maximum" takes 2 args instead of a single array as the only argument
