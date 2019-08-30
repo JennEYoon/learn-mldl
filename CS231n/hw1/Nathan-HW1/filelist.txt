@@ -1,0 +1,17 @@
+-rw-r--r-- 1 cat_macys_vr cat_macys_vr 1.2M Jul  3 02:44 best_2_layer_NN___test_acc_is_0.481.pkl
+-rw-r--r-- 1 cat_macys_vr cat_macys_vr    0 Jul  3 18:22 results_dict___2019_07_03____18:22_PM__.pkl
+-rw-r--r-- 1 cat_macys_vr cat_macys_vr  991 Jul  3 19:00 results_dict___2019_07_03____19:00_PM__.pkl
+-rw-r--r-- 1 cat_macys_vr cat_macys_vr 1019 Jul  3 19:17 results_dict___2019_07_03____19:17_PM__.pkl
+-rw-r--r-- 1 cat_macys_vr cat_macys_vr 1.2M Jul  3 19:17 best_2_layer_NN.pkl
+-rw-r--r-- 1 cat_macys_vr cat_macys_vr 1.2M Jul  3 19:46 best_2_layer_NN__test_acc_is_0.486.pkl
+-rw-r--r-- 1 cat_macys_vr cat_macys_vr  11K Jul  3 20:32 results_dict___2019_07_03____20:32_PM__.pkl
+-rw-r--r-- 1 cat_macys_vr cat_macys_vr  11K Jul  4 17:35 results_dict___2019_07_04____17:35_PM__.pkl
+-rw-r--r-- 1 cat_macys_vr cat_macys_vr 1.2M Jul  4 17:58 best_2_layer_NN__test_acc_is_0.472.pkl
+-rw-r--r-- 1 cat_macys_vr cat_macys_vr  11K Jul  4 17:58 results_dict___2019_07_04____17:58_PM__.pkl
+-rw-r--r-- 1 cat_macys_vr cat_macys_vr 1.2M Jul  4 18:33 best_2_layer_NN__test_acc_is_0.459.pkl
+-rw-r--r-- 1 cat_macys_vr cat_macys_vr 1.8K Jul  4 18:33 results_dict___2019_07_04____18:33_PM__.pkl
+-rw-r--r-- 1 cat_macys_vr cat_macys_vr 4.8M Jul  5 00:06 best_2_layer_NN__test_acc_is_0.448.pkl
+-rw-r--r-- 1 cat_macys_vr cat_macys_vr 4.8M Jul  5 00:42 best_2_layer_NN__test_acc_is_0.494.pkl
+-rw-r--r-- 1 cat_macys_vr cat_macys_vr 5.7K Jul  5 00:42 results_dict___2019_07_05____00:42_AM__.pkl
+-rw-r--r-- 1 cat_macys_vr cat_macys_vr 5.7K Jul  5 00:44 BEST_SO_FAR_test_acc_49.4_val_52.1___results_dict___2019_07_05____00:42_AM__.pkl
+-rw-r--r-- 1 cat_macys_vr cat_macys_vr 4.8M Jul  5 00:45 BEST_SO_FAR_best_2_layer_NN__test_acc_is_0.494___val_acc_is_52.1___2019_07_05____00:42_AM__.pkl
