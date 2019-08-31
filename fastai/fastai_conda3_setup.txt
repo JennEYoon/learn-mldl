@@ -1,0 +1,12 @@
+
+Date:  8/27/2919 00:05 AM  
+
+  * fastai version 1.0 fully installed in Windows Conda3 env setup. 
+     C:\python\conda3\envs\fastv1
+     All packages in ..\Lib\site-packages\fastai and fastaiv1.0...
+     Also with python version 3.7 in environment.
+     
+  * Test fastai version 1.0 on windows.  Try importing vision models.      
+     -- Tested, both works well!  
+     -- symlinks are Python 3+ explicit relative PATH.
+

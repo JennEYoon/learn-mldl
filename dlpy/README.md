@@ -5,6 +5,7 @@ Upload my exercises for this book.
  * Book link:
    (Deleted book from Github, too large 13.3 MB.)
    (Also removed link to my Google Drive link.  Copyrighted.)
+   * Get code samples
 
   * CIFAR 10 example, chapter 8, 10  
       Use Tensor Flow to load dataset cifar10  
@@ -13,3 +14,7 @@ Upload my exercises for this book.
   * 8/26/2019 -- got **tensorflow-datasets** installed   
       on Ubuntu with python 3.7 and conda3.  
       Need to use API to load cifar10.  Saw some examples.  
+
+# Second book -- Packet for Deep Learning -- add mention
+
+  * Get github code samples.
