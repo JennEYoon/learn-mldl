@@ -120,3 +120,5 @@ fastai -> ../../fastai
 
 Ubuntu/home/jyoon/fastai/fastai/<version 1.0 modules>
     Has vision folder.
+
+![Ubuntu symlink image](symlink.png)
