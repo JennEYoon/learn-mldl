@@ -109,10 +109,14 @@ Original copy in cpythowork was deleted.
 
 Courses 2018, dl1 classes has symlink to /old/fastai
 
-~/fastai/courses/dl1/notebook files
-~/fastai/old/fastai/version 0.7 modules.
+Ubuntu/home/jyoon//fastai/courses/dl1/<notebook files>
+Ubuntu/home/jyoon/fastai/old/fastai/<version 0.7 modules>
+    Has structured.py
 
-symlink is "->"
+symlink is "->"  Ubuntu format.
 
 data -> /data2/datasets/part1  
 fastai -> ../../fastai  
+
+Ubuntu/home/jyoon/fastai/fastai/<version 1.0 modules>
+    Has vision folder.
