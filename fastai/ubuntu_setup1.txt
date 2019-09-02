@@ -104,3 +104,15 @@ Original copy in cpythowork was deleted.
     pip install plotly
     pip install cufflinks
     
+--------------
+#### Fastai Symlink Ubunty 9/2/2019  
+
+Courses 2018, dl1 classes has symlink to /old/fastai
+
+~/fastai/courses/dl1/notebook files
+~/fastai/old/fastai/version 0.7 modules.
+
+symlink is "->"
+
+data -> /data2/datasets/part1  
+fastai -> ../../fastai  
