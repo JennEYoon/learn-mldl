@@ -1,77 +1,80 @@
 #  Ubuntu setup on my Windows 10 machines under WSL.  
 
 
-====== Notes ====================================================
-Ubuntu WSL can now be accesses from File Explorer!
+====== Notes =======================================   
+Ubuntu WSL can now be accesses from File Explorer!  
+  
+One of the biggest benefits of this change is file handling.   
+Previously, Windows could only modify files on the Ubuntu file system,   
+but not create. Now, by using \\wsl$\Ubuntu in the address bar of your   
+file explorer, one can directly access any Linux-based file, create   
+additional ones, or remove them and the changes will be seen on the   
+Linux-side as well.  
 
-One of the biggest benefits of this change is file handling. 
-Previously, Windows could only modify files on the Ubuntu file system, 
-but not create. Now, by using \\wsl$\Ubuntu in the address bar of your 
-file explorer, one can directly access any Linux-based file, create 
-additional ones, or remove them and the changes will be seen on the 
-Linux-side as well.
+Win: Windows key (clover key on Apple keyboard)  
+Search: Win + s  
+Run: Win + r  
+File Explorer:  \\wsl$\Ubuntu  
 
-Win: Windows key (clover key on Apple keyboard)
-Search: Win + s 
-Run: Win + r 
-File Explorer:  \\wsl$\Ubuntu
+   **Update 8/20/2019 4:55 PM**  
+   
+     $home/jyoon now 10.4 GB size, with fastai repo, full conda3 pkgs.   
+--------------------------------------------   
 
-   #### Update 8/20/2019 4:55 PM  
-   $home/jyoon now 10.4 GB size, with fastai repo, full conda3 pkgs.
-   --------------------------------------------
+Apple keyboard:  Command-clover-key is Win key.  
+Option-alt key + Tab, to cycle through apps  
+Control key: is 2nd from left-bottom corner.  
 
-Apple keyboard:  Command-clover-key is Win key.
-Option-alt key + Tab, to cycle through apps
-Control key: is 2nd from left-bottom corner.
+In Ubuntu terminal: Shift+Control + C/V to copy and paste  
+Mouse: Click and Shift+click to select line  
+Mouse Drag: click-hold to lock, then click again to release lock,   
+before cut (control+shift+X).  
+or copy (control+shift+C)  
 
-In Ubuntu terminal: Shift+Control + C/V to copy and paste
-Mouse: Click and Shift+click to select line
-Mouse Drag: click-hold to lock, then click again to release lock, 
-before cut (control+shift+X).
-or copy (control+shift+C)
+nano keyboard shortcuts  
+cut (Control K)  
+save & exit (Control X)  
+=========== Ubuntu setup 8/25/2019 ===============  
 
-nano keyboard shortcuts
-cut (Control K)
-save & exit (Control X)
-=========== Ubuntu setup 8/25/2019 ===============
+Reinstalled conda3 linux version to $home/jyoon/conda3 location.  
+Auto-activates base conda3 upon terminal startup.  
 
-Reinstalled conda3 linux version to $home/jyoon/conda3 location.
-Auto-activates base conda3 upon terminal startup.
+sudo password is my usual 4digits  
+  
+------------------------------  
+Installing firefox:   
 
-sudo password is my usual 4digits
+jyoon@Asus-S510:/opt$ firefox  
+Error: no DISPLAY environment variable specified  
 
-------------------------------
-Installing firefox:
+Need xhost  
 
-jyoon@Asus-S510:/opt$ firefox
-Error: no DISPLAY environment variable specified
+jyoon@Asus-S510:~$ xhost +  
 
-Need xhost
+Command 'xhost' not found, but can be installed with:  
 
-jyoon@Asus-S510:~$ xhost +
+sudo apt install x11-xserver-utils  
+-----------  
 
-Command 'xhost' not found, but can be installed with:
+In conda3 base:  
+Installed packages  
 
-sudo apt install x11-xserver-utils
------------
-
-In conda3 base: 
-Installed packages
-
-jupyter notebook (includes ipython shell)
-numpy, pandas, matplotlib, seaborn, scikit-learn (includes scipy, statsmodels), pillow, 
+jupyter notebook (includes ipython shell)  
+numpy, pandas, matplotlib, seaborn, scikit-learn (includes scipy, statsmodels), pillow,  
 pytorch, tensorflow, tensorflow-datasets.  h5py for deeplearning.ai.  IDLE included.  
-pandas-datareader installed for VanderPlas book.
+pandas-datareader installed for VanderPlas book.  
 
-Location, python packages in ubuntu.
+Location, python packages in ubuntu.  
 
-\\wsl$\Ubuntu\home\jyoon\conda3\lib\python3.7\site-packages
+\\wsl$\Ubuntu\home\jyoon\conda3\lib\python3.7\site-packages  
 
-VanderPlas moved to \\wsl$\Ubunut\home\jyoon\w_van\
-Original copy in cpythowork was deleted.
-**learn-mldl** repo only has a few of my own notebooks, not all files from source.
+VanderPlas moved to \\wsl$\Ubunut\home\jyoon\w_van\  
+Original copy in cpythowork was deleted.  
+
+**learn-mldl** repo only has a few of my own notebooks, not all files from source.  
 
 #### WIP 8/25/2019  
+
  * Firefox browser on Ubuntu -- works now. VcXsrv added to .bashrc 
     * Jupyter notebook auto-opens firefox browser with session, but seems fuzzy resolution.
     ------------
@@ -99,7 +102,7 @@ Original copy in cpythowork was deleted.
     * How to show desktop using Apple keyboard?  Is 3 finger swipe on Asus touchpad.
       None of the special key combination on Apple Keyboard seems to work.
       Function keys in general work, e.g., F1 is help key.
-****  
+-------------------------------  
   * Installing plotly and cufflinks for Udemy class
     pip install plotly
     pip install cufflinks
@@ -111,14 +114,14 @@ Courses 2018, dl1 classes has symlink to /old/fastai
 
 Ubuntu/home/jyoon//fastai/courses/dl1/<notebook files>
 Ubuntu/home/jyoon/fastai/old/fastai/<version 0.7 modules>
-    Has structured.py
+    Has structured.py  
 
-symlink is "->"  Ubuntu format.
+symlink is "->"  Ubuntu format.  
 
-data -> /data2/datasets/part1  
-fastai -> ../../fastai  
+data -> /data2/datasets/part1   
+fastai -> ../../fastai    
 
-Ubuntu/home/jyoon/fastai/fastai/<version 1.0 modules>
-    Has vision folder.
+Ubuntu/home/jyoon/fastai/fastai/<version 1.0 modules>  
+    Has vision folder.  
 
-![Ubuntu symlink image](symlink.png)
+![Ubuntu symlink image](symlink.png)  
