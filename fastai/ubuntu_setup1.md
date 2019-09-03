@@ -53,7 +53,7 @@ jyoon@Asus-S510:~$ xhost +
 
 Command 'xhost' not found, but can be installed with:  
 
-sudo apt install x11-xserver-utils  
+   > sudo apt install x11-xserver-utils  
 -----------  
 
 In conda3 base:  
@@ -90,7 +90,7 @@ Original copy in cpythowork was deleted.
      
  * Deleted conda3linux on c:\python.  Saved 10 GB disk space.   
  * But $home/jyoon is now 10.4GB in disk.  Also includes fastai repo, and courses-v3.
-   --------- 
+  
  * Can use ROKU-TV as wireless 3rd monitor -- but resolution is too low.
     OK for watching YouTube videos.
  * Switched to Apple keyboard bluetooth.  Replaced batteries.  
