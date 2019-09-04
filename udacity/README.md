@@ -5,4 +5,4 @@
 Class content was developed by TensorFlow group at Google, with assistance by Udacity staff.      
 [Intro to tensorflow](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)  
      
-<p align="left"><img src="tensorflow/intro-tensorflow-class.png" style="margin: 22px 16px">   </p>
+<img src="tensorflow/intro-tensorflow-class.png" style="margin: 22px 16px">   
