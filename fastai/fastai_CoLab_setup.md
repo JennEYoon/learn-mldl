@@ -5,7 +5,7 @@
   * TensorFlow comes pre-installed on all machines.  
     * But may not include tensorflow-datasets api.  
   * Automatically shuts off after 2 days, but is there a way to manually shut off engine?  
-    ---  
+    .
   * Use my "datasciY.info@gmail.com" account, also Google Drive is on this account.  
   * Can select pre-built machines from Github.  
   * Search for machine providers.  
@@ -26,14 +26,16 @@
   1. Add Google Drive saved location path, also saves downloaded data in notebook.  
   
   1. Before running a notebook, install packages, create a new code cell and run.  
-     ```!curl -s https://course.fast.ai/setup.colab | bash  ```
+     ```!curl -s https://course.fast.ai/setup.colab | bash ```  
      Yes to "Warning... Reset all runtimes before running" check mark.  
      
   1. Mount Google Drive, add the following to the top of every notebook.  
+     ```bash
      from google.colab import drive
      drive.mount('/content/gdrive', force_remount=True)  
      root_dir = '/content/gdrive/My Drive/"
      base_dir = root_dir + "fastai-v3/"
+     ```
      
      Next when working with notebook, add base_dir to Path.  
      For example, in "lesson2-download.ipynb":  
@@ -63,8 +65,10 @@
   
   1. Notebook may be able to run on my computer, Ubuntu conda3 setup.
   
-  1. Symlink works on Ubuntu "fastai -> root/fastai/old/fastai/'
-     "data -> $home/fastai/old/data..."
+  1. Symlink works on Ubuntu  
+     ```bash 
+     fastai -> '/fastai/old/fastai/'  
+     data -> '/fastai/old/data'
+     ```
 
-
-------
+--
