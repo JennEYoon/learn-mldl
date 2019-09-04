@@ -19,17 +19,21 @@
      Go to [CoLab Welcome Page](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true)
 
   1. Colab link -- Github Tab  
-     Select machine from "fastai/course-v3" for notebooks in 2019 class.  
+     Select providers "fastai/course-v3" for 2019 class notebooks.  
      
-  1. Select GPU, and Python 3 and runtime type.   
-     
-  1. Add Google Drive saved location path, also saves downloaded data in notebook.  
+  1. When CoLab notebook opens,   
+     Select GPU, and Python 3 and runtime type.   
   
-  1. Before running a notebook, install packages, create a new code cell and run.  
+  1. Before running a notebook, install fastai packages.  
+     Create a new code cell and run.  
      ```!curl -s https://course.fast.ai/setup.colab | bash ```  
      Yes to "Warning... Reset all runtimes before running" check mark.  
+     Creates "fastai-v3" folder on Google CoLab's runtime server.
      
-  1. Mount Google Drive, add the following to the top of every notebook.  
+  1. Mount Google Drive.  
+     Add the following to the top of every notebook.  
+     Saves downloaded data.  Adds path to installed libraries.  
+     
      ```bash
      from google.colab import drive
      drive.mount('/content/gdrive', force_remount=True)  
