@@ -5,7 +5,7 @@
   * TensorFlow comes pre-installed on all machines.  
     * But may not include tensorflow-datasets api.  
   * Automatically shuts off after 2 days, but is there a way to manually shut off engine?  
-    .
+    
   * Use my "datasciY.info@gmail.com" account, also Google Drive is on this account.  
   * Can select pre-built machines from Github.  
   * Search for machine providers.  
@@ -71,4 +71,4 @@
      data -> '/fastai/old/data'
      ```
 
---
+---
