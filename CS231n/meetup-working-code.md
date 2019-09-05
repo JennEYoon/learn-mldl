@@ -9,6 +9,13 @@
   See his website for solutions to all 3 assignments.  
   Thank you, Nathan!   
   Updated as of 8/29/2019.
+  
+    >**Nathan Bendich 8:26 PM Sept 4, 2019**
+    >"It's very funny to be reading this 1-2 months after I did HW2 when I've probably forgotten at least 1/3 of the details.  I'm glad it's been helpful.  There are many other github repositories that are better-commented than mine and other tutorials I found super helpful.  
+    >**Andrej Karpathy** explained everything well quite thorough in his explanations of the fundamentals.  
+    >[nn-case-study](http://cs231n.github.io/neural-networks-case-study/)  
+    >[optimization-2](http://cs231n.github.io/optimization-2)"  
+    > ... Quoted from a Slack.com message. ...
 
 # Assignment 1:   
 
