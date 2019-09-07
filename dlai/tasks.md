@@ -20,10 +20,14 @@
  
 #### Move to a separate repo - no keep here w. CS231n  
 
-### Deep Learning Meetup will be using Coursera Class from now on 9/7/2019  
+### Task 9/7/2019 Saturday  
 
+**Deep Learning Meetup will be using Coursera Class from now on.**  
  * Try Numpy notebook before Sept 2019 Meetup  
  * Try saving data and library in CoLab again  
  * Test Cats Logistic Regression notebooks before Meetup  
  
- 
+**For Myself**  
+ * Read Papers\Artistic Style Transfer paper -- finish my blog post.  
+ * Tensorflow Hello World and Tensorflow Tutorial notebooks -- Do.  
+
