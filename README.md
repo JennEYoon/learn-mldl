@@ -12,13 +12,16 @@ I am learning Python Machine Learning and Deep Learning.  My goal is to document
       http://cs231n.stanford.edu/  
       http://faculty.marshall.usc.edu/gareth-james/ISL/  
       
+ * Coursera.org, deeplearning.ai class 1, Neural Networks  
+      https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning  
+ 
  * Coursera.org, deeplearning.ai class 4, Convolutional Neural Networks  
       https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning  
    
- * Udacity classes in machine learning
-    * Mango DB
-    * Intro to Machine Learning
-    * Career in data science prep
+ * Udacity classes in machine learning  
+    * Mango DB  
+    * Intro to Machine Learning  
+    * Intro to Tensorflow for Deep Learning  
     
 **Main Books:**  
  * Jake VanderPlas, Python Data Science Handbook (c 2017)  
