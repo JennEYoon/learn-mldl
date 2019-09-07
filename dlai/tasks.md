@@ -2,7 +2,7 @@
 
 ### 7/29/2019 3:22 PM:
 
-- Class 1: On week 2, python help secion.
+- Class 1: On week 2, python help section.
   - Redo backprop partial derivative calculation - done
   - Read Chris's backprop derivative math notes
   - Read notes for CS231n and try to do two layer nn soon.
@@ -19,3 +19,11 @@
  * Suppliment with cifar 10 notebook from fastai 2018 version dl1 class code example.
  
 #### Move to a separate repo - no keep here w. CS231n  
+
+### Deep Learning Meetup will be using Coursera Class from now on 9/7/2019  
+
+ * Try Numpy notebook before Sept 2019 Meetup  
+ * Try saving data and library in CoLab again  
+ * Test Cats Logistic Regression notebooks before Meetup  
+ 
+ 
