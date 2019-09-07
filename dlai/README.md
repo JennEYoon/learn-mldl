@@ -1,6 +1,6 @@
-# My exercises, practice doing deeplearning.ai classes
+# My exercises, practice doing deeplearning.ai specialization classes on Coursera.org  
 
-from coursera.org
+
 
 Class 1: Neural Networks
 
