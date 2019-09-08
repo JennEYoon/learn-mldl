@@ -1,4 +1,4 @@
-# My exercises & practice - deeplearning.ai specialization on Coursera.org  
+## My exercises & practice - deeplearning.ai specialization on Coursera.org  
 
 #### Author: Jennifer E Yoon  
 
@@ -18,24 +18,22 @@
 
 #### Folder "source" has all downloaded notebook solutions and important papers.  
 
-  [source/Papers](https://github.com/JennEYoon/learn-mldl/tree/master/dlai/source/Papers)    
-
-  [Deep Face](https://github.com/JennEYoon/learn-mldl/blob/master/dlai/source/Papers/DeepFace.pdf)  
-  [Neural Style Transfer](https://github.com/JennEYoon/learn-mldl/blob/master/dlai/source/Papers/Neural_style_transfer.pdf)  
-
+  * [source/Papers](https://github.com/JennEYoon/learn-mldl/tree/master/dlai/source/Papers)    
+  * [Deep Face](https://github.com/JennEYoon/learn-mldl/blob/master/dlai/source/Papers/DeepFace.pdf)  
+  * [Neural Style Transfer](https://github.com/JennEYoon/learn-mldl/blob/master/dlai/source/Papers/Neural_style_transfer.pdf)  
 
 #### As part of the Deep Learning AI Specialization, there are videos on the early founders of deep learning.  
 
-  [Youtube Playlist](https://www.youtube.com/playlist?list=PLfsVAYSMwsksjfpy8P2t_I52mugGeA5gR)  
+  * [Youtube Playlist](https://www.youtube.com/playlist?list=PLfsVAYSMwsksjfpy8P2t_I52mugGeA5gR)  
+.
+.
+. ============================================  
 
-
-============================================  
-
-# Other Resources  
+## Other Resources  
 
 #### Udacity - Intro to TensorFlow  
 
-  * [Udacity - Intro to TF](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187  
+  * [Udacity - Intro to TF](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)    
   * Class taught by Google team and Udacity coordinators.  
     Class is not complete.  In that sense Coursera's TensorFlow classes are better.  
   * [Comprehensive Guide to Convolutional Neural Nets ](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53).    
