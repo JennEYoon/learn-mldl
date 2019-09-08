@@ -50,5 +50,5 @@ Use a pull request to make corrections or to share additional information.  Typo
  * Add Udacity folder -- data science, machine learning, career folder.
  * Add back fastai folder for 2019 dl1 my exercises, "fastv1" python3.7 conda env.
     - Github DOES NOT RENDER "raw" cells in browser, even though it works in Windows.
- * Add detail to dlai folder in preparation for local Meetup studying Coursera.org's **DeepLearning,AI Specialization**.  Date 9/8/2019.      
+ * Add detail to dlai folder in preparation for local Meetup starting on Coursera.org's **DeepLearning.AI Specialization** classes.  Date 9/8/2019.      
 
