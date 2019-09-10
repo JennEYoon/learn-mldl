@@ -33,9 +33,8 @@
 #### As part of the Deep Learning AI Specialization, there are videos on the early founders of deep learning.  
 
   * [Youtube Playlist](https://www.youtube.com/playlist?list=PLfsVAYSMwsksjfpy8P2t_I52mugGeA5gR)  
-.  
-.  
-. ============================================    
+    
+    ============================================      
 
 ## Other Resources  
 
@@ -49,6 +48,37 @@
   * Finished first 4 weeks, weeks 5 and 6 left to go.  
   * Uses Fashion MNIST -- similar to Coursera TensorFLow class.  
   
+  
+#### fast.ai - Deep Learning classes  
+    [fast.ai main page](https://www.fast.ai/)  
+ 
+Fast.ai is really good for those interested in practical applications and starting to do useful deep learning right away.  They want to democratize deep learning.  That is, allow a wider audience without a lot of coding or math backgrounds to start doing useful deep learning in many more application fields.  
+
+ * deeplearning-part1: Practical Deep Learning for Coders 2019.  
+    * The only pre-requisite is about 1 year of coding experience with Python.  
+    * Uses custom package called "fastai" version 1.0 for 2019 classes.  
+    * Fastai is built on top of PyTorch.  
+    * Fastai package is also easy to read its source code.  
+ 
+ * deeplearning-part2:  Deep Learning From the Foundations 2019.  
+    * Teaches the foundations or under-the-hood coding from scratch.  
+    * Lesson 8: Matrix multiplication; forward and backward passes
+      https://course.fast.ai/videos/?lesson=8  
+      This is good for deeply understandig how CNN works.  
+    
+ * 2018 version of deep leanring classes.  
+     http://course18.fast.ai/
+ 
+   * Lesson 1 starts right off with transfer-learning.  
+     http://course18.fast.ai/lessons/lesson1.html
+      
+     Transfer Learning is used to start off almost all modern convolutional neural network projects.  You download an already trained model with weights and filters.  You freeze the training layers.  You apply learning using your own date to only the last two fully-connected neural network layers with one softmax activation function in between.  Later, if you have sufficent data, you can unfreeze successive training layers and use your own data to train.  But at all times, you will start off with an already trained model to get the initial weights and initial convolution filters for each layer.  
+ 
+   * Lesson 2 gets into data augmentation.  (2018 version, check if 2019 version also has this)  
+     This is also a modern method applied to almost all situations.  
+     http://course18.fast.ai/lessons/lesson2.html  
+      
+      
 #### History  
 
  * Last updated 9/10/2019   
