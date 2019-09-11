@@ -8,7 +8,7 @@
  * Class 4, Week 2, Lesson 4  
    https://www.youtube.com/watch?v=RYth6EbBUqM)  
 
- * Coursera DL.AI data augmentation – another major part of modern useage.  
+ * Coursera DL.AI data augmentation – another major part of modern usage.  
    (Can’t remember which video)  
 
 ### Fast.AI Classes   
@@ -20,12 +20,13 @@ Fast.AI wants to democratize deep learning.  They start off right from the begin
    - Lesson 1 wiki (https://forums.fast.ai/t/wiki-lesson-1/9398)  
 
     * Top Sobel filter - Convolution filter matrix calculation demo.  
+      From the drop-box in the middle of the web page, select "Top Sobel" filter.  
       http://setosa.io/ev/image-kernels/
 
     * Video – Otavio Good at Google Translate  
       https://www.youtube.com/watch?v=Oqm9vsf_hvU  
 
-    * Fastai - Excel convolution demo - part of lecture 1 video.  
+    * Fastai - Excel convolution demo - part of lecture 1 video, towards the end.    
 
  * Talk about fast.ai lesson 2 - data augmentation. 
     - (http://course18.fast.ai/lessons/lesson2.html)
@@ -33,23 +34,25 @@ Fast.AI wants to democratize deep learning.  They start off right from the begin
 
 ### Numpy Tutorial  
 
-* DLAI has short numpy tutorial (https://github.com/JennEYoon/learn-mldl/blob/master/dlai/dlai-class1/week2/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb)  
+ * DLAI has a short numpy tutorial (https://github.com/JennEYoon/learn-mldl/blob/master/dlai/dlai-class1/week2/Python%2BBasics%2BWith%2BNumpy%2Bv3.ipynb)  
 
-* Stanford CS231n has longer, decent numpy tutorial (https://github.com/JennEYoon/learn-mldl/blob/master/CS231n/cs231n-PythonNumpyTutorial/python-numpy-tutorial.md)  
+ * Stanford CS231n has a longer, decent numpy tutorial (https://github.com/JennEYoon/learn-mldl/blob/master/CS231n/cs231n-PythonNumpyTutorial/python-numpy-tutorial.md)  
 
-* Stanford CS228 also has decent Python Standard Library tutorial. (https://github.com/JennEYoon/learn-mldl/blob/master/CS231n/cs228-python-tutorial.ipynb)  
-
-* [VanderPlas book](Python_Data_Science_Handbook.pdf) has the best Numpy tutorial.
+ * [VanderPlas book](Python_Data_Science_Handbook.pdf) has the best Numpy tutorial.
 
   * Has KNN example with 10 data points in 2D.  
   * Shows how to use argsort and fancy indexing.  
-  * Useful for CS231n class KNN homework.  
+  * Useful for Stanford CS231n class - Homework 1, part 1, KNN.  
+  * After doing the KNN example with 10 data points, you can try doing it with CIFAR10 image dataset.  
   * VanderPlas does NOT cover basic Python. Use other sources.  
 
-* [Python Crash Course book](python-crash-course.pdf)
+### Learning Python, standard library  
+
+ * [Python Crash Course book](python-crash-course.pdf)
    Easy for basic Python.  Do first several chapters.  
 
    Follow along on the book, cover the code with paper, then type them into your Jupyter notebook. DO NOT copy and paste.  You will notice a lot of syntax errors.  You won't learn the syntax correctly unless you manually type the code yourself, and make all those errors, and practice spotting and correcting them. :-)    
 
+ * Stanford CS228 also has a decent Python Standard Library tutorial. (https://github.com/JennEYoon/learn-mldl/blob/master/CS231n/cs228-python-tutorial.ipynb)  
 
 
