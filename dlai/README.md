@@ -66,7 +66,7 @@ Fast.ai is really good for those interested in practical applications and starti
       https://course.fast.ai/videos/?lesson=8  
       This is good for deeply understandig how CNN works.  
     
- * 2018 version of deep leanring classes.  
+ * 2018 version of deep learning classes.  
      http://course18.fast.ai/
  
    * Lesson 1 starts right off with transfer-learning.  
@@ -81,7 +81,7 @@ Fast.ai is really good for those interested in practical applications and starti
       
 #### History  
 
- * Last updated 9/10/2019   
+ * Last updated 9/11/2019   
  
  
     
