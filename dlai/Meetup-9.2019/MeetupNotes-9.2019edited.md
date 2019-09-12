@@ -1,15 +1,13 @@
 # Meetup September 2019 - Jennifer Yoon   
 
-### Coursera DL.AI transfer learning – a major part of modern usage pattern.   
+### Coursera DeepLearning.AI Classes  
 
- * Class 3, Week 2, Lesson 7  
-   https://www.youtube.com/watch?v=yofjFQddwHE  
+ * Transfer learning – a major part of modern usage pattern.   
 
- * Class 4, Week 2, Lesson 4  
-   https://www.youtube.com/watch?v=RYth6EbBUqM)  
+   - Class 3, Week 2, Lesson 7.  https://www.youtube.com/watch?v=yofjFQddwHE  
+   - Class 4, Week 2, Lesson 4.  https://www.youtube.com/watch?v=RYth6EbBUqM)  
 
- * Coursera DL.AI data augmentation – another major part of modern usage.  
-   (Can’t remember which video)  
+ * Data augmentation – another major part of modern usage.  (Can’t remember which video)  
 
 ### Fast.AI Classes   
 
@@ -39,19 +37,18 @@ Fast.AI wants to democratize deep learning.  They start off right from the begin
  * Stanford CS231n has a longer, decent numpy tutorial (https://github.com/JennEYoon/learn-mldl/blob/master/CS231n/cs231n-PythonNumpyTutorial/python-numpy-tutorial.md)  
 
  * [VanderPlas book](Python_Data_Science_Handbook.pdf) has the best Numpy tutorial.
-
-  * Has KNN example with 10 data points in 2D.  
-  * Shows how to use argsort and fancy indexing.  
-  * Useful for Stanford CS231n class - Homework 1, part 1, KNN.  
-  * After doing the KNN example with 10 data points, you can try doing it with CIFAR10 image dataset.  
-  * VanderPlas does NOT cover basic Python. Use other sources.  
+   - Has KNN example with 10 data points in 2D.  
+   - Shows how to use argsort and fancy indexing.  
+   - Useful for Stanford CS231n class - Homework 1, part 1, KNN.  
+   - After doing the KNN example with 10 data points, you can try doing it with CIFAR10 image dataset.  
+   - VanderPlas does NOT cover basic Python. Use other sources.  
 
 ### Learning Python, standard library  
 
- * [Python Crash Course book](python-crash-course.pdf)
-   Easy for basic Python.  Do first several chapters.  
+ * [Python Crash Course book](python-crash-course.pdf)  
+   - Easy for basic Python.  Do first several chapters.  
 
-   Follow along on the book, cover the code with paper, then type them into your Jupyter notebook. DO NOT copy and paste.  You will notice a lot of syntax errors.  You won't learn the syntax correctly unless you manually type the code yourself, and make all those errors, and practice spotting and correcting them. :-)    
+   - Follow along on the book, cover the code with paper, then type them into your Jupyter notebook. DO NOT copy and paste.  You will notice a lot of syntax errors.  You won't learn the syntax correctly unless you manually type the code yourself, and make all those errors, and practice spotting and correcting them. :-)    
 
  * Stanford CS228 also has a decent Python Standard Library tutorial. (https://github.com/JennEYoon/learn-mldl/blob/master/CS231n/cs228-python-tutorial.ipynb)  
 
