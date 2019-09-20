@@ -1,7 +1,8 @@
 #  Books & External Resources for Machine Learning and Deep Learning  
 
 #### My Google Drive shareable links  
-(Don't upload, takes up disk space in my github local repo.)  
+(Don't upload, takes up disk space in my github local repo.
+ Only one book uploaded, Machine Learning with TensorFlow 5 MB, smallest.)    
 
  * Bishop, Pattern Recognition  
    https://drive.google.com/file/d/1jfoiJDm6VdvzBcI3hbesInPQYNwFOOf3/view?usp=sharing  
