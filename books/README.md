@@ -20,9 +20,9 @@
  * Goodfellow et al., Deep Learning book  
    https://drive.google.com/file/d/1lpbiI1hEqkReo3HjxzlKaXfeDRr39RHQ/view?usp=sharing
  
- * Python Deep Learning Packt 2019 book.
-   https://drive.google.com/open?id=1wTM3mpMQwVCBMU9UrZ-7y_o5Rcabcf2e
-   Google drive link
+ * Python Deep Learning Packt 2019 book.  
+   https://drive.google.com/open?id=1wTM3mpMQwVCBMU9UrZ-7y_o5Rcabcf2e  
+   Pretty good book.  Has a short intro ML chapter.  Mostly Deep Learning.  
    
 #### External Resources & Links  
 
