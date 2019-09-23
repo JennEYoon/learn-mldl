@@ -16,6 +16,9 @@
 
   * Finished week 1, studying code notebook.  
   * Started week 2.  
+  * Started week 3 videos - has interesting topics on transfer learning, data augmentation.  
+  * To start week 4 Neural Style Transfer -- study for my website, articles.html post update.  
+  * To start Papers -- Read paper on Neural Style Transfer for Art.  
 
 #### Tensorflow Class 1 and 2  
 
