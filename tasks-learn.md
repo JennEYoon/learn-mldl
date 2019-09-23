@@ -23,7 +23,8 @@
     - Get help from 2lnn codes Chris, Colleen, Nathan.
     - Deeplearning.ai Class 1 - wk2, do notebooks (numpy, simple nn classifier with custom classes)
     - Deeplearning.ai Class 4, wk1 - do notebook, cnn example.  
-    - CS231n notes on cnn, optimization, back-prop partial derivative of activation function (ReLU, softmax, svm).
+    - CS231n notes on cnn, optimization, back-prop partial derivative of activation function   
+      (ReLU, softmax, svm).  
      ***fastai 2018 dl1, cifar10 noteboook -- read code and focus on this!***
     
 #### fast.ai master upstream  fork not-syncing.  How?  Fetch?  
@@ -47,8 +48,9 @@
    * Load data with tensor flow load datasets command.
    * Keep just 1 copy of unzipped cifar10 data on local computer, not on github.  Too big.
    
-#### Present to meetup -- deeplearning.ai class1 wk2, class4 wk1, fast.ai deep learning part 1 and part 2.  
-   * pose as augmentation to cs231n
+#### Present to meetup -- deeplearning.ai class1 wk2, class4 wk1, 
+fast.ai deep learning part 1 and part 2.   
+   * pose as augmentation to cs231n  
    * Both Colleen Chen and Peter will not make it today.
    * Chris Maleck is also absent - so no one who did the project will be there!!!
    * Julius was there but didn't get far enought on project to be comfortable presenting.
@@ -60,9 +62,10 @@
    
 #### Task 8/15/2019  
 
-    * Find out how to add Google Backup & Sync temp files to .gitignore, 
-    so my local git won't say there are untracked files to add. -- done.  Can't have .txt at the end of .gitignore.  
-    Just .gitignore  .
+    * Find out how to add Google Backup & Sync temp files to .gitignore,  
+    so my local git won't say there are untracked files to add. -- done.  
+    Can't have .txt at the end of .gitignore.  
+    Just .gitignore  .  
     
 #### Task 8/29/2019  
 
@@ -75,7 +78,7 @@
   * Upload Udacity Tensorflow Fashion notebooks & video links.  
   * Watch Udacity Weeks 5 & 6 videos.  Finish Fashion notebooks.  
   * Watch dlak class 4 videos, finish class1 weeks 3 and 4 videos.  
-  
+  * Fast.ai v 0.7 install on Ubuntu Conda3 environment, new create.  
   
    
    
