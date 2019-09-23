@@ -69,6 +69,14 @@
    * Review Nathan's HW2 complete code, CS231n  
    * Watch some more videos on deep learning.ai, fastai dl1.  
    
+#### Tasks 9/22/2019   
+
+  * Uplaod dlai class 4 materials  
+  * Upload Udacity Tensorflow Fashion notebooks & video links.  
+  * Watch Udacity Weeks 5 & 6 videos.  Finish Fashion notebooks.  
+  * Watch dlak class 4 videos, finish class1 weeks 3 and 4 videos.  
+  
+  
    
    
     
