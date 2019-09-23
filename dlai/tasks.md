@@ -31,3 +31,12 @@
  * Read Papers\Artistic Style Transfer paper -- finish my blog post.  
  * Tensorflow Hello World and Tensorflow Tutorial notebooks -- Do.  
 
+### Tasks 9/23/2019   
+
+ * Class4, Week 4 has Neural Style Art notebook.   
+ * Read paper and do this notebook in the next 2 weeks, even if can't understand all parts.  
+ * Post on "Articles.html" on datasciY.com.  
+ * First finish adding links.  Janelia, GAN, Segmentation, links to videos, Neural Style Transfer with Art.  - do this week.  
+ 
+--- end ---   
+
