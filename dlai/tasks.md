@@ -37,6 +37,13 @@
  * Read paper and do this notebook in the next 2 weeks, even if can't understand all parts.  
  * Post on "Articles.html" on datasciY.com.  
  * First finish adding links.  Janelia, GAN, Segmentation, links to videos, Neural Style Transfer with Art.  - do this week.  
- 
+  
+ ### 9/26 update   
+   ' downloaded class 4 week 4 facerec datasets, images.
+   * more to do. 
+   * Watched udemy PLOTLY VIDEOS.  
+   
+  
+  
 --- end ---   
 
