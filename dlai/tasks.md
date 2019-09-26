@@ -39,11 +39,10 @@
  * First finish adding links.  Janelia, GAN, Segmentation, links to videos, Neural Style Transfer with Art.  - do this week.  
   
  ### 9/26 update   
-   ' downloaded class 4 week 4 facerec datasets, images.
+ 
+   * downloaded class 4 week 4 facerec datasets, images.
    * more to do. 
    * Watched udemy PLOTLY VIDEOS.  
-   
-  
   
 --- end ---   
 
