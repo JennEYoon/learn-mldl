@@ -1,0 +1,1 @@
+{"dataset_names": ["mnist"], "original_fname": "train-images-idx3-ubyte.gz", "urls": ["https://storage.googleapis.com/cvdf-datasets/mnist/train-images-idx3-ubyte.gz"]}

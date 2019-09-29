@@ -1,0 +1,1 @@
+{"dataset_names": ["mnist"], "original_fname": "t10k-labels-idx1-ubyte.gz", "urls": ["https://storage.googleapis.com/cvdf-datasets/mnist/t10k-labels-idx1-ubyte.gz"]}
