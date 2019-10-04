@@ -44,5 +44,13 @@
    * more to do. 
    * Watched udemy PLOTLY VIDEOS.  
   
+### Tasks 10/4/2019  
+
+ * DLAI Class 1 do this week, notebooks for Week 2 and Week 3, Class 1 NN.  
+ * Watched all videos for Week2, re-watch some for Week 3.  Try notebook first before rewatching videos.  
+ * Notebook week2 - Logistic Regression with Sigmoid activation function.  
+ * Notebook week3 - Flower non-linear classification with TanH activation function.  
+  -- Latest notebooks copied to DLAI, Class1.  
+ 
 --- end ---   
 
