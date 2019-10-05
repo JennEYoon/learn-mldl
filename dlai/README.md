@@ -4,9 +4,10 @@
 
 #### Class 1: Neural Networks  
 
-  * Finished week 1, week 2, part of week 3.  
+  * Finished week 1, week 2, part of week 3. - 9/5/2019.   
   * Rewatched all of week 1, 2, and start of 3 -- third time.  
   * Studying Numpy tutorial notebook, first nn notebook, second detailed nn notebook.  
+  * Started week 3, flower classification notebook - 10/5/2019.  
   * Downloaded all materials for Class 1 and organized into correct folders.  
   * Read FORUM instructions for setup on local computer, but instructions mainly for Ubuntu on WSL.  
   * Seems rather simpler to just manually download files, and use Conda to install packages as needed.  
@@ -14,7 +15,7 @@
 
 #### Class 4: Convolutional Neural Networks  
 
-  * Finished week 1, studying code notebook.  
+  * Finished week 1, studying code notebook.  - 9/5/2019.  
   * Started week 2.  
   * Started week 3 videos - has interesting topics on transfer learning, data augmentation.  
   * To start week 4 Neural Style Transfer -- study for my website, articles.html post update.  
@@ -48,12 +49,12 @@
     Class is not complete.  In that sense Coursera's TensorFlow classes are better.  
   * [Comprehensive Guide to Convolutional Neural Nets ](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53). -- Finished reading.  
     Rather simple explanation.  Not as good as Coursera DeepLearning.AI or Fast.AI DeepLearning Part1.      
-  * Finished first 4 weeks, weeks 5 and 6 left to go.  
-  * Uses Fashion MNIST -- similar to Coursera TensorFLow class.  
-  
+  * Finished first 4 weeks, weeks 5 and 6 left to go. - 9/5/2019.   
+  * Uses Fashion MNIST notebook left to do -- similar to Coursera TensorFLow class.  
+  * Weeks 5 & 6 to finish this month - 10/5/2019.  
   
 #### fast.ai - Deep Learning classes  
-    [fast.ai main page](https://www.fast.ai/)  
+[fast.ai main page](https://www.fast.ai/)  
  
 Fast.ai is really good for those interested in practical applications and starting to do useful deep learning right away.  They want to democratize deep learning.  That is, allow a wider audience without a lot of coding or math backgrounds to start doing useful deep learning in many more application fields.  
 
@@ -80,12 +81,16 @@ Fast.ai is really good for those interested in practical applications and starti
    * Lesson 2 gets into data augmentation.  (2018 version, check if 2019 version also has this)  
      This is also a modern method applied to almost all situations.  
      http://course18.fast.ai/lessons/lesson2.html  
-      
+   
+   * Started watching lesson 3.  Want to finish all 7 lectures 2018 version this month, 10/4/2019.  
       
 #### History  
 
- * Last updated 9/11/2019   
+ * Last update 9/11/2019   
+ * Last update 10/5/2019  
  
- 
+--- end ---  
+
+    
     
     
