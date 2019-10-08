@@ -1,5 +1,6 @@
 # Deep Learning Specialisation
 Instructor: [Andrew Ng](http://www.andrewng.org/)
+Download Date: 7/30/2019
 
 This repository contains all the solutions of the programming assignments along with few output images. It also has some of the important papers which are referred during the course. 
 
