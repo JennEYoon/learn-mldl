@@ -36,7 +36,7 @@ Fast.AI wants to democratize deep learning.  They start off right from the begin
 
  * Stanford CS231n has a longer, decent numpy tutorial (https://github.com/JennEYoon/learn-mldl/blob/master/CS231n/cs231n-PythonNumpyTutorial/python-numpy-tutorial.md)  
 
- * [VanderPlas book](Python_Data_Science_Handbook.pdf) has the best Numpy tutorial.
+ * [VanderPlas book](https://jakevdp.github.io/PythonDataScienceHandbook/) has the best Numpy tutorial.
    - Has KNN example with 10 data points in 2D.  
    - Shows how to use argsort and fancy indexing.  
    - Useful for Stanford CS231n class - Homework 1, part 1, KNN.  
@@ -45,7 +45,7 @@ Fast.AI wants to democratize deep learning.  They start off right from the begin
 
 ### Learning Python, standard library  
 
- * [Python Crash Course book](python-crash-course.pdf)  
+ * [Python Crash Course book](https://ehmatthes.github.io/pcc_2e/)  
    - Easy for basic Python.  Do first several chapters.  
 
    - Follow along on the book, cover the code with paper, then type them into your Jupyter notebook. DO NOT copy and paste.  You will notice a lot of syntax errors.  You won't learn the syntax correctly unless you manually type the code yourself, and make all those errors, and practice spotting and correcting them. :-)    
