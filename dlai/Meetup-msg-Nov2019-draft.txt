@@ -1,0 +1,58 @@
+Meetup message for Nov 2019.  
+
+Hello All,
+
+Coursera DeepLearning.AI Class 1:
+
+We will carry on with Andrew Ng's DeepLearning.AI Class 1 (NN) for November 2019 Meetup. We will discuss week 4. The two notebooks here cover the fully connected neural network, and is the apex that the earlier weeks have built up to. So please take the time to carefully study and try out both notebooks. I have collected useful resources and note from previous Meetup events in my personal Github account below. 
+
+https://github.com/JennEYoon/learn-mldl/tree/master/dlai
+
+https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning
+
+If you are feeling ambitious, feel free to continue with Class 4 CNN, which is similar to Stanford's CS231n class.
+
+Stanford CS231n class:
+
+This Meetup group studied Stanford CS231n deep learning class in the earlier part of 2019.  We will have presenters sharing their work from CS231n from time to time.  Peter may present the 2-layer-nn at a future Meetup.  
+
+See Convolutional Neural Networks for Visual Recognition. http://cs231n.stanford.edu/
+Github: https://github.com/cs231n/cs231n.github.io
+
+Several people have volunteered to help others get through CS231n assignments via our Slack channel "DSMLtalk" and by direct emails. Nathan has finished all 3 assignments.  Chris has finished assignment 1 and most of assignment 2. Colleen has finished up to 2-layer-nn. I have collected **their solutions links** and posted it to my Github.
+
+See "meetup-working-code.md" at:
+
+https://github.com/JennEYoon/learn-mldl/tree/master/CS231n  
+
+
+
+
+Jennifer Yoon
+
+Thanks everyone for coming to our Meetup last night. Thanks Dan for presenting. And Thanks Kate, Peter, and Sean for volunteering to present at November Meetup. Next Meetup will be on November 12, 2019, Tuesday, starting at 6 to 6:30 PM.
+
+All of the information I presented can be found on my Github account "JennEYoon" under "learn-mldl" repo. The Coursera DeepLearning.ai classes are in folder "dlai". The Stanford convolutional neural networks classes are in folder "CS231n". Additionally Otavio Good's video is on Youtube. I have a link to the video and Hactoberfest on my data science blog, http://datasciY.com/blog.html.
+
+* DeepLearning.AI: https://github.com/JennEYoon/learn-mldl/tree/master/dlai
+* Stanford CS231n: https://github.com/JennEYoon/learn-mldl/tree/master/CS231n
+* My blog with Otavia Good video, Hackathon: http://datasciy.com/blog.html
+
+We also have a Slack channel "DSMLtalk". You can sign up next time you are at the Meetup.  
+
+You don't need to start paying on Coursera.org to view the class materials. Clink on the large button(s) for "Free Trials" then look for a teeny, tiny "Audit" text link, below another large button. You can access all course materials including Jupyter notebooks without paying for a Certificate. Later on if you wish, you can sign up again in order to get the Certificate(s). :-)
+
+Hello All,
+
+We will carry on with Andrew Ng's DeepLearning.AI Class 1 (NN) for October 2019 Meetup. We will discuss Jupyter notebooks and concepts from Weeks 2 and 3.
+
+https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning
+
+If you are feeling ambitious, feel free to continue with Week 4 and Class 4 (CNN). Class 4 CNN is similar to Stanford's CS231n class.
+
+From time to time, we will have presenters take up Stanford's CS231n class assignments again, as more people make it through the homework. Several people have volunteered to help others get through CS231n assignments via our Slack channel DSMLtalk and direct emails.
+
+See Convolutional Neural Networks for Visual Recognition. http://cs231n.stanford.edu/
+Github: https://github.com/cs231n/cs231n.github.io
+
+We may have a guest speaker from Janelia Research talking about data augmentation.
