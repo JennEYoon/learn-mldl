@@ -52,5 +52,15 @@
  * Notebook week3 - Flower non-linear classification with TanH activation function.  
   -- Latest notebooks copied to DLAI, Class1.  
  
+ ### Tasks 10/11/2019  
+ 
+  * Send out message to Meetup re Nov 2019 event -- done.  
+  * Ubuntu Conda3 setup Matplotlib install error - Planar notebook.  Fix.  
+  * Carefully do notebooks for week 4.  Read math.  Read Deep Learning books on math review.
+  * Vanderplas - Chapter 5 end HOG Histogram or Oriented Features, replicate.  Similar to Stanford CS231n features assignemnt?  
+  * Finished reviewing all of Vanderplas Numpy, Matplotlib 3D. 
+  * Next read Vanderplas Chp 5. 
+  * Vanderplas MNist book definitely has error in predict plot.  Check with updated notebook online.  Re-try again.  
+  
 --- end ---   
 
