@@ -93,7 +93,7 @@ Fast.ai is really good for those interested in practical applications and starti
      This is also a modern method applied to almost all situations.  
      http://course18.fast.ai/lessons/lesson2.html  
    
-   * Started watching lesson 3.  Want to finish all 7 lectures 2018 version this month, 10/4/2019.  
+   * Started watching lesson 3.  To finish part 1 - 7 lessons this Fall 2019.   
  
 --- end ---  
 
