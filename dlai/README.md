@@ -1,17 +1,28 @@
-## My exercises & practice - deeplearning.ai specialization on Coursera.org  
+# My exercises & practice - deeplearning.ai on Coursera.org  
 
 #### Author: Jennifer E Yoon  
 
 #### Class 1: Neural Networks  
 
-  * Finished week 1, week 2, part of week 3. - 9/5/2019.   
-  * Rewatched all of week 1, 2, and start of 3 -- third time.  
-  * Studying Numpy tutorial notebook, first nn notebook, second detailed nn notebook.  
-  * Started week 3, flower classification notebook - 10/5/2019.  
+Setup:  
+  
   * Downloaded all materials for Class 1 and organized into correct folders.  
   * Read FORUM instructions for setup on local computer, but instructions mainly for Ubuntu on WSL.  
   * Seems rather simpler to just manually download files, and use Conda to install packages as needed.  
     Each notebook tells you which additional libraries need to be loaded.  
+  * Ubuntu Conda3 python 3.7 produce error for plotting Matplotlib.  Investigate further. Check Coursera Matplotlib version. 
+    - Coursera uses Python 3.6, programs installed in /opt/ folder. 
+
+Notes:  
+
+ * Week 1 in introduction to the concept of deep learning and history.  No homework.  
+ * Week 2: Cat or no Cat notebook.  Binary classification, use logistic regression and sigmoid activation function.  
+           - Also has tips on Numpy.  Mainly, do not use rank 1 array for column or row vector.  
+             Always use rank 2.  [5, 1] or [1, 5] but not (5, ) or (5, ).T  
+ * Week 3: Planar flower petals notebook.  Multiclass classification, use SKlearn, tanh activation function.  
+ * Week 4: Culmination of all previous weeks of work. Fully connected neural network instructions.  
+           - Building deep nn step by step notebook  
+           - Deep neural network notebook  
 
 #### Class 4: Convolutional Neural Networks  
 
@@ -83,11 +94,6 @@ Fast.ai is really good for those interested in practical applications and starti
      http://course18.fast.ai/lessons/lesson2.html  
    
    * Started watching lesson 3.  Want to finish all 7 lectures 2018 version this month, 10/4/2019.  
-      
-#### History  
-
- * Last update 9/11/2019   
- * Last update 10/5/2019  
  
 --- end ---  
 
