@@ -57,8 +57,13 @@
   * Send out message to Meetup re Nov 2019 event -- done.  
   * Ubuntu Conda3 setup Matplotlib install error - Planar notebook.  Fix.  
   * Carefully do both notebooks for week 4.  Read math.  Read Deep Learning books on math review.
-  * Read Python Deep Learning Packet book, Bishop book chapter 5 on nn.
+  * Read Python Deep Learning Packet book, Bishop book chapter 5 on nn.  
+  
   ---------------
+#### Tasks Nov 2019.  
+
+* Buy bus ticket to NYC - PyData NYC.  
+  
   * Vanderplas - Chapter 5 end HOG Histogram or Oriented Features, replicate.  Similar to Stanford CS231n features assignemnt?  
   * Finished reviewing all of Vanderplas Numpy, Matplotlib 3D. 
   * Next read Vanderplas Chp 5. 
