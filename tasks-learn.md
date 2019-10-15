@@ -80,6 +80,12 @@ fast.ai deep learning part 1 and part 2.
   * Watch dlak class 4 videos, finish class1 weeks 3 and 4 videos.  
   * Fast.ai v 0.7 install on Ubuntu Conda3 environment, new create.  
   
-   
+#### Tasks 10/15/2019 - Prep for PyData NY, Nov 4-6 2019.  
+
+ * buy bus tickets
+ * Finish Level 1 Projects, Graphs  
+ * Finish Articles - link to Neural Styles Transfer, Brain Segmentation, GANs greedy adversarial networks.  
+ * Clean House  
+ 
    
     
