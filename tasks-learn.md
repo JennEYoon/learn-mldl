@@ -3,16 +3,8 @@
  #### 7/20/2019 update  
  
  * Github -- does not like large files, cs231n data set and other files too large!
-   Load working jupyter notebooks to Github somehow.
-   Download Coursera books
-   Save cs231n notebooks without data sets.
-   
- * cs231n -- assignment 1 files uploaded.
-   Did not upload class notes.  Too complicated with css and formating.
-   Data file too large, DO NOT upload to github.
-   
+   Download Coursera books.   Save cs231n notebooks without data sets.
  * deeplearning.ai -- all classes notesbooks with solution uploaded.  
- 
  * fastai -- class notebooks to upload later.
  
 #### Aug 5, 2019 12:09 PM
