@@ -1,7 +1,7 @@
 # My Notes from PyData NY 2019 Conference  
 
-I will be in NYC for PyData NY 2019 Conference, from November 4-6 2019. 
-This folder will be used to collect my notes and exercises from that conference.  
+I will be in New York City for PyData NY Conference, from November 4-6 2019. 
+This folder will be used to collect my notes and exercises.  
 
 #### Dates: November 4 - 6, 2019  
 
@@ -12,4 +12,6 @@ This folder will be used to collect my notes and exercises from that conference.
    
  * Download notebooks and review tutorials.  
  
+ * Buy bus ticktets  
  
+ * Buy extra data plan for my phone  
