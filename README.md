@@ -4,6 +4,7 @@ I am learning Python Machine Learning and Deep Learning.  My goal is to document
 
 ### Author:  Jennifer E. Yoon   
 
+
 **Main Classes:**  
 
  * Stanford CS231n Spring 2019, Convolutional Neural Networks for Visual Recognition  
@@ -35,23 +36,15 @@ I am also a member of a Meetup group in Sterling, Virginia that are learning Sta
 
 **Other Resource:**  
 
-Bishop, Pattern Recognition
-https://drive.google.com/file/d/1jfoiJDm6VdvzBcI3hbesInPQYNwFOOf3/view?usp=sharing
+Bishop, Pattern Recognition  
+https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf  
 
-Deep Learning with Python
-(Keras/TensorFlow, free complete book online)
-https://www.manning.com/books/deep-learning-with-python
+Machine Learning with TensorFlow   
+https://www.manning.com/books/machine-learning-with-tensorflow  
 
-Machine Learning with TensorFlow
-(free complete book online)
-https://www.manning.com/books/machine-learning-with-tensorflow
-
-Goodfellow et al., Deep Learning book
-https://drive.google.com/file/d/1lpbiI1hEqkReo3HjxzlKaXfeDRr39RHQ/view?usp=sharing
-
-Python Deep Learning Packt 2019 book.
-https://drive.google.com/open?id=1wTM3mpMQwVCBMU9UrZ-7y_o5Rcabcf2e
-Pretty good book. Has a short intro ML chapter. Mostly Deep Learning.
+Goodfellow et al., Deep Learning book  
+http://www.deeplearningbook.org/  
+http://www.deeplearningbook.org/exercises.html  
 
 
 #### Correcting My Errors
@@ -71,5 +64,5 @@ Use a pull request to make corrections or to share additional information.  Typo
  * Add detail to dlai folder in preparation for local Meetup starting on Coursera.org's   
    **DeepLearning.AI Specialization** classes.  Date 9/8/2019.      
  * Move out "books" folder from inside "CS231n" class to root of repo - 9/20/2019.      
-   
+ * Rewrite "books" references.    
 
