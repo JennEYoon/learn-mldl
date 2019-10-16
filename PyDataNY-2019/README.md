@@ -8,6 +8,8 @@ This folder will be used to collect my notes and exercises from that conference.
 #### Tasks 10/16/2019  
 
  * Schedule went live, review and select items.  
+   - https://pydata.org/nyc2019/schedule/  
+   
  * Download notebooks and review tutorials.  
  
  
