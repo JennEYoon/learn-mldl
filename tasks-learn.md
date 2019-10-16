@@ -77,7 +77,10 @@ fast.ai deep learning part 1 and part 2.
  * buy bus tickets
  * Finish Level 1 Projects, Graphs  
  * Finish Articles - link to Neural Styles Transfer, Brain Segmentation, GANs greedy adversarial networks.  
- * Clean House  
+ * Download schedule for Pydata NY - done 10/16/2019.  
+ * Investigate talks, tutorials, try out notebooks.  
+
+
  
    
     
