@@ -1,10 +1,8 @@
-## My learning adventure in Python machine learning and deep learning.  
+# My adventure in Python machine learning.  
 
 I am learning Python Machine Learning and Deep Learning.  My goal is to document my progress on a GitHub repo.  
 
 ### Author:  Jennifer E. Yoon   
-
-  
 
 **Main Classes:**  
 
@@ -34,6 +32,26 @@ Folder structure will be either by topic or by class name.
   
 I am also a member of a Meetup group in Sterling, Virginia that are learning Stanford CS231n together.  
  * https://www.meetup.com/Data-Science-Machine-Learing-Collaborative-Learning-Group/  
+
+**Other Resource:**  
+
+Bishop, Pattern Recognition
+https://drive.google.com/file/d/1jfoiJDm6VdvzBcI3hbesInPQYNwFOOf3/view?usp=sharing
+
+Deep Learning with Python
+(Keras/TensorFlow, free complete book online)
+https://www.manning.com/books/deep-learning-with-python
+
+Machine Learning with TensorFlow
+(free complete book online)
+https://www.manning.com/books/machine-learning-with-tensorflow
+
+Goodfellow et al., Deep Learning book
+https://drive.google.com/file/d/1lpbiI1hEqkReo3HjxzlKaXfeDRr39RHQ/view?usp=sharing
+
+Python Deep Learning Packt 2019 book.
+https://drive.google.com/open?id=1wTM3mpMQwVCBMU9UrZ-7y_o5Rcabcf2e
+Pretty good book. Has a short intro ML chapter. Mostly Deep Learning.
 
 
 #### Correcting My Errors
