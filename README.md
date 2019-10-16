@@ -18,17 +18,22 @@ I am learning Python Machine Learning and Deep Learning.  My goal is to document
       https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning  
    
  * Udacity classes in machine learning  
-    * Mango DB  
-    * Intro to Machine Learning  
     * Intro to Tensorflow for Deep Learning  
+      https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187  
     
 **Main Books:**  
+
  * Jake VanderPlas, Python Data Science Handbook (c 2017)  
    - https://github.com/jakevdp/PythonDataScienceHandbook  
  
  * Francois Chollet, Deep Learning with Python (c 2018)  
    - https://github.com/fchollet/deep-learning-with-python-notebooks  
 
+ * James, Witten, Hastie, Tibshirani, Introduction to Statistical Learning with R  
+   - http://faculty.marshall.usc.edu/gareth-james/ISL/  
+   - http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf  
+   
+   
 Folder structure will be either by topic or by class name.  
   
 I am also a member of a Meetup group in Sterling, Virginia that are learning Stanford CS231n together.  
