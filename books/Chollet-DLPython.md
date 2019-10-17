@@ -15,6 +15,6 @@ Upload my exercises for this book.
       on Ubuntu with python 3.7 and conda3.  
       Need to use API to load cifar10.  Saw some examples.  
 
-# Second book -- Packet for Deep Learning -- add mention
-
-  * Get github code samples.
+ * 10/17/2019 -- TensorFlow 2.0 out of Beta.  
+      Install TF 2.0 on Ubuntu conda3 setup.
+      Try out exercises from this book - December 2019. 
