@@ -1,16 +1,7 @@
-#  Books & External Resources for Machine Learning and Deep Learning  
+#  Books & External Resources for Machine Learning and Deep Learning     
 
-#### My Google Drive shareable links  
-(Don't upload, takes up disk space in my github local repo.
- Only one book uploaded, Machine Learning with TensorFlow 5 MB, smallest.)    
-
-#### To DO -- Change links from my google drive to publisher's official URLs.  
-
- * Bishop, Pattern Recognition  
-   https://drive.google.com/file/d/1jfoiJDm6VdvzBcI3hbesInPQYNwFOOf3/view?usp=sharing  
- 
  * VanerPlas, Python Data Science Handbook    
-   https://drive.google.com/file/d/1gb_48QCsQoUfTp_m7K76Gafj4y-4jnl3/view?usp=sharing  
+   https://jakevdp.github.io/PythonDataScienceHandbook/
     
  * Deep Learning with Python  
    (Keras/TensorFlow, free complete book online)  
@@ -21,22 +12,16 @@
    https://www.manning.com/books/machine-learning-with-tensorflow  
 
  * Goodfellow et al., Deep Learning book  
-   https://drive.google.com/file/d/1lpbiI1hEqkReo3HjxzlKaXfeDRr39RHQ/view?usp=sharing
+   http://www.deeplearningbook.org/  
+  
+ * Bishop, Pattern Recognition  
+   https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf  
+  
+ * AMath301 Univ of Washington
+   http://courses.washington.edu/am301/docs/pdf/301.pdf   
  
- * Python Deep Learning Packt 2019 book.  
-   https://drive.google.com/open?id=1wTM3mpMQwVCBMU9UrZ-7y_o5Rcabcf2e  
-   Pretty good book.  Has a short intro ML chapter.  Mostly Deep Learning.  
-   
-#### External Resources & Links  
-
-  * knn blog & code - to add  
-  
-  * Math of SVM - to add   
-  
-  * AMath301 Univ of Washington - to add  
-  
-  * Partial Differential Equations textbook (PDE)  
-    https://drive.google.com/file/d/1eGt-0ubTkKhirLut3xH9ZHamDqYkEvnU/view?usp=sharing  
+ * Math of SVM
+   https://medium.com/@ankitnitjsr13/math-behind-support-vector-machine-svm-5e7376d0ee4d  
      
      
-  
+ ##### Removed all links to my google drive, copyrighted materials.   
