@@ -1,0 +1,7 @@
+Windows cmd.exe shell
+
+"type" filename -- same as edit.  Edit discontinued in Windows 10
+"notepad" filenmae -- opens text file in separate window w Notepad a;;.
+
+nano for Windows 10 available.
+

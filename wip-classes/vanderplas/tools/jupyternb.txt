@@ -1,0 +1,7 @@
+how to use jupyter notebook
+
+!shell commands
+
+%magic and %%cell only magic
+
+%reload

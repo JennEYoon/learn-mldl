@@ -1,0 +1,12 @@
+Pandas practices
+
+iloc, loc
+
+groupby
+
+join (inner is smaller, intersection outer is larger, union)
+join (left - key, right - key)
+
+Pivot table
+
+Time series df.name.betweentime()

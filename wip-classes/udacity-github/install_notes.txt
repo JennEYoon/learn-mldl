@@ -1,0 +1,33 @@
+#  Install notes for SEC data ml  
+
+Date:  8/25/2019  7:50 PM  
+
+    * Created new conda base environment in WSL Ubutu.
+      \\wsl$\Ubuntu\home\jyoon\conda3\python3.7\
+      Installed ipython/jupyter notebook interface
+      Installed numpy, pandas, matplotlib, seaborn, scipy, 
+          sklearn, pytorch, tensorflow.  
+          tensorflow-datasets installed.  
+          To update to TensorFlow v 2.0. Out of Beta now 9/21/2019.  
+      
+    * Root local repo on my machine
+      C:\python\secdataml
+      Google Drive backup & sync added.
+      .gitignore file added.
+      
+    * Both ipython shell and jupyter notebook works.
+      Need to copy URL to Chrome browser (no browser installed on Ubuntu).
+      Firefox on Ubuntu installed, but can't open window. -- works now 8/26/2019.  Disabled auto-startup VcXServ, Find out how to fix startup.
+      
+    * Ubuntu sudo password is my usual.
+    
+* Apple bluetooth keyboard works better than Logitech bluetooth keyboard.
+      More accurate.
+      Main change is location of Control Key -- moved over 1 spot.
+      
+* Ubuntu keyboard shortcuts  
+  * Shift + Command/Control + C/V/X  copy, cut, paste
+  * Test Apple keyboard Clover-command key for Ubuntu terminal keyboard shortcuts.  
+  
+  
+-----------    

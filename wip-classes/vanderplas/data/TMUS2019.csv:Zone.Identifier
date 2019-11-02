@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://finance.yahoo.com/quote/TMUS/history?p=TMUS
+HostUrl=https://query1.finance.yahoo.com/v7/finance/download/TMUS?period1=1552684657&period2=1555363057&interval=1d&events=history&crumb=XTMHY8id4g2

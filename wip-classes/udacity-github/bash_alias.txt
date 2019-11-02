@@ -1,0 +1,26 @@
+# bash alias  
+ 
+Save to .bashrc a startup file.
+
+To make the alias persistent you need to declare it in the ~/.bash_profile or ~/.bashrc file. Open the ~/.bashrc in your text editor:
+
+nano ~/.bashrc
+Copy
+and add your aliases:
+
+~/.bashrc
+# Aliases
+# alias alias_name="command_to_run"
+
+# Long format list, show hidden files (LL)
+alias ll="ls -la"
+
+# Print my public IP
+alias myip='curl ipinfo.io/ip'
+
+# Added alias for
+
+alias cpy="cd /mnt/c/python
+
+alias cw231="cd /mnt/c/python/work/w_231"
+# Working folder for cs231, NOT github repo for CS231 in learn-mldl.

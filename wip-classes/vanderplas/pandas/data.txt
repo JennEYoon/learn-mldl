@@ -1,0 +1,10 @@
+reading and writing data
+
+JSON format
+
+Web Scraping -- tables using beautiful soup 4.
+Web Scraping -- paragraph text, looking for email addr, website addr, link addr.
+
+email spam filter, Python built-in email library
+
+More obsure data formats.

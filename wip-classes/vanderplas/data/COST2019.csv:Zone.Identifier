@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://finance.yahoo.com/quote/COST/history?p=COST
+HostUrl=https://query1.finance.yahoo.com/v7/finance/download/COST?period1=1552684526&period2=1555362926&interval=1d&events=history&crumb=XTMHY8id4g2

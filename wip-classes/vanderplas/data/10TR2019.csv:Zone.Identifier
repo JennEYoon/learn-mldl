@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://finance.yahoo.com/quote/%5ETNX/history?p=%5ETNX
+HostUrl=https://query1.finance.yahoo.com/v7/finance/download/%5ETNX?period1=1552685152&period2=1555363552&interval=1d&events=history&crumb=XTMHY8id4g2

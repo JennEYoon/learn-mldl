@@ -1,0 +1,16 @@
+#  Tasks about Git and Github.  
+
+* Read through documentation again on using Git -- all about merge, rebase, force-hard reset, etc.  
+
+* Link to online docs:  https://git-scm.com/docs  
+
+   - https://git-scm.com/docs/git-cherry-pick  
+   - https://git-scm.com/docs/git-rebase  
+
+* Official Git Tutorial:  https://git-scm.com/docs/gittutorial  
+
+* Link to PDF Pro Git book: 
+    - https://drive.google.com/open?id=1QnrZGkh4UHe0l__Uvc79MIqq-e4kzRfj  
+      (in work/w_udacity/udacity-downloads/)
+    - file:///C:/python/work/py_libr/progit.pdf  
+

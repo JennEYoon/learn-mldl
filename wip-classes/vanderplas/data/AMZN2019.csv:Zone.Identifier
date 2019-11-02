@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://finance.yahoo.com/quote/AMZN/history?p=AMZN
+HostUrl=https://query1.finance.yahoo.com/v7/finance/download/AMZN?period1=1552684388&period2=1555362788&interval=1d&events=history&crumb=XTMHY8id4g2

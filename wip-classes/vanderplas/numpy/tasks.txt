@@ -1,0 +1,7 @@
+numpy practices
+
+KNN 2 digit example
+
+KNN 10 digits (x, y) 2 column example -- to do next.  9/9/2019
+
+Fancy indexing, argsort
