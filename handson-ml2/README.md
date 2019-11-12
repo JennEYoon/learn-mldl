@@ -18,5 +18,5 @@ Cloned repo is in my "c:/python/work/w_handsonML2" folder.
 
 Has a lot of confirmed errata, so the book seems to have gone to press without correcting many of the mistakes.  Maybe don't buy the physical book anymore.  Have ebook early release version.  This may be sufficient, since even the published version has many errata.  
 
- * First full-cycle notebook - housing prices, too generic dataset, but includes deep learning.  Look into it, and do a better project.  Only use certain houses to see if I can get an advantage in housing price prediction.  
+ * #2 notebook - full-cycle - housing prices, too generic dataset, but includes deep learning.  Look into it, and do a better project.  Only use certain houses to see if I can get an advantage in housing price prediction.  
 
