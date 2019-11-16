@@ -1,7 +1,0 @@
-# Test to edit Github history date.
-
-Second file, latest commit, change date to 9/14/2019.
-
-Commit actual date 9/16/2019 6:40 PM EST.
-
-end
