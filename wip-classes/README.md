@@ -5,6 +5,16 @@
       
   1.  Suppliment math with Bishop, Pattern Recognition and Machine Learning book.
   
-  1.  Also some portions of ESLR and ESL books -- math and R examples.
+  1.  Also some portions of ESLR and ESL books -- math and R examples.  
+
+  1.  Finished Udemy - Data Science Machine Learning Bootcamp class.  
+
+----- Future --------
+
+  1.  Bought Effective Python 2nd ed book. -- not released yet, but link available. 
+
+  1.  Hands on Machine Learning, 2nd ed -- Created folder, do exercises here. 
+      - Links in folder.  
+
   
  ###  Supporting material for my personal long-project, **SEC data machine learning** 
