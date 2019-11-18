@@ -20,3 +20,4 @@ Has a lot of confirmed errata, so the book seems to have gone to press without c
 
  * #2 notebook - full-cycle - housing prices, too generic dataset, but includes deep learning.  Look into it, and do a better project.  Only use certain houses to see if I can get an advantage in housing price prediction.  
 
+ * Update 11/18/2019 - Moved book to wip2-classes folder.
