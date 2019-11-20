@@ -1,4 +1,4 @@
-# README for Classes, folder wip2-classes in "datasciY" repo.     
+# README wip2-classes folder  
 
   1.  Vanderplas book -- Exclusive focus for the next 2 months.  Reproduce many of the examples 
       and extend them for my datasciY.com postings.
@@ -15,6 +15,8 @@
 
   1.  Hands on Machine Learning, 2nd ed -- Created folder, do exercises here. 
       - Links in folder.  
-
+  1.  Elegant Scipy book - recloned to local computer, forked copy on Github.  
+      - To read and submit confusing parts to Juan.  
+      - Finish write up of install notes on Windows 10, WSL Ubuntu.  
   
  ###  Supporting material for my personal long-project, **SEC data machine learning** 
