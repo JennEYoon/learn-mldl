@@ -17,9 +17,11 @@ I am learning Python Machine Learning and Deep Learning.  My goal is to document
  * Coursera.org, deeplearning.ai class 4, Convolutional Neural Networks  
       https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning  
    
- * Udacity classes in machine learning  
-    * Intro to Tensorflow for Deep Learning  
-      https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187  
+ * Coursera.org, Introduction to TensorFlow  
+      https://www.coursera.org/learn/introduction-tensorflow  
+      
+ * Udemy.com, Data Science Bootcamp class  
+      Add link later.  
     
 **Main Books:**  
 
