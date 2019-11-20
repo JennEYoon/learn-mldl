@@ -18,6 +18,12 @@ Author: Jennifer E. Yoon
   * Start with Chapter 3, after intro and Numpy.  
   ...
   
+  * Recreate local Git repo - Nov 20, 2019 done.    
+    - Forked to my Github account  
+    - Cloned my Forked repo to local computer  
+    - Add git remote upstream (original master)  
+    - git pull upstreas master  (sync my local from authors' remote github master) 
+    - git push origin master  (push sync to my copy on remote github fork)  
   
   
   --- end ---  
