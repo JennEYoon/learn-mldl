@@ -20,8 +20,9 @@ I am learning Python Machine Learning and Deep Learning.  My goal is to document
  * Coursera.org, Introduction to TensorFlow  
       https://www.coursera.org/learn/introduction-tensorflow  
       
- * Udemy.com, Data Science Bootcamp class  
-      Add link later.  
+ * Udemy.com, Data Science and Machine Learning Bootcamp class  
+      Author code so your dollars will support the author rather than Udemy.  
+      https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/?couponCode=CURRENT_PY_DS_ML  
     
 **Main Books:**  
 
