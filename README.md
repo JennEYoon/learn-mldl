@@ -63,13 +63,5 @@ Use a pull request to make corrections or to share additional information.  Typo
  * Started on 7/17/2019 as a Github public repo.  
  * Add folders for CS231n, dlai (deep learning .ai), Chollet-DLPy book, 
    Vanderplas machine learning book.
- * Renamed repo to "learn-mldl" from "learn-ML-DL".  Date 8/2/2019
- * Move Udemy-dsml folder to datasciY repo.  Rename "udemy."
- * Add Udacity folder -- data science, machine learning, career folder.
- * Add back fastai folder for 2019 dl1 my exercises, "fastv1" python3.7 conda env.
-    - Github DOES NOT RENDER "raw" cells in browser, even though it works in Windows.
- * Add detail to dlai folder in preparation for local Meetup starting on Coursera.org's   
-   **DeepLearning.AI Specialization** classes.  Date 9/8/2019.      
- * Move out "books" folder from inside "CS231n" class to root of repo - 9/20/2019.      
- * Rewrite "books" references.    
+
 
