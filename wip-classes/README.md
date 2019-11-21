@@ -18,5 +18,8 @@
   1.  Elegant Scipy book - recloned to local computer, forked copy on Github.  
       - To read and submit confusing parts to Juan.  
       - Finish write up of install notes on Windows 10, WSL Ubuntu.  
+  1.  Bayesian Inference - Stan book, Think Bayes book.  
+      - books:  copies in my Gdrive Current.  
+      - files:  C:\python\work\w_Bayesian_stats  
   
- ###  Supporting material for my personal long-project, **SEC data machine learning** 
+
