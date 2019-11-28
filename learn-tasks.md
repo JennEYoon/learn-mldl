@@ -1,4 +1,4 @@
-# Tasks for learn-MD-DL github repo.
+# Tasks for Learning - Python Machine Learning & Deep Learning.  
 
  #### 7/20/2019 update  
  
@@ -74,13 +74,33 @@ fast.ai deep learning part 1 and part 2.
   
 #### Tasks 10/15/2019 - Prep for PyData NY, Nov 4-6 2019.  
 
- * buy bus tickets
  * Finish Level 1 Projects, Graphs  
  * Finish Articles - link to Neural Styles Transfer, Brain Segmentation, GANs greedy adversarial networks.  
- * Download schedule for Pydata NY - done 10/16/2019.  
  * Investigate talks, tutorials, try out notebooks.  
+ * Reproduce tutorials -- Measles Viz, Hacking data, Testing talk.  
+    * Read PyTest book, skim parts WEB Test driven Dev.  
+    * Geosnap has tests.  Study.  Write my own for inflation.  
 
+#### Tasks updata as of Nov 28, 2019  
 
+ * Start reading ***Effective Python 2nd ed*** book.  
+ * Do dlai week 4 notebooks and video before next Meetup.  
+   - bring cupcakes and wine/cups for Dec Meetup.  Relax and get to know people.  
+ * Bootstrap Framework -- study and use part for text-flow around images.  Maybe better Nav bar?  
+ * Head First Javascript -- 1 month to study.  Good to know generally.  Try creating web-event scripts.  
+ * Aurora MySQL or Postgres SQL -- hook up stock trading data as database tables.  
+ * StockWiki.com -- revammp -- use for Aurora database.  
+    - write some option pricing model in Python.  
+    - Use Python for Finance book code. :-)  
+    - TA-Lib python library and 
+    - Technicals from Alpha vantage
+    - and others I already know about.  
+    - QuantSight.com -- Boateng said was best resource.  Use it.  
+
+  
+  
+  
+  
  
    
     
