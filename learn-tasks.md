@@ -96,6 +96,8 @@ fast.ai deep learning part 1 and part 2.
     - Technicals from Alpha vantage
     - and others I already know about.  
     - QuantSight.com -- Boateng said was best resource.  Use it.  
+    
+ * Use already available facial recognition DL model to get a 99% validation on my own face.  Put this on my datasciy.com and other websites.  Looks impressive.  The only thing Ken did right.  He seems to get others to buy in on his "expertise" in deep learning from this one item.  I should copy this idea.     
 
   
   
