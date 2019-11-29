@@ -3,11 +3,12 @@
  * VanerPlas, Python Data Science Handbook    
    https://jakevdp.github.io/PythonDataScienceHandbook/  
    
- * Elegan-Scipy, Juan Nunez-Iglesias et al., live notebooks via MyBinder:  
+ * Juan Nunez-Iglesias et al., Elegan-Scipy  
+   MyBinder: 
    https://notebooks.gesis.org/binder/jupyter/user/elegant-scipy-notebooks-bulvssc8/notebooks/index.ipynb  
    Github master repo:  https://github.com/elegant-scipy/elegant-scipy  
     
- * Deep Learning with Python, Chollet  
+ * Chollet, Deep Learning with Python  
    (Keras/TensorFlow, free complete book online)  
    https://www.manning.com/books/deep-learning-with-python  
  
