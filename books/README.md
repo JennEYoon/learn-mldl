@@ -26,7 +26,7 @@
    Link:  https://effectivepython.com/  
    Github codes:  https://github.com/bslatkin/effectivepython 
   
- * Handson Machine Learning, 2nd edition: 
+ * Handson Machine Learning, 2nd edition  
    Link: 
   
  * AMATH301 Univ of Washington  
