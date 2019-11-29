@@ -12,7 +12,7 @@
    (Keras/TensorFlow, free complete book online)  
    https://www.manning.com/books/deep-learning-with-python  
  
- * Machine Learning with TensorFlow  
+ * Shukla with Kriklas, Machine Learning with TensorFlow  
    (free complete book online)  
    https://www.manning.com/books/machine-learning-with-tensorflow  
 
