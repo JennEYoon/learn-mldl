@@ -21,8 +21,9 @@
  * Bishop, Pattern Recognition  
    https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf  
   
- * Effective Python, 2nd edition
-   Link:  
+ * Brett Slatkin, Effective Python, 2nd edition   
+   Link:  https://effectivepython.com/  
+   Github codes:  https://github.com/bslatkin/effectivepython 
   
  * Handson Machine Learning, 2nd edition: 
    Link: 
