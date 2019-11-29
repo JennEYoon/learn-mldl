@@ -21,6 +21,12 @@
  * Bishop, Pattern Recognition  
    https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf  
   
+ * Effective Python, 2nd edition
+   Link:  
+  
+ * Handson Machine Learning, 2nd edition: 
+   Link: 
+  
  * AMATH301 Univ of Washington  
    http://courses.washington.edu/am301/docs/pdf/301.pdf   
  
