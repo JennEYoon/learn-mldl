@@ -70,4 +70,7 @@
   * Vanderplas MNist book definitely has error in predict plot.  Check with updated notebook online.  Re-try again.  
   
 --- end ---   
+#### Tasks Dec 2019  
 
+ * To Add: Meetup links from last night.  Peter's talk both in CS231 and DLAI folder.  
+ 
