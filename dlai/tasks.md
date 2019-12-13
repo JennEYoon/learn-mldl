@@ -73,4 +73,5 @@
 #### Tasks Dec 2019  
 
  * To Add: Meetup links from last night.  Peter's talk both in CS231 and DLAI folder.  
+ * To Add: Meetup links from Nov 2019, Sean's notebooks and Dan's notebooks, DLAI wk4.  
  
