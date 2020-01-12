@@ -59,7 +59,6 @@
   * Carefully do both notebooks for week 4.  Read math.  Read Deep Learning books on math review.
   * Read Python Deep Learning Packet book, Bishop book chapter 5 on nn.  
   
-  ---------------
 #### Tasks Nov 2019.  
 
 * Buy bus ticket to NYC - PyData NYC.  
@@ -69,9 +68,15 @@
   * Next read Vanderplas Chp 5. 
   * Vanderplas MNist book definitely has error in predict plot.  Check with updated notebook online.  Re-try again.  
   
---- end ---   
 #### Tasks Dec 2019  
 
  * To Add: Meetup links from last night.  Peter's talk both in CS231 and DLAI folder.  
  * To Add: Meetup links from Nov 2019, Sean's notebooks and Dan's notebooks, DLAI wk4.  
+ 
+=============  
+
+#### Tasks January 2020  
+
+ * To add DLAI class 2 materials to Github.  
+ * Prep week 1 for Meetup Jan 14, 2020.  
  
