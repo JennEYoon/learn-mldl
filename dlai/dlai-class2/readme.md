@@ -2,6 +2,13 @@
 
 Meetup start in January 2020 with Class 2 of Andrew Ng's DeepLearning.AI Specialization on Coursera.org.  
 
+Reference:  https://www.deeplearning.ai/
+
+Coursera.org:  
+https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning  
+https://www.coursera.org/learn/deep-neural-network/home/welcome
+https://tkgjfipgpkescvqqfhufpb.coursera-apps.org/tree  
+
 ## Date: January 14, 2020 start  
 
 ## Author:  Jennifer Yoon  
