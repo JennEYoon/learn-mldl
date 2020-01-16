@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<!-- saved from url=(0111)https://tkgjfipgpkescvqqfhufpb.coursera-apps.org/view/week5/Gradient%20Checking/images/dictionary_to_vector.png -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <title>dictionary_to_vector.png</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+  <style type="text/css">
+    html, body, #container {
+      height: 100%;
+    }
+    body, #container {
+      overflow: hidden;
+      margin: 0;
+    }
+    #iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
+  </style>
+  <div id="container">
+    <iframe id="iframe" sandbox="allow-scripts" src="./dictionary_to_vector_files/dictionary_to_vector.html"></iframe>
+  </div>
+
+
+</body></html>
