@@ -2,12 +2,12 @@
 
 Meetup start in January 2020 with Class 2 of Andrew Ng's DeepLearning.AI Specialization on Coursera.org.  
 
-## Date: Dec 14, 2019 start  
+## Date: January 14, 2020 start  
 
 ## Author:  Jennifer Yoon  
 
 ### Tasks Next:  
 
  * Download files for all of class 2.  
- * Setup CoLab environment to run Coursera Notebook  
- * Also setup Ubuntu environment on my laptop to run Coursera Notebook  
+ * Setup CoLab environment to run Coursera Notebook.    
+ * Also setup Ubuntu Linux environment on my laptop.    
