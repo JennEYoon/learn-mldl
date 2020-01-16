@@ -9,6 +9,6 @@ Meetup start in January 2020 with Class 2 of Andrew Ng's DeepLearning.AI Special
 ### Tasks Next:  
 
  * Download files for all of class 2.  
-   - Downloaded week 5, week 6.  
+   - Downloaded week 5, week 6, week 7 - DONE.    
  * Setup CoLab environment to run Coursera Notebook.    
  * Also setup Ubuntu Linux environment on my laptop.    
