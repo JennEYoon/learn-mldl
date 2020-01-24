@@ -53,6 +53,12 @@ Notes:
 
 ## Other Resources  
 
+#### 3 Blue 1 Brown on Neural Networks (4 videos).  
+
+  * There is a very clear summary of neural networks by 3 Blue 1 Brown on YouTube.  
+    It's a good summary of Class 1 and Class 4 of Coursera's DeepLearning.AI Specialization.  
+    https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi  
+
 #### Udacity - Intro to TensorFlow  
 
   * [Udacity - Intro to TF](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)    
