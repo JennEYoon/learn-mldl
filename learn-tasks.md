@@ -99,7 +99,10 @@ fast.ai deep learning part 1 and part 2.
     
  * Use already available facial recognition DL model to get a 99% validation on my own face.  Put this on my datasciy.com and other websites.  Looks impressive.  The only thing Ken did right.  He seems to get others to buy in on his "expertise" in deep learning from this one item.  I should copy this idea.     
 
-  
+#### Tasks update January 30, 2020.  
+
+ * Returning to working on Lear-mldl and datasciY.com  
+ * Learning DLAI class 2 and 3 together.  
   
   
   
