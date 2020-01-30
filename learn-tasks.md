@@ -101,7 +101,7 @@ fast.ai deep learning part 1 and part 2.
 
 #### Tasks update January 30, 2020.  
 
- * Returning to working on Lear-mldl and datasciY.com  
+ * Returning to working on Learn-mldl and datasciY.com  
  * Learning DLAI class 2 and 3 together.  
   
   
