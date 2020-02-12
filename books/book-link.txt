@@ -1,0 +1,5 @@
+https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi  
+3 Blue 1 Brown
+
+https://github.com/ageron/handson-ml2
+Aurelien Geron, Hands-on Machine Learning with Scikit-Lear, Keras & TensorFlow, 2nd ed. c 2019.
