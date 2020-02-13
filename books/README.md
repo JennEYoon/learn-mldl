@@ -16,11 +16,11 @@
  * Shukla with Fricklas, Machine Learning with TensorFlow    
    https://www.manning.com/books/machine-learning-with-tensorflow  
 
- * Goodfellow et al., Deep Learning book  
-   (Has more math and theory.)
+ * Goodfellow et al., Deep Learning book   
+   (Has more math and theory.)   
    http://www.deeplearningbook.org/  
  
- * Handson Machine Learning, 2nd edition
+ * Handson Machine Learning, 2nd edition  
    (The 2nd edition has chapters on deep learning, convolutional neural networks.)    
    Link: to add
  
