@@ -50,7 +50,7 @@ Folder structure will be either by topic or by class name.
  * dlai - folder for Coursera.com DeepLearning.AI Specialization classes.  
  * fastai - deep learning classes by fast.ai.  
   
-I am also a member of a Meetup group in Sterling, Virginia that are learning Stanford CS231n together.  
+I am also a member of a Meetup group in Sterling, Virginia that are learning Coursera Deep Learning AI Specialization classes together.  
  * https://www.meetup.com/Data-Science-Machine-Learing-Collaborative-Learning-Group/  
 
 
