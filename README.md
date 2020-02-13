@@ -36,23 +36,22 @@ I am learning Python Machine Learning and Deep Learning.  My goal is to document
    - http://faculty.marshall.usc.edu/gareth-james/ISL/  
    - http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf  
    
+ * Goodfellow et al., Deep Learning book  
+   - http://www.deeplearningbook.org/  
+   - http://www.deeplearningbook.org/exercises.html   
+   
+See **books** folder for more resources.  
+
+**Folder Organization:**  
    
 Folder structure will be either by topic or by class name.  
   
+ * CS231n - folder for learning Stanford class Convolutional Neural Networks for Visual Recognition.  
+ * dlai - folder for Coursera.com DeepLearning.AI Specialization classes.  
+ * fastai - deep learning classes by fast.ai.  
+  
 I am also a member of a Meetup group in Sterling, Virginia that are learning Stanford CS231n together.  
  * https://www.meetup.com/Data-Science-Machine-Learing-Collaborative-Learning-Group/  
-
-**Other Resource:**  
-
-Bishop, Pattern Recognition  
-https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf  
-
-Machine Learning with TensorFlow   
-https://www.manning.com/books/machine-learning-with-tensorflow  
-
-Goodfellow et al., Deep Learning book  
-http://www.deeplearningbook.org/  
-http://www.deeplearningbook.org/exercises.html  
 
 
 #### Correcting My Errors
