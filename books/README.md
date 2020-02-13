@@ -1,6 +1,6 @@
 #  Books & External Resources for Machine Learning and Deep Learning     
 
- * VanerPlas, Python Data Science Handbook    
+ * VanderPlas, Python Data Science Handbook    
    https://jakevdp.github.io/PythonDataScienceHandbook/  
    
  * Juan Nunez-Iglesias et al., Elegan-Scipy  
