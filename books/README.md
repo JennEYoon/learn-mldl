@@ -4,7 +4,7 @@
    (Best book for learning Python data science libraries, ex. NumPy, MatplotLib.)  
    https://jakevdp.github.io/PythonDataScienceHandbook/  
   
- * Juan Nunez-Iglesias et al., Elegan-Scipy  
+ * Juan Nunez-Iglesias et al., Elegant-Scipy  
    MyBinder: 
    https://notebooks.gesis.org/binder/jupyter/user/elegant-scipy-notebooks-bulvssc8/notebooks/index.ipynb  
    Github master repo:  https://github.com/elegant-scipy/elegant-scipy  
