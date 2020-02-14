@@ -20,14 +20,14 @@
    (Has more math and theory.)   
    http://www.deeplearningbook.org/  
  
- * Handson Machine Learning, 2nd edition   
-   (The 2nd edition has chapters on deep learning, convolutional neural networks.)    
-   Link: to add
+ * Aurelien Geron, Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow, 2nd ed. c 2019.  
+   (The 2nd edition has new chapters on deep learning.)    
+   Link: https://github.com/ageron/handson-ml2  
  
- * 3 Blue and 1 Brown playlist on Neural Networks.   
+ * 3 Blue and 1 Brown YouTube playlist on Neural Networks.   
    (This guy has very good visual summaries of complex math problems.  
     The Neural Networks playlist is a very good summary of visual deep learning.)  
-    Link: to add YouTube  
+    Link: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi   
 
  -----  
 
