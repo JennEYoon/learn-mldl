@@ -36,9 +36,9 @@
    Link:  https://effectivepython.com/  
    Github codes:  https://github.com/bslatkin/effectivepython 
 
- * Fluent Python  
+ * Luciano Ramalho, Fluent Python, c 2015.  
    (For upgrading your Python skills)  
-   Link: to add
+   Link: https://github.com/fluentpython  
 
  * Bishop, Pattern Recognition  
    (Math and Concepts.  Oldie but goodie.)  
