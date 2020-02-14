@@ -1,10 +1,11 @@
 #  Books & External Resources for Machine Learning and Deep Learning     
 
  * VanderPlas, Python Data Science Handbook    
-   (Best book for learning Python data science libraries, ex. NumPy, MatplotLib.)  
+   (Best book for learning Python data science libraries, ex. NumPy, MatplotLib, Scikit-learn.)  
    https://jakevdp.github.io/PythonDataScienceHandbook/  
   
  * Juan Nunez-Iglesias et al., Elegant-Scipy  
+   (Best book for learning Python Scipy library.)  
    MyBinder: 
    https://notebooks.gesis.org/binder/jupyter/user/elegant-scipy-notebooks-bulvssc8/notebooks/index.ipynb  
    Github master repo:  https://github.com/elegant-scipy/elegant-scipy  
