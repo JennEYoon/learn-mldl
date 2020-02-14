@@ -26,12 +26,6 @@ I am learning Python Machine Learning and Deep Learning.  My goal is to document
     
 **Main Books:**  
 
-https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi  
-3 Blue 1 Brown
-
-https://github.com/ageron/handson-ml2
-Aurelien Geron, Hands-on Machine Learning with Scikit-Lear, Keras & TensorFlow, 2nd ed. c 2019.
-
  * Jake VanderPlas, Python Data Science Handbook (c 2017)  
    - https://github.com/jakevdp/PythonDataScienceHandbook  
  
