@@ -56,7 +56,7 @@ Use a pull request to make corrections or to share additional information.  Typo
 #### History:  
 
  * Started on 7/17/2019 as a Github public repo.  
- * Add folders for CS231n, dlai (deep learning .ai), Chollet-DLPy book, 
+ * August and September 2019, add folders for CS231n, dlai (deep learning .ai), Chollet-DLPy book, 
    Vanderplas machine learning book.
- * February 2020, updating dlai folders for more classes.  
+ * February 2020, update dlai folders for more classes.  
 
