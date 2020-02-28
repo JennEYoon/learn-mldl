@@ -40,7 +40,7 @@
    (For upgrading your Python skills)  
    Link: https://github.com/fluentpython  
 
- * Bishop, Pattern Recognition  
+ * Bishop, Pattern Recognition, c 2006.   
    (Math and Concepts.  Oldie but goodie.)  
    Link: https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf  
      
