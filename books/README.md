@@ -54,4 +54,4 @@
    Link: https://medium.com/@ankitnitjsr13/math-behind-support-vector-machine-svm-5e7376d0ee4d  
      
      
- ##### Removed all links to my google drive, copyrighted materials.   
+ ##### Removed all links to my google drive for copyrighted materials.   
