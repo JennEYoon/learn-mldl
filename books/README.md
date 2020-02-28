@@ -46,7 +46,7 @@
      
  * AMATH301 Univ of Washington  
    (A very good "Math for CS" class. Has Singular Vector Decomposition (SVD) and  
-   Support Vector Machines (SVM). YouTube has full video of the class.)
+   Support Vector Machines (SVM). YouTube has full video of the class.)   
    Book Link: http://courses.washington.edu/am301/docs/pdf/301.pdf   
    YouTube Link: https://www.youtube.com/channel/UCEirPnFv_2QbvzrM67SnKPA  
  
