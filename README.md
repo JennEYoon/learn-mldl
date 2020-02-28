@@ -36,11 +36,7 @@ I am learning Python Machine Learning and Deep Learning.  My goal is to document
    - http://faculty.marshall.usc.edu/gareth-james/ISL/  
    - http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf  
    
- * Goodfellow et al., Deep Learning book  
-   - http://www.deeplearningbook.org/  
-   - http://www.deeplearningbook.org/exercises.html   
-   
-See **books** folder for more resources.  
+ * See **books** folder for more resources.  
 
 **Folder Organization:**  
    
