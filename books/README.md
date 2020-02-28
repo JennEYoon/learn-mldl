@@ -31,7 +31,7 @@
 
  -----  
 
- * Brett Slatkin, Effective Python, 2nd edition  
+ * Brett Slatkin, Effective Python, 2nd edition, c 2020.    
    (For upgrading your Python skills)  
    Link:  https://effectivepython.com/  
    Github codes:  https://github.com/bslatkin/effectivepython 
