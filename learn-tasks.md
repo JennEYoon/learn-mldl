@@ -106,7 +106,8 @@ fast.ai deep learning part 1 and part 2.
  
  ### Tasks update March 1, 2020  
  * Focusing on 3 books currently: VanderPlas ***Python Data Science Handbook***, Chollet ***Deep Learning with Python***, and Slatkin ***Effective Python 2nd ed***.  
- 
+ * Was expensive trying to use AWS Aurora Postgres SQL as a test. ~$45-60 for 1 month.  
+ * Instead, use MySQL or very old version of Postgres SQL on AWS Aurora, which is part of the free tier.  
  
  
  
