@@ -1,0 +1,7 @@
+To add working files for my Effective Python 2nd ed.  
+
+ * DO NOT copy code.  Type them in to a brand new Jupyter nb.  
+
+ * Feb 28, 2020 start date.  
+
+
