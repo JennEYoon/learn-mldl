@@ -1,3 +1,4 @@
-# Week 8, class 3.  
+# Week 8, class 3 notes.  
 No Jupyter notebook for class 3.  
-My own notes keep here.  
+Keep my own notes here.  
+
