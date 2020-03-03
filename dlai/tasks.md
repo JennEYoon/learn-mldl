@@ -9,7 +9,11 @@
 
 #### Tasks January 2020  
 
- * To add DLAI class 2 materials to Github.  
- * Prep week 1 for Meetup Jan 14, 2020.  
  * Find out what environment.yml file should contain.  
  * Setup local Linux-Conda environment for Coursera DLAI notebooks.  
+
+#### Tasks March 1, 2020  
+Uploading class 3 and 5.  
+To renumber class4 weeks.  
+
+***To finish DLAI by April 2020.  Sign-up and get Specialization Certificate.***  
