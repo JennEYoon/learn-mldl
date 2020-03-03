@@ -1,6 +1,6 @@
-# My adventure in Python machine learning.  
+# My adventure in Python machine learning (ML) and deep learning (DL).  
 
-I am learning Python Machine Learning and Deep Learning.  My goal is to document my progress on a GitHub repo.  
+My goal is to document my progress at learning Python ML and DL on a GitHub repo.  
 
 ### Author:  Jennifer E. Yoon   
 
