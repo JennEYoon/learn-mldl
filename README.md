@@ -23,6 +23,9 @@ My goal is to document my progress at learning Python ML and DL on a GitHub repo
  * Udemy.com, Data Science and Machine Learning Bootcamp class  
       Author code so your dollars will support the author rather than Udemy.  
       https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/?couponCode=CURRENT_PY_DS_ML  
+      
+ * Udemy.com, Introduction to PyTorch (2nd Meetup)  
+     Links:  to add  
     
 **Main Books:**  
 
