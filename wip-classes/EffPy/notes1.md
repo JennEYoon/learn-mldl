@@ -9,11 +9,17 @@ Date: March 9, 2020
  * Ordering of imports, standard library first then third-party modules, then my own modules. 
    Alpahbetize within each sub-sections.  
  * Absolute path instead of relative path.  If relative path is needed, use explicit.  
-   >from . import foo  
-   ># from current folder, import foo module.  
-   >from .. import bar  
-   ># from parent folder, import bar module 
+   ```
+   from . import foo  
+   from .foo import *  
+   # from current folder, import foo module. Useful if there are multiple "foo" modules.  
+   ```
    
+ * Importing from parent doesn't work, but can import from sub directory.  
+   ```from sub import bar ```
+   
+ * To run from parent, define PATH to parent variable first. Or run something in the parent folder to add it to Python path.   
+ 
 ## Chapter 3 Functions  
    
    
