@@ -11,7 +11,7 @@ Date: March 9, 2020
  * Absolute path instead of relative path.  If relative path is needed, use explicit.  
    ```
    from . import foo  
-   from current folder, import foo module. Useful if there are multiple "foo" modules.  
+   # from current folder, import foo module. Useful if there are multiple "foo" modules.  
    ```
    
  * Importing from parent doesn't work, but can import from sub directory.  
