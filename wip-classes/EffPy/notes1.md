@@ -37,7 +37,21 @@ Date: March 10,2020
    Use Class or pack the tuple into a named variable.  
    
  * Item 20: Prefer raising Error to returning **None**    
-   Example uses floating point type divide by zero. None can mean numerator is zero or denomiator is zero.  
+   Example uses floating print type divide by zero. None can mean numerator is zero or denomiator is zero.  
+   - Example best practice with input data types, output data type, and correct docstring:  
+   ``` python  
+   def careful_divide(a: float, b: float) -> float:
+       """Divides a by b. 
+       
+       Raises:
+           ValueError: When the inputs cannot be divided [by zero]. 
+       """
+       try:
+           return a/b
+       except ZeroDivisionError as e:
+           raise ValueError('Invalid inputs')
+   ```
+   
     - Also, example uses print statement string formatting that is new to Python 3.6+.  I need to practice more of these.  
     ```
     print(f'Min: {minimum}, Max: {maximum}')
