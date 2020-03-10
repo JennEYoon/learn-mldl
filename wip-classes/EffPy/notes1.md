@@ -30,7 +30,7 @@ Date: March 9, 2020
  
 ## Chapter 3 Functions  
    
-Date: March 10,2020  
+Date: March 10, 2020  
 
  * Item 19: Returning tuples from function call, use no more than 3 items.  
    It gets confusing and prone to error when 4 or more items are returned.  
