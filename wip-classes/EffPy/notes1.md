@@ -41,6 +41,6 @@ Date: March 10,2020
     - Also, example uses print statement string formatting that is new to Python 3.6+.  I need to practice more of these.  
     ```
     print(f'Min: {minimum}, Max: {maximum}')
-    
+    print(f'Shortest: {shortest:>4.0%}')
     
     ```
