@@ -19,12 +19,12 @@ Date: March 9, 2020
    ```from sub import bar ```
    
  * To run from parent, define PATH to parent variable first. Or run something in the parent folder to add it to Python path.   
-   '''
+   ```
    from .. import foo  
    from ..foo import bar  
    # These should work but doesn't.  
    # Try running python from parent directory, then try ..foo from inside a sub/bar module.  
-   '''
+   ``` 
    
  * Add how to set PATH from within python session, save a PATH to variable.    
  
