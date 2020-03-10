@@ -30,4 +30,17 @@ Date: March 9, 2020
  
 ## Chapter 3 Functions  
    
+Date: March 10,2020  
+
+ * Item 19: Returning tuples from function call, use no more than 3 items.  
+   It gets confusing and prone to error when 4 or more items are returned.  
+   Use Class or pack the tuple into a named variable.  
    
+ * Item 20: Prefer raising Error to returning **None**    
+   Example uses floating point type divide by zero. None can mean numerator is zero or denomiator is zero.  
+    - Also, example uses print statement string formatting that is new to Python 3.6+.  I need to practice more of these.  
+    ```
+    print(f'Min: {minimum}, Max: {maximum}')
+    
+    
+    ```
