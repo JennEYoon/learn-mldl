@@ -7,18 +7,30 @@ My goal is to document my progress at learning Python ML and DL on a GitHub repo
 
 **Main Classes:**  
 
- * Stanford CS231n Spring 2019, Convolutional Neural Networks for Visual Recognition  
-      http://cs231n.stanford.edu/  
-      http://faculty.marshall.usc.edu/gareth-james/ISL/  
+ ***Coursera, Deep Learning AI Specialization:***       
       
- * Coursera.org, deeplearning.ai class 1, Neural Networks  
+ * Class 1: Neural Networks  
       https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning  
  
- * Coursera.org, deeplearning.ai class 4, Convolutional Neural Networks  
+ * Class 2: 
+ 
+ * Class 3:  
+ 
+ * Class 4: Convolutional Neural Networks  
       https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning  
+   
+ * Class 4: Recurrent Networks  
+ 
+ 
+   ---  
    
  * Coursera.org, Introduction to TensorFlow  
       https://www.coursera.org/learn/introduction-tensorflow  
+      
+  ---       
+ * Stanford CS231n Spring 2019, Convolutional Neural Networks for Visual Recognition  
+      http://cs231n.stanford.edu/  
+      http://faculty.marshall.usc.edu/gareth-james/ISL/  
       
  * Udemy.com, Data Science and Machine Learning Bootcamp class  
       Author code so your dollars will support the author rather than Udemy.  
