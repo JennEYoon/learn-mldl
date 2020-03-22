@@ -1,4 +1,4 @@
-# My adventure in Python machine learning (ML) and deep learning (DL).  
+## My adventure in learning Python, machine learning (ML), and deep learning (DL).  
 
 My goal is to document my progress at learning Python ML and DL on a GitHub repo.  
 
@@ -69,5 +69,5 @@ Use a pull request to make corrections or to share additional information.  Typo
  * Started on 7/17/2019 as a Github public repo.  
  * August and September 2019, add folders for CS231n, dlai (deep learning .ai), Chollet-DLPy book, 
    Vanderplas machine learning book.
- * February 2020, update dlai folders for more classes.  
+ * February-March 2020, update dlai folders for more classes.  
 
