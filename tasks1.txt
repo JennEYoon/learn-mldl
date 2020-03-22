@@ -1,5 +1,0 @@
-# Tasks for cs231n github repo
-
-Install conda3 environment for CS231n.
-July 19, 2020. 
-
