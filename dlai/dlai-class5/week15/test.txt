@@ -1,2 +1,0 @@
-Test file added to directory.
-Git ignores empty directory.  
