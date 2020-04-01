@@ -17,3 +17,9 @@ Uploading class 3 and 5.
 To renumber class4 weeks.  
 
 ***To finish DLAI by May 2020.  Sign-up and get Coursera Specialization Certificate.***  
+
+#### Tasks April 1, 2020  
+Uploaded class 5 week 14 done.  
+Two more weeks in class 5 to upload.  
+Wasted all of March 2020 over Corvid 19 news.  Time to buckle up and get working again!  
+
