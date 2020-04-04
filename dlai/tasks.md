@@ -24,3 +24,5 @@ quizzes in class 5 to upload.
 Two more weeks in class 5 to upload.  
 Wasted all of March 2020 over Corvid 19 news.  Time to buckle up and get working again!  
 
+#### DLAI Slack Tuesday, 7pm.  
+
