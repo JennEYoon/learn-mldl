@@ -1,4 +1,4 @@
-# README wip2-classes folder  
+# README Exercises folder  
 
   1.  Vanderplas book -- Exclusive focus for the next 2 months.  Reproduce many of the examples 
       and extend them for my datasciY.com postings.
@@ -7,11 +7,13 @@
   
   1.  Also some portions of ESLR and ESL books -- math and R examples.  
 
-  1.  Finished Udemy - Data Science Machine Learning Bootcamp class.  
 
 ----- Future --------
 
-  1.  Bought Effective Python 2nd ed book. -- not released yet, but link available. 
+  1.  Effective Python 2nd ed book.  
+
+  1.  Fluent Python c 2015, Luciano Ramalho.  Mainly Python 3.4 and doctest  
+      (getter and setter not used in 3.7+)
 
   1.  Hands on Machine Learning, 2nd ed -- Created folder, do exercises here. 
       - Links in folder.  
