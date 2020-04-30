@@ -109,8 +109,15 @@ fast.ai deep learning part 1 and part 2.
  * Was expensive trying to use AWS Aurora Postgres SQL as a test. ~$45-60 for 1 month.  
  * Instead, use MySQL or very old version of Postgres SQL on AWS Aurora, which is part of the free tier.  
  
- 
- 
+#### Notes update 4/30/2020   
+  * Start reading Fluent Python book.  
+    Uses Python 3.4 mainly with doctest as REPL testing environment.   
+    Alternative to unittest, simpler for shorter tests.  
+    Python 3.4 uses getter and setter class methods, desprecated?  
+
+  * p14) Why Len Is NOT a Method?
+    len(obj) is a Special Method when used for a built-in data type, such as int, str, list.  
+    There is also a double-underscore method obj.__len__() that allows me to write my custom implimentation of len in my own class object.  
  
  --- end ---  
  
