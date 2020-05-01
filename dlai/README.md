@@ -31,6 +31,8 @@ Notes:
   * Started week 3 videos - has interesting topics on transfer learning, data augmentation.  
   * To start week 4 Neural Style Transfer -- study for my website, articles.html post update.  
   * To start Papers -- Read paper on Neural Style Transfer for Art.  
+  Q) Where is Greedy Adverserial Networks (GANs)?  
+  Memo) Review "the deep learning book" math sections, CNN section.  
 
 #### Class 5: Sequence Models (language recognition, speech processing)  
   * Understand how to build and train Recurrent Neural Networks (RNNs), and 
