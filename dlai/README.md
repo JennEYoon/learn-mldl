@@ -33,7 +33,9 @@ Notes:
   * To start Papers -- Read paper on Neural Style Transfer for Art.  
 
 #### Class 5: Sequence Models (language recognition, speech processing)  
-
+  * Understand how to build and train Recurrent Neural Networks (RNNs), and 
+    commonly-used variants such as GRUs and LSTMs  
+  
 
 #### Tensorflow Class 1 and 2  
 
