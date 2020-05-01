@@ -6,6 +6,7 @@ Keep my own notes here.
 Understand what multi-task learning and transfer learning are.  
 Recognize bias, variance and data-mismatch by looking at the performances of your algorithm on train/dev/test sets.  
 
+### train/dev/test data  
 train -- main input data used to train a model.  
 dev -- sample evaluation data used for twicking model parameters.    
 test -- final holdout data, do NOT use during model building or parameter setting.  
