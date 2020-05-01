@@ -4,7 +4,7 @@ My goal is to document my progress at learning Python ML and DL on a GitHub repo
 
 >  "Those who make a peaceful revolution impossible will make a violent revolution inevitable."  
     -- John F. Kennedy  
-    motto
+    motto  - 
 
 ### Author:  Jennifer E. Yoon   
 
