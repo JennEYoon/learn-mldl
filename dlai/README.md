@@ -32,6 +32,9 @@ Notes:
   * To start week 4 Neural Style Transfer -- study for my website, articles.html post update.  
   * To start Papers -- Read paper on Neural Style Transfer for Art.  
 
+#### Class 5: Sequence Models (language recognition, speech processing)  
+
+
 #### Tensorflow Class 1 and 2  
 
   * Uses Fashion MNist example, similar to Udacity Intro to TensorFlow class.  
