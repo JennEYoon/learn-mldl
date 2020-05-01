@@ -12,6 +12,12 @@ Precision
 Low false positive  
 Same as **Specificity**  
 
+F1 Score is Harmonic Mean  
+
+Avoidable Bias -> diff from Bayes and diff 
+Perfect - Bayes.  
+
+
 
 
 
