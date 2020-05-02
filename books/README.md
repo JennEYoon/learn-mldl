@@ -1,6 +1,6 @@
 #  Books & External Resources for Machine Learning and Deep Learning     
 
-Top-5 books:  
+## Top-5 books:  
 
  * VanderPlas, Python Data Science Handbook    
    (Best book for learning Python data science libraries, i.e. NumPy, MatplotLib, Scikit-learn, and Jupyter/iPython notebook & shell environments.)  
@@ -25,15 +25,7 @@ Top-5 books:
   
   
  -----  
-
- * Brett Slatkin, Effective Python, 2nd edition, c 2020.    
-   (For upgrading your Python skills)  
-   Link:  https://effectivepython.com/  
-   Github codes:  https://github.com/bslatkin/effectivepython 
-
- * Luciano Ramalho, Fluent Python, c 2015.  
-   (For upgrading your Python skills)  
-   Link: https://github.com/fluentpython  
+## More books:  
 
  * Juan Nunez-Iglesias et al., Elegant-Scipy  
    (Best book for learning Python Scipy library.)  
@@ -57,8 +49,13 @@ Top-5 books:
    Book Link: http://courses.washington.edu/am301/docs/pdf/301.pdf   
    YouTube Link: https://www.youtube.com/channel/UCEirPnFv_2QbvzrM67SnKPA  
  
- * Blog - Math of SVM (Support Vector Machines)  
-   Link: https://medium.com/@ankitnitjsr13/math-behind-support-vector-machine-svm-5e7376d0ee4d  
-     
+ * Brett Slatkin, Effective Python, 2nd edition, c 2020.    
+   (For upgrading your Python skills)  
+   Link:  https://effectivepython.com/  
+   Github codes:  https://github.com/bslatkin/effectivepython 
+
+ * Luciano Ramalho, Fluent Python, c 2015. older, used Python v3.4  
+   (For upgrading your Python skills)  
+   Link: https://github.com/fluentpython  
      
  ##### Removed all links to my google drive for copyrighted materials.   
