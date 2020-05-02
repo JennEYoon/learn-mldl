@@ -2,19 +2,19 @@
 
 ## Top-5 books:  
 
- * VanderPlas, Python Data Science Handbook    
+ * VanderPlas, ***Python Data Science Handbook***    
    (Best book for learning Python data science libraries, i.e. NumPy, MatplotLib, Scikit-learn, and Jupyter/iPython notebook & shell environments.)  
    Link: https://jakevdp.github.io/PythonDataScienceHandbook/  
   
- * Chollet, Deep Learning with Python  
+ * Chollet, ***Deep Learning with Python***  
    (Keras/TensorFlow)  
    https://www.manning.com/books/deep-learning-with-python  
  
- * Goodfellow et al., Deep Learning book   
+ * Goodfellow et al., ***Deep Learning Book***   
    (Has more math and theory.)   
    Link: http://www.deeplearningbook.org/  
  
- * James, Witten, Hastie, Tibshirani, Introduction to Statistical Learning with R  
+ * James, Witten, Hastie, Tibshirani, ***Introduction to Statistical Learning with R***  
     http://faculty.marshall.usc.edu/gareth-james/ISL/  
     http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf  
     
