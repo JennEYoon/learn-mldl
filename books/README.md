@@ -12,10 +12,6 @@
    (Has more math and theory.)   
    Link: http://www.deeplearningbook.org/  
  
- * Aurelien Geron, Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow, 2nd ed. c 2019.  
-   (The 2nd edition has new chapters on deep learning.)    
-   Link: https://github.com/ageron/handson-ml2  
- 
  * 3 Blue and 1 Brown YouTube playlist on Neural Networks.   
    (This guy has very good visual summaries of complex math problems.  
     The Neural Networks playlist is a very good summary of visual deep learning.)  
@@ -36,7 +32,11 @@
    (Best book for learning Python Scipy library.)  
    Link: https://notebooks.gesis.org/binder/jupyter/user/elegant-scipy-notebooks-bulvssc8/notebooks/index.ipynb  
    Github repo:  https://github.com/elegant-scipy/elegant-scipy  
-    
+
+ * Aurelien Geron, Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow, 2nd ed. c 2019.  
+   (The 2nd edition has new chapters on deep learning.)    
+   Link: https://github.com/ageron/handson-ml2  
+ 
  * Shukla with Fricklas, Machine Learning with TensorFlow - older v1.      
    Link: https://www.manning.com/books/machine-learning-with-tensorflow  
 
