@@ -22,7 +22,7 @@
     Link to free book, add later.    
     https://web.stanford.edu/~hastie/ElemStatLearn/  
   
- * See also **3 Blue and 1 Brown YouTube** playlist on ***Neural Networks***.   
+ * See also **3 Blue and 1 Brown** YouTube playlist on ***Neural Networks***.   
    (This guy has very good visual summaries of complex math problems.  
     The Neural Networks playlist is a very good summary of visual deep learning.)  
     Link: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi   
