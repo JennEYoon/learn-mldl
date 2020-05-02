@@ -8,9 +8,6 @@
    (Keras/TensorFlow)  
    https://www.manning.com/books/deep-learning-with-python  
  
- * Shukla with Fricklas, Machine Learning with TensorFlow    
-   Link: https://www.manning.com/books/machine-learning-with-tensorflow  
-
  * Goodfellow et al., Deep Learning book   
    (Has more math and theory.)   
    Link: http://www.deeplearningbook.org/  
@@ -40,6 +37,8 @@
    Link: https://notebooks.gesis.org/binder/jupyter/user/elegant-scipy-notebooks-bulvssc8/notebooks/index.ipynb  
    Github repo:  https://github.com/elegant-scipy/elegant-scipy  
     
+ * Shukla with Fricklas, Machine Learning with TensorFlow - older v1.      
+   Link: https://www.manning.com/books/machine-learning-with-tensorflow  
 
  * Bishop, Pattern Recognition, c 2006.   
    (Math and Concepts.  Oldie but goodie.)  
