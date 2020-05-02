@@ -18,8 +18,8 @@
     http://faculty.marshall.usc.edu/gareth-james/ISL/  
     http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf  
     
- * Elements of Statistical Learning - older, more math heavy.  
-    Link to add.  
+ * Hastie, Tibshirani, Friedman, ***Elements of Statistical Learning***, 2nd ed., Springer 2009 - older, more math heavy.  
+    Link to free book, add later.    
     https://web.stanford.edu/~hastie/ElemStatLearn/  
   
  * See also **3 Blue and 1 Brown YouTube** playlist on ***Neural Networks***.   
