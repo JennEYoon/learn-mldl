@@ -4,11 +4,6 @@
    (Best book for learning Python data science libraries, i.e. NumPy, MatplotLib, Scikit-learn, and Jupyter/iPython notebook & shell environments.)  
    Link: https://jakevdp.github.io/PythonDataScienceHandbook/  
   
- * Juan Nunez-Iglesias et al., Elegant-Scipy  
-   (Best book for learning Python Scipy library.)  
-   Link: https://notebooks.gesis.org/binder/jupyter/user/elegant-scipy-notebooks-bulvssc8/notebooks/index.ipynb  
-   Github repo:  https://github.com/elegant-scipy/elegant-scipy  
-    
  * Chollet, Deep Learning with Python  
    (Keras/TensorFlow)  
    https://www.manning.com/books/deep-learning-with-python  
@@ -39,6 +34,12 @@
  * Luciano Ramalho, Fluent Python, c 2015.  
    (For upgrading your Python skills)  
    Link: https://github.com/fluentpython  
+
+ * Juan Nunez-Iglesias et al., Elegant-Scipy  
+   (Best book for learning Python Scipy library.)  
+   Link: https://notebooks.gesis.org/binder/jupyter/user/elegant-scipy-notebooks-bulvssc8/notebooks/index.ipynb  
+   Github repo:  https://github.com/elegant-scipy/elegant-scipy  
+    
 
  * Bishop, Pattern Recognition, c 2006.   
    (Math and Concepts.  Oldie but goodie.)  
