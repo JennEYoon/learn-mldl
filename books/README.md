@@ -14,17 +14,19 @@
    (Has more math and theory.)   
    Link: http://www.deeplearningbook.org/  
  
- * 3 Blue and 1 Brown YouTube playlist on Neural Networks.   
+ * James, Witten, Hastie, Tibshirani, Introduction to Statistical Learning with R  
+    http://faculty.marshall.usc.edu/gareth-james/ISL/  
+    http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf  
+    
+ * Elements of Statistical Learning - older, more math heavy.  
+    Lik to add.  
+  
+ * See also **3 Blue and 1 Brown YouTube** playlist on ***Neural Networks***.   
    (This guy has very good visual summaries of complex math problems.  
     The Neural Networks playlist is a very good summary of visual deep learning.)  
     Link: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi   
 
-  * James, Witten, Hastie, Tibshirani, Introduction to Statistical Learning with R  
-    http://faculty.marshall.usc.edu/gareth-james/ISL/  
-    http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf  
-    See also Elements of Statistical Learning - older, more math heavy.  
-    Lik to add.  
-  
+
  -----  
 ## More books:  
 
