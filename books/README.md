@@ -19,10 +19,11 @@
     The Neural Networks playlist is a very good summary of visual deep learning.)  
     Link: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi   
 
-  * ISLR and ESL, by Hastie and 
-    Stanford free online class - link.   
-    links ro add  
-  
+  * James, Witten, Hastie, Tibshirani, Introduction to Statistical Learning with R  
+    http://faculty.marshall.usc.edu/gareth-james/ISL/  
+    http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf  
+    See also Elements of Statistical Learning - older, more math heavy.  
+    Lik to add.  
   
  -----  
 ## More books:  
