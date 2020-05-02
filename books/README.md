@@ -1,5 +1,7 @@
 #  Books & External Resources for Machine Learning and Deep Learning     
 
+Top-5 books:  
+
  * VanderPlas, Python Data Science Handbook    
    (Best book for learning Python data science libraries, i.e. NumPy, MatplotLib, Scikit-learn, and Jupyter/iPython notebook & shell environments.)  
    Link: https://jakevdp.github.io/PythonDataScienceHandbook/  
@@ -17,6 +19,11 @@
     The Neural Networks playlist is a very good summary of visual deep learning.)  
     Link: https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi   
 
+  * ISLR and ESL, by Hastie and 
+    Stanford free online class - link.   
+    links ro add  
+  
+  
  -----  
 
  * Brett Slatkin, Effective Python, 2nd edition, c 2020.    
