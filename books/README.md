@@ -19,7 +19,7 @@
     http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf  
     
  * Elements of Statistical Learning - older, more math heavy.  
-    Lik to add.  
+    Link to add.  
   
  * See also **3 Blue and 1 Brown YouTube** playlist on ***Neural Networks***.   
    (This guy has very good visual summaries of complex math problems.  
