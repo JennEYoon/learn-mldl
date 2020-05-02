@@ -20,6 +20,7 @@
     
  * Elements of Statistical Learning - older, more math heavy.  
     Link to add.  
+    https://web.stanford.edu/~hastie/ElemStatLearn/  
   
  * See also **3 Blue and 1 Brown YouTube** playlist on ***Neural Networks***.   
    (This guy has very good visual summaries of complex math problems.  
