@@ -27,3 +27,14 @@ Wasted all of March 2020 over Corvid 19 news.  Time to buckle up and get working
 #### DLAI Slack Tuesday, 7pm.  
 group met virtually, discussed class 1 and 2.  
 Peter and Dan presented.  
+
+#### Hangouts Monday May 4,2020  
+  Dan, Peter, and Me participated  
+  Finished quizes for class 3, 2 weeks only.  
+  ***Can't download full screen quizes with answers.  Try on iPad screen shot app.***  
+  
+#### DLAI Slack Tuesday May 12, 2020.  
+  Peter and Dan will present.  
+  Class 2? notebooks.  Optimization, Gradient Check, Initialization & Regularization.  
+  
+  
