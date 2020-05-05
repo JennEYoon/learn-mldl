@@ -32,7 +32,8 @@ Peter and Dan presented.
   Dan, Peter, and Me participated  
   Finished quizes for class 3, 2 weeks only.  
   ***Can't download full screen quizes with answers.  Try on iPad screen shot app.***  
-  Also failed.  Screen capture individual sections and copy & paste to OneNote. Then save to PDF or JPG file. 
+  Also failed.  Screen capture individual sections and copy & paste to OneNote. Then save to PDF or JPG file.  
+  I seem to recall this same problem last time I took a Coursera class.  Intential barrier.  NYTimes full page screen shot works with default Chrom apps, but Coursera Quizes pages DO NOT!!!   
   
 #### DLAI Slack Tuesday May 12, 2020.  
   Peter and Dan will present.  
