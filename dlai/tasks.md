@@ -32,6 +32,7 @@ Peter and Dan presented.
   Dan, Peter, and Me participated  
   Finished quizes for class 3, 2 weeks only.  
   ***Can't download full screen quizes with answers.  Try on iPad screen shot app.***  
+  Also failed.  Screen capture individual sections and copy & paste to OneNote. Then save to PDF or JPG file. 
   
 #### DLAI Slack Tuesday May 12, 2020.  
   Peter and Dan will present.  
