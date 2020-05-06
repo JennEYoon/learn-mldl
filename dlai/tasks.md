@@ -35,6 +35,9 @@ Peter and Dan presented.
   Also failed.  Screen capture individual sections and copy & paste to OneNote. Then save to PDF or JPG file.  
   I seem to recall this same problem last time I took a Coursera class.  Intentional barrier.  NYTimes full page screen shot works with default Chrome apps, but Coursera Quizes pages DO NOT!!!   only javascript and no content on html page.  
   
+ * May12  finish watching videos for class 3, start on class 5 sequence models. 
+ 
+  
 #### DLAI Slack Tuesday May 12, 2020.  
   Peter and Dan will present.  
   Class 2? notebooks.  Optimization, Gradient Check, Initialization & Regularization.  
