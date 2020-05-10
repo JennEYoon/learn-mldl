@@ -18,3 +18,5 @@ Upload my exercises for this book.
  * 10/17/2019 -- TensorFlow 2.0 out of Beta.  
       Install TF 2.0 on Ubuntu conda3 setup.
       Try out exercises from this book - December 2019. 
+      
+ *** AWS p2 GPU pricing       
