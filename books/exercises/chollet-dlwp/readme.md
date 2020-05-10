@@ -1,3 +1,9 @@
 # My exercises for Chollet, Deep Learning with Python book  
 
 ### May 10, 2020 notes  
+  * Chapter 3)  
+    - Use AWS p2.xlarge instance, AMI pre-formatted.  90 c/hr as of 2017.  
+      Can get expensive.  Check pricing recent.
+      Setup with tensorflow, keras and dependencies.  
+    - Use free Google GPU for deep learning.  
+      Setup environment with tensorflow, kearas using Ubuntu machine.  
