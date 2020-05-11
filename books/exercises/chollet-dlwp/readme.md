@@ -16,3 +16,4 @@ View AWS Free Tier Details »  https://aws.amazon.com/free/
     Setup environment with tensorflow, kearas using Ubuntu machine.  
 
 ...  
+---  
