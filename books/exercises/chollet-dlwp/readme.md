@@ -7,7 +7,9 @@
       
     - Same price as of May 10, 2020, 90 cents/hr for p2.xlarge GPU w 4 core.  
     - Cheapest GPU is 52 cents/hr.  
+      GPU/vCPU   ECU   Memory ... preice per hour.  
       <img src="https://github.com/JennEYoon/learn-mldl/blob/master/books/exercises/chollet-dlwp/AWS-pricing-GPU-2020.png" alt="AWS GPU prices" />
-      
+      AWS Free Tier includes 750 hours of Linux and Windows t2.micro instances each month for one year. To stay within the Free Tier, use only EC2 Micro instances.
+View AWS Free Tier Details »
     - Use free Google GPU for deep learning.  
       Setup environment with tensorflow, kearas using Ubuntu machine.  
