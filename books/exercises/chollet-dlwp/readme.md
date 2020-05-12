@@ -26,4 +26,5 @@ View AWS Free Tier Details »  https://aws.amazon.com/free/
   * jupyter notebook, numpy, pandas, matplotlib, scipy, scikit-learn, blas included.   
   * Some packages need pip, some need to specify channel conda-forge.  
   * Also per book, HDF5, Graphviz, opencv.  
+  * Q) tensorflow-datasets?  nmist_fashion example on tensorflow doc site.  
   
