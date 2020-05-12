@@ -2,7 +2,7 @@
 
 ### May 10, 2020 notes  
   * Chapter 3)  
-    - Use AWS t2.xlarge instance, AMI pre-formatted. $0.90 per hr as of 2017.  
+    - Use AWS p2.xlarge instance, AMI pre-formatted. $0.90 per hr as of 2017.  
       Can get expensive. Setup with tensorflow, keras and dependencies.  
       (***t2.micro*** instance is free tier.  NOT GPU, vCPU only.)   
       
@@ -18,3 +18,11 @@ View AWS Free Tier Details »  https://aws.amazon.com/free/
 
 ...  
 ---  
+
+### May 11-12, 2020 Setup environment: dlpy  
+
+  * Finished setting up conda environment on Ubuntu side, "dlpy" 
+  * tensorflow 2.2, keras, tensorboard included.  
+  * jupyter notebook, numpy, pandas, matplotlib, scipy, scikit-learn, blas included.   
+  * Some packages need pip, some need to specify channel conda-forge.  
+  
