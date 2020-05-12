@@ -1,0 +1,5 @@
+Created environment for Fluent Python book.  
+Book uses Python 3.4 mainly, and also 3.5 for 2 sections.  
+Uses doctest and unittest modules.  
+Focuses on standard built-in library.  
+
