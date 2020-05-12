@@ -25,4 +25,5 @@ View AWS Free Tier Details »  https://aws.amazon.com/free/
   * tensorflow 2.2, keras, tensorboard included.  
   * jupyter notebook, numpy, pandas, matplotlib, scipy, scikit-learn, blas included.   
   * Some packages need pip, some need to specify channel conda-forge.  
+  * Also per book, HDF5, Graphviz, opencv.  
   
