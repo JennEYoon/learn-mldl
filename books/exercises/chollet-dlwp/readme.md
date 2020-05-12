@@ -2,8 +2,9 @@
 
 ### May 10, 2020 notes  
   * Chapter 3)  
-    - Use AWS p2.xlarge instance, AMI pre-formatted. $0.90 per hr as of 2017.  
+    - Use AWS t2.xlarge instance, AMI pre-formatted. $0.90 per hr as of 2017.  
       Can get expensive. Setup with tensorflow, keras and dependencies.  
+      (***t2.micro*** instance if free tier.  NOT GPU.)   
       
     - Same price as of May 10, 2020, 90 cents/hr for p2.xlarge GPU w 4 core.  
     - Cheapest GPU is 52 cents/hr.  
