@@ -1,6 +1,6 @@
 # My exercises for Chollet, Deep Learning with Python book  
 
-### May 10, 2020 notes  
+#### May 10, 2020 notes  
   * Chapter 3)  
     - Use AWS p2.xlarge instance, AMI pre-formatted. $0.90 per hr as of 2017.  
       Can get expensive. Setup with tensorflow, keras and dependencies.  
@@ -13,9 +13,8 @@
       AWS Free Tier includes 750 hours of Linux and Windows t2.micro instances each month for one year. To stay within the Free Tier, use only EC2 Micro instances.
 View AWS Free Tier Details »  https://aws.amazon.com/free/  
 
-  * Use free Google GPU for deep learning.  
+#### Try Next: Use free Google GPU for deep learning.  
     Setup environment with tensorflow, kearas using Ubuntu machine.  
-
 ...  
 ---  
 
