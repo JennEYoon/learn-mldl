@@ -42,4 +42,9 @@ Peter and Dan presented.
   Peter and Dan will present.  
   Class 2? notebooks.  Optimization, Gradient Check, Initialization & Regularization.  
   
+#### Meetup Monday June 1, 2020  
+  Peter and Dan, class 4, weeks 1-2.  
+  Review notebooks, watch videos.  
   
+  
+  --- end ---   
