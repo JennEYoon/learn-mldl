@@ -49,7 +49,7 @@ Peter and Dan presented.
      - applications v 2a, step-by-step v2a.  
      Looks like I tried both last year Fall.  
      Gets more interesting with CNN.  Meat of Deep Learning classes.  
-     one, 
+     one, two,  
   * setup Ubuntu conda env for dlai, run notebook on CPU.  
      - Manually upload to this repo, learn-mldl.  
   
