@@ -49,9 +49,9 @@ Peter and Dan presented.
      - applications v 2a, step-by-step v2a.  
      Looks like I tried both last year Fall.  
      Gets more interesting with CNN.  Meat of Deep Learning classes.  
-     one, two,  three, 
+     one, two,  three,   
      Take the tests on DeepLearning.ai after this class.  
-     Apply to Amazon Demand Forecaster job.  Use it to psych myself to sharpen my AI skills.  
+     Apply to Amazon Demand Forecaster job.  Use it to psych myself to sharpen my skills.  
         
   * setup Ubuntu conda env for dlai, run notebook on CPU.  
      - Manually upload to this repo, learn-mldl.  
