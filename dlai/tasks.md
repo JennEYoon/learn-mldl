@@ -52,7 +52,9 @@ Peter and Dan presented.
      one, two,  three,   
      Take the tests on DeepLearning.ai after this class.  
      Apply to Amazon Demand Forecaster job.  Use it to psych myself to sharpen my skills.  
-        
+     Maybe learn MySQL to get a quick job in programming related field?   
+     
+       
   * setup Ubuntu conda env for dlai, run notebook on CPU.  
      - Manually upload to this repo, learn-mldl.  
   
