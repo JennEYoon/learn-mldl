@@ -50,6 +50,8 @@ Peter and Dan presented.
      Looks like I tried both last year Fall.  
      Gets more interesting with CNN.  Meat of Deep Learning classes.  
      one, two,  three, 
+     Take the tests on DeepLearning.ai after this class.  
+     
   * setup Ubuntu conda env for dlai, run notebook on CPU.  
      - Manually upload to this repo, learn-mldl.  
   
