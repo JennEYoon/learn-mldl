@@ -46,6 +46,8 @@ Peter and Dan presented.
   Peter and Dan, class 4, weeks 1-2.  
   Review notebooks, watch videos.  
   * todo: Run notebook 1 signing hand images, on Coursera. 
+     - applications v 2a, step-by-step v2a.  
+     Looks like I tried both last year Fall.  
   * setup Ubuntu conda env for dlai, run notebook on CPU.  
      - Manually upload to this repo, learn-mldl.  
   
