@@ -42,4 +42,20 @@ Peter and Dan presented.
   Peter and Dan will present.  
   Class 2? notebooks.  Optimization, Gradient Check, Initialization & Regularization.  
   
+#### Meetup Monday June 1, 2020  
+  Peter and Dan, class 4, weeks 1-2.  
+  Review notebooks, watch videos.  
+  * todo: Run notebook 1 signing hand images, on Coursera. 
+     - applications v 2a, step-by-step v2a.  
+     Looks like I tried both last year Fall.  
+     Gets more interesting with CNN.  Meat of Deep Learning classes.  
+     one, two,  three,   
+     Take the tests on DeepLearning.ai after this class.  
+     Apply to Amazon Demand Forecaster job.  Use it to psych myself to sharpen my skills.  
+     Maybe learn MySQL to get a quick job in programming related field?   
+     
+       
+  * setup Ubuntu conda env for dlai, run notebook on CPU.  
+     - Manually upload to this repo, learn-mldl.  
   
+  --- end ---   
