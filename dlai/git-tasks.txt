@@ -1,6 +1,0 @@
-# GIT
-
-March 1, 2020: In the middle of downloading DLAI class 5 notebooks.  
-Git not committed quizzes folder, class5.  
-
-class4 - to renumber folders week10 to 13 (currently week1 to 4). - Done on March 2, 2020. 
