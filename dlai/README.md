@@ -1,5 +1,7 @@
 # My exercises & practice - deeplearning.ai on Coursera.org  
 
+***Being moved to "deep-learning" repo.***  
+
 #### Author: Jennifer E Yoon  
 
 #### Class 1: Neural Networks  
