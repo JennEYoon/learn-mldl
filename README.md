@@ -74,4 +74,4 @@ Use a pull request to make corrections or to share additional information.  Typo
  * August and September 2019, add folders for CS231n, dlai (deep learning .ai), Chollet-DLPy book, 
    Vanderplas machine learning book.
  * February-March 2020, update dlai folders for more classes.  
-
+ * June 12, 2020 -- moved local repo to Ubuntu side. 
