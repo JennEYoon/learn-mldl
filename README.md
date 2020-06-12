@@ -58,7 +58,8 @@ My goal is to document my progress at learning Python ML and DL on a GitHub repo
 Folder structure will be either by topic or by class name.  
   
  * CS231n - folder for learning Stanford class Convolutional Neural Networks for Visual Recognition.  
- * dlai - folder for Coursera.com DeepLearning.AI Specialization classes.  
+ * dlai - folder for Coursera.com DeepLearning.AI Specialization classes  
+   - Moved to "deep-learning" repo.  
  * fastai - deep learning classes by fast.ai.  
   
 I am also a member of a Meetup group in Sterling, Virginia that is studying data science classes together.  Our group is focusing on Coursera Deep Learning AI Specialization, starting in September 2019 and continuing into 2020.    
