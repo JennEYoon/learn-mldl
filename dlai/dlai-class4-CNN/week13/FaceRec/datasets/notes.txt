@@ -1,7 +1,0 @@
-# Notes of FaceRec Datasets  
-
-test_happy.h5  
-
-train_happy.h5  
-
-train_face.h5  

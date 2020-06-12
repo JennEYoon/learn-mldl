@@ -1,9 +1,0 @@
-# Install notes 9/29/2019 7:10 PM.  
-
-Ubuntu conda3 has updated tensorflow to 2.0-rc1 from v1.14-cpu.
-
-tensorflow datasets still seems to work without updating library.
-
-Used Pip instead of Conda to install tensorflow. 
-
-Not sure what "rc1" is vs "cpu" version.

@@ -1,5 +1,0 @@
-# Add working files, copies of notebooks for CNN class #4.  
-
-9/25/2019  2:44 PM EST  
-
---- end ---    
