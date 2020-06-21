@@ -10,22 +10,7 @@ My goal is to document my progress at learning Python ML and DL on a GitHub repo
 
 **Main Classes:**  
 
- ***Coursera, Deep Learning AI Specialization:***       
-      https://www.coursera.org/specializations/deep-learning?  
-      
- * Class 1: Neural Networks and Deep Learning   
- 
- * Class 2: Improving Deep Neural Networks  
- 
- * Class 3: Structuring Machine Learning Projects  
- 
- * Class 4: Convolutional Neural Networks   
-   
- * Class 5: Sequence Models    
-   
- * Additional class: Introduction to TensorFlow  
-      https://www.coursera.org/learn/introduction-tensorflow  
-      
+**Coursera Deep Learning AI class - moved to "deep-learning" repo.        
   ---       
   
  * Stanford CS231n Spring 2019, Convolutional Neural Networks for Visual Recognition  
