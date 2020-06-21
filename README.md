@@ -10,9 +10,7 @@ My goal is to document my progress at learning Python ML and DL on a GitHub repo
 
 **Main Classes:**  
 
-**Coursera Deep Learning AI class - moved to "deep-learning" repo.**  
-
-  ---       
+ * **Coursera Deep Learning AI class - moved to "deep-learning" repo.**  
   
  * Stanford CS231n Spring 2019, Convolutional Neural Networks for Visual Recognition  
       http://cs231n.stanford.edu/  
