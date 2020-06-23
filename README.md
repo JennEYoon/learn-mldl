@@ -45,6 +45,7 @@ Folder structure will be either by topic or by class name.
  * dlai - folder for Coursera.com DeepLearning.AI Specialization classes  
    - Moved to "deep-learning" repo.  
  * fastai - deep learning classes by fast.ai.  
+ * fluentpy -- moved from repo "fluentpy", keep my exercises from Fluent Python (1st ed) book.  
   
 I am also a member of a Meetup group in Sterling, Virginia that is studying data science classes together.  Our group is focusing on Coursera Deep Learning AI Specialization, starting in September 2019 and continuing into 2020.    
  * https://www.meetup.com/Data-Science-Machine-Learing-Collaborative-Learning-Group/  
