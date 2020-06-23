@@ -61,3 +61,6 @@ Use a pull request to make corrections or to share additional information.  Typo
  * February-March 2020, update dlai folders for more classes.  
  * June 10-11, 2020 - moved DLAI folder to "deep-learning" repo.  
  * June 12, 2020 -- moved local repo to Ubuntu side. 
+ * June 22, 2020 -- move local repo back to C:/python/repos/ 
+    - merge FluentPy repo into learn-mldl repo, keep histories.
+    
