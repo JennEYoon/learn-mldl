@@ -42,4 +42,10 @@ Many areas overlap 1st and 2nd ed.  May not need to buy 2nd ed for my learning p
 
   * June 18, 2020 -- 
      To add -- links to MyBinder.org and Google CoLab for working online 
-  
+  * June 19-20 Move fluentpy repo to learn-mldl repo.  
+     Merge with bistories was successful, but result not what I expected.  
+     Added 1 commit to total history for learn-mldl repo and account total, graph.  
+     Each file moved from fluentpy shows edit history separately.  
+     - Keep fluentpy repo until several years later, when 2020 history graph does not matter.  
+     
+     
