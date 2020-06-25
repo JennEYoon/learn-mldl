@@ -4,12 +4,14 @@
       and extend them for my datasciY.com postings.
       
   1.  Deep Learning python book -- main focus for next 2 months.  
+      * Exercises moved to "deep-learning" repo.  
   
   1.  Introduction to Statistical Learning with R (ISLR) -- review.   
 
   1.  Effective Python 2nd ed book -- supplimental    
 
   1.  Fluent Python c 2015, Luciano Ramalho. -- supplimental   
+      * Exercises moved to own folder in "learn-mldl" repo, "fluetnpy" folder.  
       Mainly Python 3.4 and doctest  
       (getter and setter not used in 3.7+)  
 
