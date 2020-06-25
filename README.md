@@ -28,7 +28,7 @@ My goal is to document my progress at learning Python ML and DL on a GitHub repo
  * Jake VanderPlas, Python Data Science Handbook (c 2017)  
    - https://github.com/jakevdp/PythonDataScienceHandbook  
  
- * Francois Chollet, Deep Learning with Python (c 2018)  
+ * Francois Chollet, Deep Learning with Python (c 2018) - moved to deep-learning repo.   
    - https://github.com/fchollet/deep-learning-with-python-notebooks  
 
  * James, Witten, Hastie, Tibshirani, Introduction to Statistical Learning with R  
