@@ -1,4 +1,4 @@
-""" Original book code """
+""" Copy of book code, with my comments.  """
 
 from math import hypot
 
