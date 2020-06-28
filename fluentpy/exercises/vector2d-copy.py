@@ -15,16 +15,18 @@ class Vector:
     
     def __abs__(self):
         return hypot(self.x, self.y)
-        # absolute value of point (x, y)?
+        # absolute value of point (x, y) distance from (0, 0) origin 
 
     def __bool__(self):
         return bool(abs(self))
-
+        # true if positive?  
+    
     def __add__(self, other):
         x = self.x + other.x
         y = self.y + other.y
         return Vector(x, y)
-
+        # pass in other, allows setting of 2nd private variable  
+        # add two numbers 
     
     def __mul__(self, scalar):
         return Vector(self.x * scalar, self.y * scalar)
