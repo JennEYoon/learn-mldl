@@ -14,10 +14,10 @@ Special methods called "magic" and "dunder" methods.  Double-underscores.
 ---  
 
 ### Install to dos  
-  * setup separate conda environment at Ubuntu partition  
+  * setup separate conda environment at Ubuntu partition - done "fluentpy" env   
   * use 
 python v 3.4 to match book  
-  * install doctest  
+  * install doctest - done. 
   * also install unittest to try it out  
   * example code download:  https://github.com/fluentpython/example-code  
 
