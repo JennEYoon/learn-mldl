@@ -1,3 +1,5 @@
+""" Original book code """
+
 from math import hypot
 
 class Vector:
