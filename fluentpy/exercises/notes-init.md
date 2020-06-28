@@ -1,4 +1,4 @@
-# Reading notes from Fluent Python  
+# Fluent Python book, init, setup, reading notes  
 
 ## Date: April 30, 2020 start  
 
