@@ -1,3 +1,5 @@
+""" Original book code, before my comments. """  
+
 import collections
 
 Card = collections.namedtuple('Card', ['rank', 'suit'])
