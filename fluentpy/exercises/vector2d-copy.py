@@ -30,3 +30,5 @@ class Vector:
     
     def __mul__(self, scalar):
         return Vector(self.x * scalar, self.y * scalar)
+        # vector multiplied by scaler number.  
+        # scaler is a passed in private variable  
