@@ -1,6 +1,7 @@
 # My work here, Elegant Scipy book.
    
 Date start:  Nov 20, 2019    
+Date restart: June 30, 2020  
 
 Author: Jennifer E. Yoon  
    
@@ -25,6 +26,13 @@ Author: Jennifer E. Yoon
     - git pull upstreas master  (sync my local from authors' remote github master) 
     - git push origin master  (push sync to my copy on remote github fork)  
   
-  
+  * Git repo moved - 6/30/2020  
+    - Cloned to C:\python\repos\elegant-scipy\elegant-scipy  
+    - Git pull upstream master (refresh as of 6/30/2020) 
+    - Git push origin master (refresh my fork on Github as of 6/30/2020)
+    - Book copied to parent folder (V1 is coler, V2 print is black only)  
+    - Also added working folder to "learn-mldl" repo, for my practice.  
+      NOT for pushing to Juan's upstream repo.  
+
   --- end ---  
   
