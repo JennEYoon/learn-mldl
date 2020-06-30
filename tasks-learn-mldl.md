@@ -1,4 +1,4 @@
-# Tasks for Learning - Python Machine Learning & Deep Learning.  
+## Learning Python Machine Learning (ML) & Deep Learning (DL)  
 
 #### 7/20/2019 update  
  
