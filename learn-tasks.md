@@ -119,6 +119,16 @@ fast.ai deep learning part 1 and part 2.
     len(obj) is a Special Method when used for a built-in data type, such as int, str, list.  
     There is also a double-underscore method obj.__len__() that allows me to write my custom implimentation of len in my own class object.  
  
+ ### Update 6/30/2020  learn-mldl repo.  
+ 
+   * Moved a bunch of folders around, moved out books to separate folder in root.  
+   * elegant-scipy folder - is for my practice.  
+   * elegant-scipy cloned repo, refreshed with upstream master, my fork refreshed with origin master. 
+     - keep branch name "master".  
+     - Try building notebooks again, on Windows, WSL.  
+   * Moved fluent python book to a folder here.     
+ 
+ 
  --- end ---  
  
   
