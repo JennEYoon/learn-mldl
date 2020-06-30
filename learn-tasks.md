@@ -1,6 +1,6 @@
 # Tasks for Learning - Python Machine Learning & Deep Learning.  
 
- #### 7/20/2019 update  
+#### 7/20/2019 update  
  
  * Github -- does not like large files, cs231n data set and other files too large!
    Download Coursera books.   Save cs231n notebooks without data sets.
@@ -104,7 +104,7 @@ fast.ai deep learning part 1 and part 2.
  * Return to working on Learn-mldl and datasciY.com after a prolonged break.  
  * Learning DLAI class 2 and 3 together.  
  
- ### Tasks update March 1, 2020  
+#### Tasks update March 1, 2020  
  * Focusing on 3 books currently: VanderPlas ***Python Data Science Handbook***, Chollet ***Deep Learning with Python***, and Slatkin ***Effective Python 2nd ed***.  
  * Was expensive trying to use AWS Aurora Postgres SQL as a test. ~$45-60 for 1 month.  
  * Instead, use MySQL or very old version of Postgres SQL on AWS Aurora, which is part of the free tier.  
@@ -119,7 +119,7 @@ fast.ai deep learning part 1 and part 2.
     len(obj) is a Special Method when used for a built-in data type, such as int, str, list.  
     There is also a double-underscore method obj.__len__() that allows me to write my custom implimentation of len in my own class object.  
  
- ### Update 6/30/2020  learn-mldl repo.  
+ #### Update 6/30/2020  learn-mldl repo.  
  
    * Moved a bunch of folders around, moved out books to separate folder in root.  
    * elegant-scipy folder - is for my practice.  
