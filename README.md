@@ -65,4 +65,5 @@ Use a pull request to make corrections or to share additional information.  Typo
  * June 22, 2020 -- move local repo back to C:/python/repos/ 
     - merge FluentPy repo into learn-mldl repo, keep histories. 
     - move from books/fluentpy/exercises - example code.  
-    
+ * Renamed default branch from "master" to "main" in light of Black Lives Matter movement. 
+ * 7/1/2020 - move book folder back under "books, " except current ones. 
