@@ -1,6 +1,8 @@
 # Stanford class CS231n  
 ## Convolutional Neural Networks for Visual Recognition  
 
+### Note: June 2020 - default branch name has changed from "master" to "main," in support of Black Lives Matter movement.
+
 #### This is my personal learning repo.  I am learning this material with a local Meetup group.
 
 Link to **Data Science and Machine Learning Collaborative Learning Group:**  
