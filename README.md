@@ -1,4 +1,6 @@
-## My adventure in learning Python, machine learning (ML), and deep learning (DL).  
+# Learning Python, machine learning (ML), and deep learning (DL).  
+
+### Note: June 2020 - default branch name has changed from "master" to "main" in support of Black Lives Matter.
 
 My goal is to document my progress at learning Python ML and DL on a GitHub repo.  
 
