@@ -1,5 +1,9 @@
 # Put my practices here for Python Workout book, Reuven Lerner, c 2020, Manning.  
 
+Python version 3.6 - 3.8 used in book.  
+
+#### Date start:  July 30, 2020  
+
 Start with Chapter 5, Files -- July 30, 2020 Thursday  
 
 10 chapters and 50 exercises.  
