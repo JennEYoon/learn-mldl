@@ -1,4 +1,5 @@
-# Put my practices here for Python Workout book, Reuven Lerner, c 2020, Manning.  
+# Put my practices here for  
+## Python Workout book, Reuven Lerner, c 2020, Manning.   
 
 Python version 3.6 - 3.8 used in book.  
 
