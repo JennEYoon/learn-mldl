@@ -12,7 +12,8 @@ with open("myfile.txt") as f:
     last_row = lines[-1]
     print last_row
 ```    
-use ```f.readlines()[-1]``` insead of new variable. 0 = First Line, 1 = Second Line, -1 = Last Line, -2 = Line Before Last Line..    
+use ```f.readlines()[-1]``` insead of new variable.  
+0 = First Line, 1 = Second Line, -1 = Last Line, -2 = Line Before Last Line..    
 Can also use "reversed"  
   
 ### For large files, this won't work. Takes too long.  
@@ -40,10 +41,10 @@ with open(fname, 'rb') as fh:
 ### To read both the first and final line of a file you could...
 
 >open the file, ...
->... read the first line using built-in readline(), ...
->... seek (move the cursor) to the end of the file, ...
->... step backwards until you encounter EOL (line break) and ...
->... read the last line from there.
+>... read the first line using built-in readline(), ...  
+>... seek (move the cursor) to the end of the file, ...  
+>... step backwards until you encounter EOL (line break) and ...  
+>... read the last line from there.  
 
 ```python
 def readlastline(f):
@@ -57,12 +58,12 @@ with open(file, "rb") as f:
     last = readlastline(f)
 ```
 
-Jump to the second last byte directly to prevent trailing newline characters to cause empty lines to be returned*.
-
-The current offset is pushed ahead by one every time a byte is read so the stepping backwards is done two bytes at a time, past the recently read byte and the byte to read next.
+ * Jump to the second last byte directly to prevent trailing newline characters to cause empty lines to be returned.  
+ * The current offset is pushed ahead by one every time a byte is read so the stepping backwards is done two bytes at a time,   
+   past the recently read byte and the byte to read next.
 
 The whence parameter passed to fseek(offset, whence=0) indicates that fseek should seek to a position offset bytes relative to...
  * 0 or os.SEEK_SET = The beginning of the file.
  * 1 or os.SEEK_CUR = The current position.
  * 2 or os.SEEK_END = The end of the file. 
-As would be expected as the default behavior of most applications, including print and echo, is to append one to every line written and has no effect on lines missing trailing newline character.
+As would be expected as the default behavior of most applications, including ```print``` and ```echo```, is to append one to every line written and has no effect on lines missing trailing newline character.
