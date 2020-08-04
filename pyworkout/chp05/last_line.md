@@ -16,7 +16,8 @@ use ```f.readlines()[-1]``` insead of new variable. 0 = First Line, 1 = Second L
 Can also use "reversed"  
   
 ### For large files, this won't work. Takes too long.  
-Read files in binary mode, then use seek to quickly go to the end of file (need estimated max size). 
+Read files in binary mode, then use seek to quickly go to the end of file (need estimated max size).  
+Use "readline()" WITHOUT S, which read only one line into memory at a time.  
 
 ### Here's a modified version of SilentGhost's answer that will do what you want. 
 No need for an upper bound for line length here. Offs is increased by 2 after each try.  
