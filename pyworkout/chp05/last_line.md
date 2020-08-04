@@ -20,7 +20,7 @@ Read files in binary mode, then use seek to quickly go to the end of file (need 
 Use "readline()" WITHOUT S, which read only one line into memory at a time.  
 
 ### Here's a modified version of SilentGhost's answer that will do what you want. 
-No need for an upper bound for line length here. Offs is increased by 2 after each try.  
+No need for an upper bound for line length here. Offs is multiplied by 2 after each try.  
 
 ```python  
 with open(fname, 'rb') as fh:
