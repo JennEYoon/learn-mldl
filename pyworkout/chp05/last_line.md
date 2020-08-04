@@ -62,8 +62,9 @@ with open(file, "rb") as f:
  * The current offset is pushed ahead by one every time a byte is read so the stepping backwards is done two bytes at a time,   
    past the recently read byte and the byte to read next.
 
-The whence parameter passed to fseek(offset, whence=0) indicates that fseek should seek to a position offset bytes relative to...
+The ```whence``` parameter passed to ```fseek(offset, whence=0)``` indicates that fseek should seek to a position offset bytes relative to...
  * 0 or os.SEEK_SET = The beginning of the file.
  * 1 or os.SEEK_CUR = The current position.
- * 2 or os.SEEK_END = The end of the file. 
-As would be expected as the default behavior of most applications, including ```print``` and ```echo```, is to append one to every line written and has no effect on lines missing trailing newline character.
+ * 2 or os.SEEK_END = The end of the file.  
+ 
+As would be expected as the default behavior of most applications, including ```print``` and ```echo```, is to append ***one*** to every line written and has no effect on lines missing trailing newline character.
