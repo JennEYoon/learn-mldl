@@ -15,7 +15,7 @@
   
 #### Commands:  
   
-  open('filename')  
+  f = open('filename.ext')  
   with open('filename', 'r') as f:  # context block, auto cloase file at the end of block.  
   
   f.read(1)  # read one byte  
