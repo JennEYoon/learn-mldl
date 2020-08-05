@@ -63,6 +63,8 @@ with open(file, "rb") as f:
    past the recently read byte and the byte to read next.
 
 The ```whence``` parameter passed to ```fseek(offset, whence=0)``` indicates that fseek should seek to a position offset bytes relative to...
+Second parameter, where to start from, first parameter, how many to move forward/backward.  
+
  * 0 or os.SEEK_SET = The beginning of the file.
  * 1 or os.SEEK_CUR = The current position.
  * 2 or os.SEEK_END = The end of the file.  
