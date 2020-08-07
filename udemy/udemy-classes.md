@@ -2,6 +2,7 @@
 
 
   * Complete Tensorflow 2 - Jose Portilla, guest 8/5/2020  
+    https://hhmi.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/learn/lecture/14798282#overview  
    
   * Data Science Career & Interview - Jose Portilla, guest 8/5/2020   
     https://hhmi.udemy.com/course/data-science-career-guide-interview-preparation/learn/lecture/8576252#overview  
