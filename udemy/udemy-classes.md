@@ -22,5 +22,10 @@
     - Speaker sounds robotic, mispronounce scikit-learn.  
     - Holczer trained first as a physicist.  
   
-    
+   --------   
    
+### Udemy classes, registered as JennEYoon@  
+
+  * Python DSML Bootcamp  
+  
+  *  ...
