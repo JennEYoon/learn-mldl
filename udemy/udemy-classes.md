@@ -28,7 +28,8 @@
 
   * Python DSML Bootcamp - 2019 
   
-  * Ethical Hacking -- not completed - 2017?  
+  * Ethical Hacking -- not completed - July 24, 2017 purchased $11.  
+    https://www.udemy.com/course/penetration-testing/
 
   * Similar course, Ethical Hacking 2020, We Secure 
     https://www.udemy.com/course/ethical-hacking-become-a-cyber-security-expert/  
