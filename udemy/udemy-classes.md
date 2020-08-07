@@ -26,6 +26,6 @@
    
 ### Udemy classes, registered as JennEYoon@  
 
-  * Python DSML Bootcamp  
+  * Python DSML Bootcamp - 2019 
   
-  *  ...
+  * Ethical Hacking -- not completed  
