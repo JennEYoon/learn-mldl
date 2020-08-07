@@ -1,13 +1,13 @@
 # List of interesting Udemy classes   
 
    
-  * Data Science Career & Interview - Jose Portilla, guest 8/5/2020   
+  * Data Science Career & Interview - Jose Portilla - guest 8/5/2020   
     https://hhmi.udemy.com/course/data-science-career-guide-interview-preparation/learn/lecture/8576252#overview  
   
   * Pytorch class Jose Portilla  - guest 8/5/2020  
     https://hhmi.udemy.com/course/pytorch-for-deep-learning-with-python-bootcamp/learn/lecture/14837938#overview    
     
-  * Complete Tensorflow 2 - Jose Portilla, guest 8/5/2020  
+  * Complete Tensorflow 2 - Jose Portilla - guest 8/5/2020  
     https://hhmi.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/learn/lecture/14798282#overview    
   
   * SQL Bootcamtp Jose Portilla - guest 8/6/2020  
