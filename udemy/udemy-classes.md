@@ -16,10 +16,11 @@
   * A different SQL class, not signed up  
     https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/  
   
-  * WCC - Intro to ML in Python, instructor - guest 8/6/2020  
+  * WCC - Intro to ML & DL in Python, Holczer - guest 8/6/2020  
     https://hhmi.udemy.com/course/introduction-to-machine-learning-in-python/  
-    - Good refresher to basic ML, clustering, SVM...   
+    - Good refresher to basic ML & DL, clustering, SVM...   
     - Speaker sounds robotic, mispronounce scikit-learn.  
+    - Holczer trained first as a physicist.  
   
     
    
