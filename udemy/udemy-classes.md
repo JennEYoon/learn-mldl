@@ -26,7 +26,8 @@
    
 ### Udemy classes, registered as JennEYoon@  
 
-  * Python DSML Bootcamp - 2019 
+  * Python DSML Bootcamp - 2019  
+    https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/  
   
   * Ethical Hacking -- not completed - July 24, 2017 purchased $11.  
     https://www.udemy.com/course/penetration-testing/
