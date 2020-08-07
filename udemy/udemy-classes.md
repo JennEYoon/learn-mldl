@@ -32,5 +32,5 @@
   * Ethical Hacking -- not completed - July 24, 2017 purchased $11.  
     https://www.udemy.com/course/penetration-testing/
 
-  * Similar course, Ethical Hacking 2020, We Secure   
+  * Similar course, Ethical Hacking 2020, by We Secure company.    
     https://www.udemy.com/course/ethical-hacking-become-a-cyber-security-expert/  
