@@ -28,4 +28,4 @@
 
   * Python DSML Bootcamp - 2019 
   
-  * Ethical Hacking -- not completed  
+  * Ethical Hacking -- not completed - 2017?  
