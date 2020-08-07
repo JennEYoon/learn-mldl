@@ -34,3 +34,6 @@ f = open('demofile.txt')
 line_b = f.readlines(-2)  # unexpected behavior
 print(line_b)
 f.close()
+
+# f.readlines()  does not take number as a passed parameter
+# f.readlines()[-2] works.  Index into iterable lines object.  
