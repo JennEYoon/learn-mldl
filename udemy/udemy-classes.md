@@ -16,10 +16,10 @@
   * A different SQL class, not signed up  
     https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/  
   
-  * WCC - Intro to ML class.  Good intro/refresher to supervised ML.  
-    Speaker sounds robotic, mispronounce scikit-learn.  
-    - 8/6/202 guest account.  
-      No posting to slack/forum - for passive only.  
+  * WCC - Intro to ML in Python, instructor - guest 8/6/2020  
     https://hhmi.udemy.com/course/introduction-to-machine-learning-in-python/  
-     
+    - Good refresher to basic ML, clustering, SVM...   
+    - Speaker sounds robotic, mispronounce scikit-learn.  
+  
+    
    
