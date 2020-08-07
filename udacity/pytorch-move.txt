@@ -1,0 +1,3 @@
+Move Udacity Intro to Pytorch to here.
+Consolidate with Udemy class on Pytorch.  
+8/6/2020
