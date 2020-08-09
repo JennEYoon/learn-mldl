@@ -10,7 +10,7 @@
   * Complete Tensorflow 2 - Jose Portilla - guest 8/5/2020  
     https://hhmi.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/learn/lecture/14798282#overview    
   
-  * SQL Bootcamtp Jose Portilla - guest 8/6/2020  
+  * SQL Bootcamp Jose Portilla - guest 8/6/2020  
     https://hhmi.udemy.com/course/the-complete-sql-bootcamp/learn/lecture/4616316#overview
   
   * A different SQL class, not signed up  
