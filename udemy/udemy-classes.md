@@ -20,8 +20,8 @@
     - Holczer trained first as a physicist.  
   
   * Bret Fisher - Docker, Kubernetes, Swarm - Bill signed up 
-     * 8/23 - me start.  
-       Containerization, started in 2020's.  
+     * Docker started ~5 years ago, 2015. Took off by 2017. 50% of businesses expected to use docker by 2020.  
+       Containerization, make it easy to run software on different devices, pcs, cloud, serverless...  
        
    --------   
    
