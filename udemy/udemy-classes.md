@@ -4,17 +4,14 @@
   * Data Science Career & Interview - Jose Portilla - guest 8/5/2020   
     https://hhmi.udemy.com/course/data-science-career-guide-interview-preparation/learn/lecture/8576252#overview  
   
-  * Pytorch class Jose Portilla  - guest 8/5/2020  
+  * Pytorch DL class - Jose Portilla  - guest 8/5/2020  
     https://hhmi.udemy.com/course/pytorch-for-deep-learning-with-python-bootcamp/learn/lecture/14837938#overview    
     
-  * Complete Tensorflow 2 - Jose Portilla - guest 8/5/2020  
+  * Complete Tensorflow 2, Keras DL - Jose Portilla - guest 8/5/2020  
     https://hhmi.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/learn/lecture/14798282#overview    
   
-  * SQL Bootcamp Jose Portilla - guest 8/6/2020  
+  * SQL Bootcamp - Jose Portilla - guest 8/6/2020  
     https://hhmi.udemy.com/course/the-complete-sql-bootcamp/learn/lecture/4616316#overview
-  
-  * A different SQL class, not signed up  
-    https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/  
   
   * WCC - Intro to ML & DL in Python, Holczer - guest 8/6/2020  
     https://hhmi.udemy.com/course/introduction-to-machine-learning-in-python/  
@@ -22,6 +19,10 @@
     - Speaker sounds robotic, mispronounce scikit-learn.  
     - Holczer trained first as a physicist.  
   
+  * Bret Fisher - Docker, Kubernetes, Swarm - Bill signed up 
+     * 8/23 - me start.  
+       Containerization, started in 2020's.  
+       
    --------   
    
 ### Udemy classes, registered as JennEYoon@  
