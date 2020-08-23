@@ -20,9 +20,12 @@
     - Holczer trained first as a physicist.  
   
   * Bret Fisher - Docker, Kubernetes, Swarm - Bill signed up 
+    https://hhmi.udemy.com/course/docker-mastery/learn/lecture/6797266#overview  
+    
      * Docker started ~5 years ago, 2015. Took off by 2017. 50% of businesses expected to use docker by 2020.  
        Containerization, make it easy to run software on different devices, pcs, cloud, serverless...  
-       
+     * PayPal & MetLife - easy to take their software and move it to docker.  
+     
    --------   
    
 ### Udemy classes, registered as JennEYoon@  
