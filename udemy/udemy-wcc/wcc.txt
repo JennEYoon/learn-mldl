@@ -3,7 +3,8 @@ https://www.google.com/url?sa=i&url=http%3A%2F%2Frasbt.github.io%2Fmlxtend%2Fuse
 From Me to Alice Robie:  (Privately) 12:15 PM
 https://www.youtube.com/watch?v=IHZwWFHWa-w
 From Me to All Panelists:  12:15 PM
-https://www.youtube.com/watch?v=IHZwWFHWa-wFrom Alice Robie to All Panelists:  12:16 PM
+https://www.youtube.com/watch?v=IHZwWFHWa-w  
+From Alice Robie to All Panelists:  12:16 PM
 https://www.mltut.com/stochastic-gradient-descent-a-super-easy-complete-guide/
 From Andrea to All Panelists:  12:16 PM
 thank you
@@ -22,5 +23,5 @@ https://hhmi.udemy.com/course/python-programming-projects/
 From Nai-Wen Tien to All Panelists:  12:56 PM
 I was reading the documentation page of "sklearn.linear_model.LinearRegression" you just shared,  and it said it's "Ordinary least squares Linear Regression." So I guess it's using the matrix approach rather than the gradient descent?
 From Lisa Taylor to All Panelists:  12:56 PM
-Here’s a short into to python class
+Hereâ€™s a short into to python class
 https://hhmi.udemy.com/course/python-programming-projects/
