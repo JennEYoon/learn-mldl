@@ -4,4 +4,7 @@ https://hhmi.udemy.com/course/introduction-to-machine-learning-in-python/learn/l
 
   * 8/27/2020 TH noon first meeting.  
     1 hour. Install, regression sklearn.  
+  * 9/10 TH next meeting.  
+    Reading, next 1 hour of videos.  
+    
     
