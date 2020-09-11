@@ -17,3 +17,8 @@ https://hhmi.udemy.com/course/introduction-to-machine-learning-in-python/learn/l
   * Uses python script files *.py not Jupyter notebook *.ipynb,  
     makes script easy to read with text editor.  
   * Files short and simple.  
+
+#### 9/10 TH meet  
+  * Lisa not there, Terri lead.  
+  * OK, me talk about concepts, not sure if my explanations matched topics from videos on some parts.  Guess on what was discussed. Was fine.  
+  
