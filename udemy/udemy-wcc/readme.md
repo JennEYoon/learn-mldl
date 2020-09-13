@@ -7,4 +7,5 @@ https://hhmi.udemy.com/course/introduction-to-machine-learning-in-python/learn/l
   * Reading voice is definitely a robot.  Usable but not as good as a human teacher.  
     Mispronounce scikit-learn, coeff instead of coefficient
 
-  
+  * "Actual One" is the correct folder, matches class examples.  
+     Datasets are also in same working folder.  
