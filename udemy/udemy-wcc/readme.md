@@ -10,5 +10,5 @@ https://hhmi.udemy.com/course/introduction-to-machine-learning-in-python/learn/l
   * "Actual One" is the correct folder, matches class examples.  
      Datasets are also in same working folder.  
   * Codes are extremely short!  
-     Teacher not very good.  Not come up with many examples.  
+     Teacher is not very good.  Did not come up with more than 1 or 2 examples.  
      Could think of it as a short abbreviation. Try recalling code for each script file.  
