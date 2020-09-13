@@ -13,6 +13,7 @@ https://hhmi.udemy.com/course/introduction-to-machine-learning-in-python/learn/l
   * Section 5: Logistic Regression 
   * Section 6: KNN 
   * Me talk about concepts, not sure if my explanations matched class on a couple of items.  Guess on what was discussed. Was fine.  
+  * Logistic Regression did use sigmoid function, dummy variable, also prediction with 0 to 1 probability range, so I was correct.  
     
 #### 9/24 WCC     
   * Section 7: Naive Bayes Classifier (videos 26-31, 45 min) and 
