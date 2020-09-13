@@ -14,14 +14,14 @@ My goal is to document my progress at learning Python ML and DL on a GitHub repo
   
  * Stanford CS231n Spring 2019, Convolutional Neural Networks for Visual Recognition  
       http://cs231n.stanford.edu/  
+      
+ * Stanford, Introduction to Statistical Learning with R:       
       http://faculty.marshall.usc.edu/gareth-james/ISL/  
       
  * Udemy.com, Data Science and Machine Learning Bootcamp class  
       Author code so your dollars will support the author rather than Udemy.  
       https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/?couponCode=CURRENT_PY_DS_ML  
-      
- * Udemy.com, Introduction to PyTorch (2nd Meetup)  
-     Links:  to add  
+ 
     
 **Main Books:**  
 
@@ -35,17 +35,14 @@ My goal is to document my progress at learning Python ML and DL on a GitHub repo
    - http://faculty.marshall.usc.edu/gareth-james/ISL/  
    - http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf  
    
- * See **books** folder for more resources.  
 
 **Folder Organization:**  
    
 Folder structure will be either by topic or by class name.  
   
  * CS231n - folder for learning Stanford class Convolutional Neural Networks for Visual Recognition.  
- * dlai - folder for Coursera.com DeepLearning.AI Specialization classes  
-   - Moved to "deep-learning" repo.  
- * fastai - deep learning classes by fast.ai.  
- * fluentpy -- moved from repo "fluentpy", keep my exercises from Fluent Python (1st ed) book.  
+ * fastai - 2018 and 2019 versions, deep learning classes by fast.ai.  
+ * fluentpy -- my exercises from Fluent Python (1st ed) book.  
   
 I am also a member of a Meetup group in Sterling, Virginia that is studying data science classes together.  Our group is focusing on Coursera Deep Learning AI Specialization, starting in September 2019 and continuing into 2020.    
  * https://www.meetup.com/Data-Science-Machine-Learing-Collaborative-Learning-Group/  
