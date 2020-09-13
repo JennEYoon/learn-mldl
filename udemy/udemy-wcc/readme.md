@@ -11,3 +11,4 @@ https://hhmi.udemy.com/course/introduction-to-machine-learning-in-python/learn/l
      Datasets are also in same working folder.  
   * Codes are extremely short!  
      Teacher not very good.  Not come up with many examples.  
+     Could think of it as a short abbreviation. Try recalling code for each script file.  
