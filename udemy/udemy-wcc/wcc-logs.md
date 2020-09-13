@@ -2,17 +2,15 @@
 
 https://hhmi.udemy.com/course/introduction-to-machine-learning-in-python/learn/lecture/3660036#overview  
 
-  * 8/27/2020 TH noon first meeting.  
-    1 hour. Install, regression sklearn.  
-  * 9/10 TH next meeting.  
-    Reading, next 1 hour of videos.  
-    
-  > The next meeting will be in two weeks – Thursday, Sept 10, at 12 PM.  Before then, please try complete sections 5 and 6 of the course. That includes videos 11-24, which is an hour and a half of video time. 
+#### 8/27/2020 TH noon first meeting.   
+   * 1 hour. Install, regression sklearn.  
 
-<<<<<<< HEAD
+#### 9/10 TH next meeting, Teri monitor, Lisa out.  
   * 9/8/2020 - Downloaded zip file for class.  
     - no yml file, can use any of my dl envs.  
     - use python files *.py not Jupyter notebook *.ipynb, makes script easy to read with text editor.  
+  * Section 5: Logistic Regression 
+  * Section 6: KNN 
     
 #### 9/24 WCC     
   * Section 7: Naive Bayes Classifier (videos 26-31, 45 min) and 
