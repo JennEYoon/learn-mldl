@@ -1,12 +1,10 @@
 # Learning Python, machine learning (ML), and deep learning (DL).  
 
-***Note: Renamed "master" to "main" branch in support of Black Lives Matter, June 2020***
-
-My goal is to document my progress at learning Python ML and DL on a GitHub repo.  
-
+***Note: Renamed "master" to "main" branch, June 2020***   
 >  "Those who make a peaceful revolution impossible will make a violent revolution inevitable."  
     -- John F. Kennedy  
-      
+    
+My goal is to document my progress at learning Python ML and DL on a GitHub repo.        
 
 ### Author:  Jennifer E. Yoon   
 
