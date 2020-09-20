@@ -9,11 +9,6 @@ My goal is to document my progress at learning Python ML and DL on a GitHub repo
 ### Author:  Jennifer E. Yoon   
 
 **Main Classes:**  
-
- * **Coursera Deep Learning AI class - moved to "deep-learning" repo.**  
-  
- * Stanford CS231n Spring 2019, Convolutional Neural Networks for Visual Recognition  
-      http://cs231n.stanford.edu/  
       
  * Stanford, Introduction to Statistical Learning with R:       
       http://faculty.marshall.usc.edu/gareth-james/ISL/  
@@ -34,25 +29,14 @@ My goal is to document my progress at learning Python ML and DL on a GitHub repo
  * James, Witten, Hastie, Tibshirani, Introduction to Statistical Learning with R  
    - http://faculty.marshall.usc.edu/gareth-james/ISL/  
    - http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf  
-   
-
-**Folder Organization:**  
-   
-Folder structure will be either by topic or by class name.  
-  
- * CS231n - folder for learning Stanford class Convolutional Neural Networks for Visual Recognition.  
- * fastai - 2018 and 2019 versions, deep learning classes by fast.ai.  
- * fluentpy -- my exercises from Fluent Python (1st ed) book.  
   
 I am also a member of a Meetup group in Sterling, Virginia that is studying data science classes together.  Our group is focusing on Coursera Deep Learning AI Specialization, starting in September 2019 and continuing into 2020.    
  * https://www.meetup.com/Data-Science-Machine-Learing-Collaborative-Learning-Group/  
-
-#### Correcting My Errors
-
-Use a pull request to make corrections or to share additional information.  Typos and grammatical fixes are always welcome.  Supporting information on any of the topics are also welcome.   
+ 
 
 #### History:  
 
+ * 9/19/2020 -- Streamline repo, remove older class folders.   
  * Started on 7/17/2019 as a Github public repo.  
  * August and September 2019, add folders for CS231n, dlai (deep learning .ai), Chollet-DLPy book, 
    Vanderplas machine learning book.
