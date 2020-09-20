@@ -1,4 +1,0 @@
-svm to do.  add here.
-Also list of external resources.
-Math of SVM
-2D and Multi-Dim SVM.

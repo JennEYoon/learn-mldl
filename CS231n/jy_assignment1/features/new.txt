@@ -1,3 +1,0 @@
-add features extraction here.
-
-Add simple examples from fast.ai class.
