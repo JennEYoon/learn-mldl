@@ -1,1 +1,0 @@
-2018 Deep Learning Part 2, leading edge.  Fastai v0.7

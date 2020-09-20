@@ -1,1 +1,0 @@
-Math for Machine Learning, 2018, fastai v0.7
