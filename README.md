@@ -2,7 +2,7 @@
     
 My goal is to document my progress at learning Python ML and DL on a GitHub repo.   
 
-***Note: Renamed "master" to "main" branch, June 2020, in support of Black race equality in USA***    
+***Note: Renamed "master" to "main" branch in June 2020, in support of Black-American racial equity***    
 >  "Those who make a peaceful revolution impossible will make a violent revolution inevitable."  
     -- John F. Kennedy  
  
