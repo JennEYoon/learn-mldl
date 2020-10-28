@@ -1,3 +1,7 @@
+Prepare to merge this repo with **Deep-Learning** repo - with histories.  
+Folders moved out or repo and saved locally.  
+10/28/2020  Jennifer Yoon  
+
 ## Learning Python, ML (machine learning) and DL (deep learning)  
     
 My goal is to document my progress at learning Python ML and DL on a GitHub repo.   
