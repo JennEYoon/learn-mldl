@@ -1,4 +1,0 @@
-[ZoneTransfer]
-ZoneId=3
-ReferrerUrl=https://finance.yahoo.com/quote/%5EGSPC/history?p=%5EGSPC
-HostUrl=https://query1.finance.yahoo.com/v7/finance/download/%5EGSPC?period1=1552684751&period2=1555363151&interval=1d&events=history&crumb=XTMHY8id4g2
