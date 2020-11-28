@@ -1,12 +1,13 @@
-# Repurpose repo for general topics in learn-coding.  
+# Repurpose "learn-mldl" repo for general topics in learning to code.  
 
-Date: Nov 27, 2020, reused "learn-mldl" repo, changed to "learn-coding" repo.    
+Date: Nov 27, 2020
+
 Author:  Jennifer E. Yoon   
 
 >  "Those who make a peaceful revolution impossible will make a violent revolution inevitable."  
     -- John F. Kennedy  
  
-### Topics:  
+#### Topics:  
 
   * Financial Programming  
   
