@@ -15,6 +15,10 @@ Author:  Jennifer E. Yoon
   * Algorithms  
   
   * SQL Databases  
+  
+  * Interview Skills, Career Guides  
+  
+  * Books on general topics  
  
 
 #### History:  
