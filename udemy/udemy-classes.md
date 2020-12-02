@@ -28,7 +28,7 @@
      
    --------   
    
-### Udemy classes, registered as JennEYoon@  
+### Udemy classes, registered as mail@  
 
   * Python DSML Bootcamp - Feb 7, 2019 purchased $13.   
     https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/  
