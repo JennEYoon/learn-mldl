@@ -1,4 +1,4 @@
-# Repurpose "learn-mldl" repo for general topics in learning to code.  
+# Repurpose "learn-mldl" repo into more general "learn-coding" repo.  
 
 Date: Nov 27, 2020
 
@@ -24,7 +24,7 @@ Author:  Jennifer E. Yoon
 
 #### History:  
 
- * Started on 7/17/2019 as a Github public repo.  
+ * Started on 7/17/2019 as a Github public repo "learn-mldl".  
  * August and September 2019, add folders for CS231n, dlai (deep learning .ai), Chollet-DLPy book, 
    Vanderplas machine learning book.
  * February-March 2020, update dlai folders for more classes.  
@@ -36,4 +36,4 @@ Author:  Jennifer E. Yoon
  * Renamed default branch from "master" to "main" in light of Black Lives Matter movement. 
  * 7/1/2020 - move separate book folders back under "books, " except current ones. 
  * 10/2020 - moved out all machine learning folders, streamline, combine with deep-learning repo.  
- * 11/27/2020 - repurpose this repo (learn-mldl) for general learning to code.  
+ * 11/27/2020 - repurpose this repo (learn-mldl) for more general "learn-coding" repo.  
