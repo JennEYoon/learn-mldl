@@ -1,0 +1,4 @@
+Jan 14, 2021: K-Means Clustering  
+worked on project together.  
+
+Next week, PCA & Recommender System.  
