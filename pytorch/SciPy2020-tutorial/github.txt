@@ -1,6 +1,0 @@
-remote origin is to my "fork" on Github.  
-
-remote upstream is to source "hugobrowne" account on Github.  
-
-This is Pytorch tutorial from SciPy 2020 conference.  
-Youtube: 
