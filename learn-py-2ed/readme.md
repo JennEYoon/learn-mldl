@@ -1,12 +1,18 @@
-# My practice with ***Learn Pythong, 2nd ed, 2018 c***  
+## My practice with ***Learn Python, 2nd ed, c 2018***  
 
-Fabrizio Romano, Learn Python Programming, 2nd ed, June 2018, Packt Publishing  
+**Fabrizio Romano**, ***Learn Python Programming***, 2nd ed, June 2018, Packt Publishing  
+
+#### Author: Jennifer E Yoon   
+
+#### Date: Feb 23, 2021 start  
+
+#### Chapter Outline:  
 
 Chp 5: map, zip, filter - saving time and memory  
 
 Chp 6: OOP, Decorators and Iterators  
 
-  @decorator (context) 
+  - @decorator (context) 
 
 Chp 7: Files and Persistence 
 
