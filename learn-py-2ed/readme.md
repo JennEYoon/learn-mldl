@@ -30,4 +30,6 @@ Skip -- chp 13: Data Science
 
 Maybe -- chp 14: Web Development 
 
+#### Memo:  
+Book is a reasonably good review for intermediate level Python after the basics have been covered.  I purchased this book to go a little deeper into Python core language functions.  
 
