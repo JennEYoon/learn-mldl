@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=9M4XKi25I2M&t=1723s 
+Watched 30 min of ~9 hr video.  
+Takes long time to reproduce on my own.  
+
+comments:  
+// single line comment 
+/* multiline comment */  
+
+prompt()  //opens new window with user input text box.  
+
+right-click, inspect, console tab.  
+view javascript front-end.  Nothing on front-end is secure. 
+
+.onclick() even handler  
+.innerHTML = "New text display"  
+object.style to set new background color.  
+

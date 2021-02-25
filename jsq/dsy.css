@@ -1,0 +1,254 @@
+/* Stylesheet dsy.css */
+
+
+/* Main body section */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 40px; 
+    color: white;
+    text-align: center;
+}
+
+h2, h3, h4, h5, h6 {
+    color: #eb1010;
+    /* orange - deep */
+}
+
+.purple {
+    background-color: #b532d6;
+}
+
+.tagline {
+    color: white;
+    text-align: center;
+    font-size: 26px;
+    font-weight: bold;
+	text-shadow: 2px 2px 4px black;
+}
+
+.line {
+    color: #eb1010;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    /* header bold line - unused */
+}
+
+header {
+    border: 1px solid #d4d4d4;
+    padding-top: 16px;
+    background-size: cover; 
+    background-position: center center; 
+    background-image: url("purpleimg.jpg"); 
+    background-color: purple;
+    margin-bottom: 30px;
+}
+
+footer {
+    border: 1px solid #d4d4d4;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    background-size: cover; 
+    background-position: center center; 
+    background-image: url("purpleimg.jpg"); 
+    background-color: purple;
+}
+
+
+/* Navigation Horizontal section */
+
+.nav-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    border: 2px solid black;
+}
+
+.nav-li {
+    float: left;
+}
+
+.nav-li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav-li a:hover:not(.active) {
+    background-color: #eb6810;
+}
+
+.active {
+    background-color: green;
+}
+
+.navhoriz {
+    display: inline;
+}
+
+
+/* Bio section with photo left, text on right layout. @ media for small screen below. */
+
+.grid-container {
+    display: grid;
+    grid-template-areas: 'photo text text text text';
+}
+
+.photo {
+    grid-area: photo;
+    margin: 16px 0 16px 16px;
+    min-width: 200px;
+    max-width: 200px;
+}
+
+.text {
+    grid-area: text;
+}
+
+.bio {
+    margin-left: 20px;
+    margin-right: 16px;
+}
+
+/* If small screen, grid-container break after photo. */
+@media only screen and (max-width: 500px){  
+    .grid-container {
+        display: grid;
+        grid-template-areas: 
+            'photo'
+            'text';
+    } 
+
+    .photo {
+        grid-area: photo;
+        margin: 16px 0 0 16px;
+    }
+
+    .bio {
+        margin-left: 8px;
+        margin-right: 8px;
+    }
+
+    .imgtext {
+        margin-left: 8px;
+        margin-right: 8px;
+    }
+
+}
+
+
+/* Set maximum width on very large screens, so text won't be very long. */
+@media only screen and (min-width: 1000px){ 
+    body {
+        max-width: 1000px;
+    }
+}
+
+
+/* Image controls Section */
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid gray;
+    margin: 0;
+    /* margin is clear area outside of border. */
+}
+
+.img-lg-ctr {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 672px;
+    height: 380px;
+    border: 2px solid black;
+    /* width and height is 70% of 50% of 1920x1080 display */
+    /* HTML5 does not have "align: center". Use "display: block" */
+}
+
+.imglf {
+    float: left;
+    margin: 12px 16px 16px 16px;
+    max-width: 300px;
+    max-height: 250px;
+}
+
+.imglf-lg {
+    float: left;
+    margin: 0 16px 0 16px;
+    max-width: 90%;
+    border: 2px solid black;
+}
+
+.clearlf {
+    clear: left;
+}
+
+.imgsm {
+    float: left;
+    margin: 0 16px 0 16px;
+    max-width: 165px;
+    height: auto;
+    border: 2px solid black;
+}
+
+.imgmid {
+    float: left;
+    max-width: 600px;
+    height: auto;
+}
+
+.imgtext {
+    margin-left: 16px;
+}
+
+.imgrt {
+    float: right;
+    margin: 0 16px 0 16px;
+    max-width: 350px;
+    max-height: 350px;
+}
+
+.imgrt-lg {
+    float: right;
+    margin: 0 16px 0 16px;
+    max-width: 90%;
+    border: 2px solid black;
+}
+
+.clearrt {
+    clear: right; 
+}
+
+
+/* block quote section style */
+/* margin is clear area outside border, padding is inside colored. */
+
+.block-quote {
+    background-color: rgb(232, 253, 253);
+    border: 2px solid gray;
+    padding: 08px 16px;
+    margin: 30px 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.bheaders {
+    color: black;
+}
+
+.block-inset {
+    background-color: beige;
+    padding: 16px;
+    margin: 16px;
+    border: 1px solid gray;
+}

@@ -1,0 +1,9 @@
+# Chapter 1, Head First JavaScript book c 2014.  
+
+#### June 23, 2020 exercise:   
+
+1) Error, couldn't remember html-stylesheet-link, stylesheet-comment symbols.  
+  * Try to memorize more html tags, do flash cards for recall.  
+  
+2) Got bare bones JavaScript block format  
+   * Do flash cards to memorize it.  
