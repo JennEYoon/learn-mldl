@@ -1,5 +1,6 @@
 # Python Testing  
 
-Check out PyTest, nose, docs.  
-Upload testing book.  
-Also upload ProGIT book here.  
+Check out PyTest, nose.
+Uplodad pytest docs - done
+Upload testing book - done.
+
