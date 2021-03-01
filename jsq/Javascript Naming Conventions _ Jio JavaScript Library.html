@@ -1,0 +1,1081 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- saved from url=(0049)http://www.j-io.org/Javascript-Naming_Conventions -->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+          
+    <!--<base href="http://www.j-io.org/Javascript-Naming_Conventions/">--><base href=".">
+    <meta name="description" content="[out-of-date] merged into coding conventions">
+    <meta name="keywords" content="">
+    
+    <meta http-equiv="Content-Script-Type" content="text/javascript">
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <title>Javascript Naming Conventions | Jio JavaScript Library</title>
+    <link rel="icon" type="image/x-icon" href="http://www.j-io.org/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.j-io.org/favicon.ico">
+  
+          
+    <link type="text/css" rel="stylesheet" href="./Javascript Naming Conventions _ Jio JavaScript Library_files/erp5_knowledge_box.css">
+    <link type="text/css" rel="stylesheet" href="./Javascript Naming Conventions _ Jio JavaScript Library_files/erp5_listbox.css">
+    <link type="text/css" rel="stylesheet" href="./Javascript Naming Conventions _ Jio JavaScript Library_files/erp5_web_toolbar.css">
+    <link type="text/css" rel="stylesheet" href="./Javascript Naming Conventions _ Jio JavaScript Library_files/erp5_knowledge_box.css">
+    <link type="text/css" rel="stylesheet" href="./Javascript Naming Conventions _ Jio JavaScript Library_files/km.css">
+    <link type="text/css" rel="stylesheet" href="./Javascript Naming Conventions _ Jio JavaScript Library_files/gadget.css">
+    <link type="text/css" rel="stylesheet" href="./Javascript Naming Conventions _ Jio JavaScript Library_files/km_listbox.css">
+    <link type="text/css" rel="stylesheet" href="./Javascript Naming Conventions _ Jio JavaScript Library_files/km_custom.css">
+    
+      
+      
+    
+    <script type="text/javascript" src="./Javascript Naming Conventions _ Jio JavaScript Library_files/jquery.min.js.download"></script>
+    <script type="text/javascript" src="./Javascript Naming Conventions _ Jio JavaScript Library_files/jquery-ui.min.js.download"></script>
+    <script type="text/javascript" src="./Javascript Naming Conventions _ Jio JavaScript Library_files/erp5.js.download"></script>
+    <script type="text/javascript" src="./Javascript Naming Conventions _ Jio JavaScript Library_files/erp5_knowledge_box.js.download"></script>
+    <script type="text/javascript" src="./Javascript Naming Conventions _ Jio JavaScript Library_files/erp5_km.js.download"></script>
+  
+          <meta name="robots" content="index, follow">
+        </head>
+        <body>
+          <form id="main_form" class="main_form" onsubmit="changed=false; return true" enctype="multipart/form-data" action="http://www.j-io.org/Javascript-Naming_Conventions" method="post">
+            <fieldset id="hidden_fieldset" class="hidden_fieldset">
+              
+              
+    <input type="hidden" name="cancel_url" value="http://www.j-io.org/Javascript-Naming_Conventions/WebPage_viewAsWeb">
+<input type="hidden" name="object_uid" value="1998993124">
+<input type="hidden" name="form_id" value="WebPage_viewAsWeb">
+<input type="hidden" name="object_path" value="/nexedi/web_site_module/jio/Javascript-Naming_Conventions">
+  
+            </fieldset>
+            
+  
+
+  <!--[if lt IE 7]>
+  <div style='border: 1px solid #F7941D; background: #FEEFDA; text-align: center; clear: both; height: 75px; position: relative;'>
+    <div style='width: 640px; margin: 0 auto; text-align: left; padding: 0; overflow: hidden; color: black;'>
+      <div style='width: 75px; float: left;'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-warning.jpg' alt='Warning!'/></div>
+      <div style='width: 249px; float: left; font-family: Arial, sans-serif;'>
+        <div style='font-size: 14px; font-weight: bold; margin-top: 12px;'>You are using an outdated browser</div>
+        <div style='font-size: 12px; margin-top: 6px; line-height: 12px;'>For a better experience using this site, please upgrade to a modern web browser.</div>
+      </div>
+      <div style='width: 75px; float: left;'><a href='http://www.firefox.com' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-firefox.jpg' style='border: none;' alt='Get Firefox 3.5'/></a></div>
+      <div style='width: 75px; float: left;'><a href='http://www.browserforthebetter.com/download.html' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-ie8.jpg' style='border: none;' alt='Get Internet Explorer 8'/></a></div>
+      <div style='width: 73px; float: left;'><a href='http://www.apple.com/safari/download/' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-safari.jpg' style='border: none;' alt='Get Safari 4'/></a></div>
+      <div style='width: 73px; float: left;'><a href='http://www.google.com/chrome' target='_blank'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-chrome.jpg' style='border: none;' alt='Get Google Chrome'/></a></div>
+      <div style='position: absolute; left: 620px; top: 3px; font-family: courier new; font-weight: bold;'><a href='#' onclick='javascript:this.parentNode.parentNode.parentNode.style.display="none"; return false;'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-cornerx.jpg' style='border: none;' alt='Close this notice'/></a></div>
+    </div>
+  </div>
+  <![endif]-->
+            <div id="mainwrapper">
+              <!-- HEADER -->
+              <div id="header">
+                <!--index here//-->
+                <h1 id="index"><a href="http://www.j-io.org/" title="ERP5" name="top">ERP5</a></h1>
+                <!--index here//-->
+                <div id="menu">
+                  
+                    
+                      
+  <!-- Each aggregate of groups is a div wrapper -->
+  <div class="wrapper" id="wrapper_menu">
+
+    
+      
+        
+          <div class=" navbar">                 
+            <fieldset class="widget">
+              <legend class="group_title"></legend>
+              
+                
+    
+      <div class="field hidden_label left-menu" title="">
+        
+          <label>
+            Left Menu
+            
+            
+          </label>
+          <div class="input"><div class="hidden_label left-menu">
+
+
+
+<ul class="nav">
+  <li class="home-link"><a href="http://www.j-io.org/" id="home-link">Home</a></li>
+
+  
+
+  
+
+  
+    
+
+    <li class="menu_item_0 collapse-menu ">
+      <a href="http://www.j-io.org/download-and-fork">
+        Download &amp; Fork
+      </a>
+ 
+        
+    </li>
+    
+    
+
+    <li class="menu_item_1 collapse-menu ">
+      <a href="http://www.j-io.org/forum">
+        Forum
+      </a>
+ 
+        
+    </li>
+    
+    
+
+    <li class="menu_item_2 collapse-menu ">
+      <a href="http://www.j-io.org/blog">
+        Blog
+      </a>
+ 
+        
+    </li>
+    
+  
+
+  
+</ul>
+
+</div></div>
+          
+          
+        
+      </div>
+    
+  
+              
+            </fieldset>
+          </div>
+        
+        
+      
+    
+    
+      
+        
+          <div class=" meta">                 
+            <fieldset class="widget">
+              <legend class="group_title"></legend>
+              
+                
+    
+      <div class="field hidden_label user-information" title="">
+        
+          <label>
+            User Information
+            
+            
+          </label>
+          <div class="input"><div class="hidden_label user-information">
+
+
+
+
+
+
+
+  <a id="login-logout-link" href="http://www.j-io.org/login_form" title="Log in">Log in</a>
+
+
+</div></div>
+          
+          
+        
+      </div>
+    
+  
+              
+            </fieldset>
+          </div>
+        
+        
+      
+    
+  </div>
+
+                    
+                  
+                </div>
+                <!-- Satus Messages, Breadcrumb, Language Box -->
+                
+                  
+                    
+  <!-- Each aggregate of groups is a div wrapper -->
+  <div class="wrapper" id="wrapper_path">
+
+    
+      
+        
+          <div class=" tools">                 
+            <fieldset class="widget">
+              <legend class="group_title"></legend>
+              
+                
+    
+      <div class="field hidden_label language-selection" title="">
+        
+          <label>
+            Language
+            
+            
+          </label>
+          <div class="input"><div class="hidden_label language-selection">
+
+
+
+
+  <ul class="language_box">
+    
+      
+    
+    
+      <li>
+        <a href="http://www.j-io.org/Base_doLanguage?select_language=en" class="selected">
+          <img src="./Javascript Naming Conventions _ Jio JavaScript Library_files/icon_lang_en.png" alt="English" title="English">
+          
+        </a>
+      </li>
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+  </ul>
+
+</div></div>
+          
+          
+        
+      </div>
+    
+  
+              
+            </fieldset>
+          </div>
+        
+        
+      
+    
+  </div>
+
+                  
+                
+              </div>
+              <div id="center" class="center_fluid">
+                <!-- Headline Box -->
+                
+                  
+                    
+  <!-- Each aggregate of groups is a div wrapper -->
+  <div class="wrapper" id="wrapper_headline">
+
+    
+      
+        
+          <div class="">                 
+            <fieldset class="widget">
+              <legend class="group_title"></legend>
+              
+                
+    
+      <div class="field hidden_label file download-bar" title="">
+        
+          <label>
+            Download
+            
+            
+          </label>
+          <div class="input"><div class="hidden_label file download-bar">
+
+
+<div class="download-document-format-list-container">
+ <span onclick="javascript:$(&#39;div.download-document-format-list-menu&#39;).toggle();"> Download</span>
+  <div class="download-document-format-list-menu" style="opacity: 0.999999; display: none;">
+    <ul>
+      <li class="separator">
+        <a title="Download in original format" href="http://www.j-io.org/Javascript-Naming_Conventions/Base_download">Original</a>
+      </li>
+      <li>
+        <a href="http://www.j-io.org/Javascript-Naming_Conventions?format=xml" title="Download in Extensible Markup Language (XML) format">Extensible Markup Language (XML)</a>
+      </li>
+      <li>
+        <a href="http://www.j-io.org/Javascript-Naming_Conventions?format=docy" title="Download in OnlyOffice Text Document format">OnlyOffice Text Document</a>
+      </li>
+      <li>
+        <a href="http://www.j-io.org/Javascript-Naming_Conventions?format=jpg" title="Download in JPEG image format">JPEG image</a>
+      </li>
+      <li>
+        <a href="http://www.j-io.org/Javascript-Naming_Conventions?format=svg" title="Download in SVG image format">SVG image</a>
+      </li>
+      <li>
+        <a href="http://www.j-io.org/Javascript-Naming_Conventions?format=png" title="Download in PNG image format">PNG image</a>
+      </li>
+      <!-- Show more than list_index in initially hidden div -->
+      
+        <div class="download-document-format-list-menu-hidden" style="opacity: 0.999999; display: none;">
+          <li>
+            <a href="http://www.j-io.org/Javascript-Naming_Conventions?format=ppm" title="Download in PPM image format">PPM image</a>
+          </li>
+          <li>
+            <a href="http://www.j-io.org/Javascript-Naming_Conventions?format=gif" title="Download in GIF image format">GIF image</a>
+          </li>
+          <li>
+            <a href="http://www.j-io.org/Javascript-Naming_Conventions?format=pcx" title="Download in image/pcx format">image/pcx</a>
+          </li>
+          <li>
+            <a href="http://www.j-io.org/Javascript-Naming_Conventions?format=bmp" title="Download in image/x-ms-bmp format">image/x-ms-bmp</a>
+          </li>
+          <li>
+            <a href="http://www.j-io.org/Javascript-Naming_Conventions?format=pdf" title="Download in PDF document format">PDF document</a>
+          </li>
+          <li>
+            <a href="http://www.j-io.org/Javascript-Naming_Conventions?format=docx" title="Download in Word 2007 document format">Word 2007 document</a>
+          </li>
+          <li>
+            <a href="http://www.j-io.org/Javascript-Naming_Conventions?format=odt" title="Download in ODT document format">ODT document</a>
+          </li>
+          <li>
+            <a href="http://www.j-io.org/Javascript-Naming_Conventions?format=tiff" title="Download in TIFF image format">TIFF image</a>
+          </li>
+          <li>
+            <a href="http://www.j-io.org/Javascript-Naming_Conventions?format=txt" title="Download in Plain Text format">Plain Text</a>
+          </li>
+          <li>
+            <a href="http://www.j-io.org/Javascript-Naming_Conventions?format=doc" title="Download in Microsoft Word Document format">Microsoft Word Document</a>
+          </li>
+        </div>
+        <li class="toggle-hidden-format-dialog-selection-link">
+          <span onclick="javascript:toggleHiddenFormatDialogSelection();" title="Show more download formats"> More... </span>
+        </li>
+      
+    </ul>
+  </div>
+
+</div></div></div>
+          
+          
+        
+      </div>
+    
+  
+              
+            </fieldset>
+          </div>
+        
+        
+      
+    
+  </div>
+
+                  
+                
+                <!-- Splash Box -->
+                
+                  <!-- Layout form rendering -->
+                  <div id="km_left" class="">
+                    <div id="master">
+                      <div id="main_content" class="view_mode">
+                        
+          
+          <script type="text/javascript">installUnsavedChangesWarning('You have unsaved changes');</script>
+          <div class="document">
+            
+            <div class="content">
+              
+        
+    
+      
+      <div class="form" id="WebPage_viewAsWeb">
+      
+        
+          <fieldset class="webcontent header bottom viewable">
+            <div class="box">
+              <div class="text">
+              
+              </div>
+            </div>
+          </fieldset>
+        
+      
+      
+        
+          <fieldset class="bottom viewable">
+            <div class="box">
+              <div class="text">
+              
+              
+                
+    
+      <div class="field page hidden_label" title="">
+        
+          <label>
+            Page Content
+            
+            
+          </label>
+          <div class="input"><div class="page hidden_label">
+<h3>JavaScript Naming Conventions</h3> 
+  <p>This document defines JavaScript naming conventions, which are split into
+essential, coding and naming conventions.</p> 
+  <p>Contents</p> 
+  <ol> 
+    <li style="margin-bottom: 1em;"><a href="http://www.j-io.org/Javascript-Naming_Conventions/#essential-conventions">Essential
+Conventions</a> 
+      <ol> 
+        <li><a href="http://www.j-io.org/Javascript-Naming_Conventions/#minimizing-globals">Minimizing Globals</a></li> 
+        <li><a href="http://www.j-io.org/Javascript-Naming_Conventions/#use-jslint">Use jslint</a></li> 
+      </ol> 
+    </li> 
+    <li style="margin-bottom: 1em;"><a href="http://www.j-io.org/Javascript-Naming_Conventions/#coding-conventions">Coding
+Conventions</a> 
+      <ol> 
+        <li><a href="http://www.j-io.org/Javascript-Naming_Conventions/#use-two-space-indentation">Uses two-space
+indentation</a></li> 
+        <li><a href="http://www.j-io.org/Javascript-Naming_Conventions/#use-shorthand-for-conditional-statments">Using shorthand
+for conditional statements</a></li> 
+        <li><a href="http://www.j-io.org/Javascript-Naming_Conventions/#opening-brace-location">Opening Brace Location</a></li> 
+        <li><a href="http://www.j-io.org/Javascript-Naming_Conventions/#closing-brace-location">Closing Brace Location</a></li> 
+        <li><a href="http://www.j-io.org/Javascript-Naming_Conventions/#function-declaration-location">Function Declaration Location</a></li> 
+        <li><a href="http://www.j-io.org/Javascript-Naming_Conventions/#object-declaration">Object Declaration</a></li> 
+      </ol> 
+    </li> 
+    <li style="margin-bottom: 1em;"><a href="http://www.j-io.org/Javascript-Naming_Conventions/#naming-conventions">Naming
+Conventions</a> 
+      <ol> 
+        <li><a href="http://www.j-io.org/Javascript-Naming_Conventions/#constructors">Constructors</a></li> 
+        <li><a href="http://www.j-io.org/Javascript-Naming_Conventions/#methods-functions">Methods/Functions</a></li> 
+        <li><a href="http://www.j-io.org/Javascript-Naming_Conventions/#titlecase-camelcase">TitleCase, camelCase</a></li> 
+        <li><a href="http://www.j-io.org/Javascript-Naming_Conventions/#variables">Variables</a></li> 
+        <li><a href="http://www.j-io.org/Javascript-Naming_Conventions/#element-class-and-id">Element Classes and IDs</a></li> 
+        <li><a href="http://www.j-io.org/Javascript-Naming_Conventions/#underscore-private-methods">Underscore Private
+Methods</a></li> 
+        <li><a href="http://www.j-io.org/Javascript-Naming_Conventions/#no-abbreviations">No Abbreviations</a></li> 
+        <li><a href="http://www.j-io.org/Javascript-Naming_Conventions/#no-plurals">No Plurals</a></li> 
+        <li><a href="http://www.j-io.org/Javascript-Naming_Conventions/#use-comments">Use Comments</a></li> 
+        <li><a href="http://www.j-io.org/Javascript-Naming_Conventions/#documentation">Documentation</a></li> 
+      </ol> 
+    </li> 
+    <li style="margin-bottom: 1em;"><a href="http://www.j-io.org/Javascript-Naming_Conventions/#additional-readings">Additional
+Readings</a> </li> 
+  </ol> <br> 
+  <h3><a name="essential-conventions"></a>Essential Conventions</h3> 
+  <p>Essential conventions include generic patterns that should be adhered in
+order to write <em>readable</em>, <em>consistent</em> and <em>maintainable
+code</em>.</p> 
+  <h4><a name="minimizing-globals"></a> Minimizing Globals</h4> 
+  <p>Variable declarations should always be made using <strong>var</strong> to
+not declare them as global variables. This avoids conflicts from using a
+variable name across different functions as well as conflicts with global
+variables declared by 3rd party plugins.</p> 
+  <p>Good Example</p> 
+  <pre><code>function sum(x, y) {
+  var result = x + y;
+  return result;
+}</code></pre> 
+  <p>Bad Example</p> 
+  <pre><code>function sum(x, y) {
+  // missing var declaration, implied global
+  result = x + y;
+  return result;
+}</code></pre> 
+  <h4><a name="use-jslint"></a>Use JSLint</h4> 
+  <p>JSLint (<a href="http://jslint.com/">http://jslint.com/</a>) is a quality
+tools that inspects code and warns about potential problems. It is available
+online and can also be integrated into several development environments, so
+errors will be highlighted when writing code.</p> 
+  <p>Before validating your code in JSLint, you should use a code beautifier to
+fix basic syntax errors (like indentation) automatically. There are a number of
+beautifiers available online. The following seem to be the best working:</p> 
+  <ul> 
+    <li><a href="http://jsbeautifier.org/">JSbeautifier.org</a></li> 
+    <li><a href="http://alexis.m2osw.com/js-beautify/">JS-Beautify</a></li> 
+  </ul> Here, javascript sources have to begin with this header: <code>/*jslint indent: 2, maxlen: 80, nomen: true */</code>, which means it uses two spaces indentation, 80 maximum characters by line and allow the use of '_' as first variable name character. Other JSLint options can be added in sub functions if necessary; Allowed options are:
+  
+  
+  
+  <ul> 
+    <li><code>ass: true</code> if assignment should  be allowed outside of statement position.</li> 
+    <li><code>bitwise: true</code> if bitwise operators should  be allowed.</li> 
+    <li><code>continue: true</code> if the <code>continue</code> statement should be allowed.</li> 
+    <li><code>newcap: true</code> if Initial Caps with constructor function is optional.</li> 
+    <li><code>regexp: true</code> if <code>.</code> and <code>[^...]</code> should  be allowed
+ in RegExp
+      literals. They match more material than might be expected,
+allowing attackers to confuse applications. These forms should not be
+used when validating in secure applications.</li> 
+    <li><code>unparam: true</code> if warnings should not be given for unused parameters.</li> 
+  </ul> 
+  <h3><a name="coding-conventions"></a>Coding Conventions</h3> 
+  <p>Coding conventions include generic patterns that ensure that written code
+adheres to certain <em>formatting</em> conventions. </p> 
+  <h4><a name="use-two-space-indentation"></a> Uses two-space
+indentation</h4> 
+  <p>Tabs and 2-space indentation are being used equally. Since a lot of errors
+on JSLint often result from <em>mixed use of space and tab</em> using 2 spaces
+throughout prevents these errors up front.</p> 
+  <p>Good Example</p> 
+  <pre><code>function outer(a, b) {
+  var c = 1,
+    d = 2,
+    inner;
+  if (a &gt; b) {
+    inner = function () {
+      return {
+        "r": c - d
+      };
+    };
+  } else {
+    inner = function () {
+      return {
+        "r": c + d
+      };
+    };
+  }
+  return inner;
+}  </code></pre> 
+  <p>Bad Example</p> 
+  <pre><code>function outer(a, b) {
+var c = 1,
+d = 2,
+inner;
+
+if (a &gt; b) {
+inner = function () {
+return {
+"r": c - d
+}}}};
+</code></pre> 
+  <h4><a name="use-shorthand-for-conditional-statments"></a>Using shorthand
+for conditional statements</h4> 
+  <p>An alternative for using braces is the shorthand notation for conditional
+statements. When using multiple conditions, the conditional statement can be
+split on multiple lines.</p> 
+  <p>Good Example</p> 
+  <pre><code>// single line
+var results = test === true ? alert(1) : alert(2);
+
+// multiple lines
+var results = (test === true &amp;&amp; number === undefined ?
+               alert(1) : alert(2));
+
+var results = (test === true ?
+               alert(1) : number === undefined ?
+               alert(2) : alert(3));</code></pre> 
+  <p>Bad Example</p> 
+  <pre><code>// multiple conditions
+var results = (test === true &amp;&amp; number === undefined) ?
+  alert(1) :
+  alert(2);
+</code></pre> 
+  <h4><a name="opening-brace-location"></a> Opening Brace Location</h4> 
+  <p>Always put the opening brace on the same line as the previous
+statement.</p> 
+  <p>Bad Example</p> 
+  <pre><code>function func()
+{
+  return
+  {
+    "name": "Batman"
+  };
+}  </code></pre> 
+  <p>Good Example</p> 
+  <pre><code>function func () {
+  return {
+    "name": "Batman"
+  };
+}</code>
+</pre> 
+  <h4><a name="closing-brace-location"></a>Closing Brace Location</h4> 
+  <p>The closing brace should be on the same indent as the original function
+call.</p> 
+  <p>Bad Example</p> 
+  <pre><code>function func() {
+  return {
+           "name": "Batman"
+         };
+}</code></pre> 
+  <p>Good Example</p> 
+  <pre><code>function func() {
+  return {
+    "name": "Batman"
+  };
+}</code></pre> 
+  <h4><a name="function-declaration-location"></a>Function Declaration Location</h4> 
+  <p>Non anonymous functions should be declared before use.</p> 
+  <p>Bad Example</p> 
+  <pre><code>// [...]
+return {
+  "namedFunction": function namedFunction() {
+    return;
+  }
+};</code></pre> 
+  <p>Good Example</p> 
+  <pre><code>// [...]
+function namedFunction() {
+  return;
+}
+return {
+  "namedFunction": namedFunction
+};</code></pre> 
+  <h4><a name="object-declaration"></a>Object Declaration</h4> 
+  <p>On some interpreters, declaring an object with object keys not wrapped in quotes can throw syntax errors. Here we use double quotes.</p> 
+  <p>Bad example</p> 
+  <pre><code>var my_object = {
+  key: "value"
+};</code></pre> 
+  <p>Good example</p> 
+  <pre><code>var my_object = {
+  "key": "value"
+};</code></pre> 
+  <h4><a name="underscore-private-methods"></a></h4> 
+  <h3><a name="naming-conventions"></a>Naming Conventions</h3> 
+  <p>Naming conventions include generic patterns for setting names and
+identifiers throughout a script.</p> 
+  <h4><a name="constructors"></a> Constructors</h4> 
+  <p>A constructor function starting with new should always start with a capital
+letter</p> 
+  <pre><code>// bad example
+var test = new application();
+
+// good example
+var test = new Application();
+</code></pre> 
+  <h4><a name="methods-functions"></a> Methods/Functions</h4> 
+  <p>A method/function should always start with a small letter.</p> 
+  <pre><code>// bad example
+function MyFunction() {...}
+
+// good example
+function myFunction() {...}</code></pre> 
+  <h4><a name="titlecase-camelcase"></a>TitleCase, camelCase</h4> 
+  <p>Follow the camel case convention, typing the words in lower-case, only
+capitalizing the first letter in each word. </p> 
+  <p>Examples</p> 
+  <pre><code>// Good example constructor = TitleCase
+var test = new PrototypeApplication();
+
+// Bad example constructor
+var test = new PROTOTYPEAPPLICATION();
+
+// Good example functions/methods = camelCase
+myFunction();
+calculateArea();
+
+// Bad example functions/methods
+MyFunction();
+CalculateArea();  </code></pre> 
+  <h4><a name="variables"></a> Variables</h4> 
+  <p>Variables with multiple words should always use an underscore between
+words.</p> 
+  <p>Example</p> 
+  <pre><code>// bad example
+var deliveryNote = 1;
+
+// good example
+var delivery_note = 1;</code></pre> 
+  <p>Confusing variable names should end with the variable type.</p> 
+  <p>Example</p> 
+  <pre><code>// implicit type
+var my_callback = doSomething();
+var Person = require("./person");
+
+// confusing names + var type
+var do_something_function = doSomething.bind(context);
+var value_list = getObjectOrArray();
+// value_list can be an object which can be cast into an array</code></pre> 
+  <p>To use camelCase, when sometimes it is impossible to declare a function directly, the function variable name should match some patterns which shows that it is a function.</p> 
+  <pre><code>// good example
+var doSomethingFunction = function () { ... };
+// or
+var tool = {"doSomething": function () { ... }};
+
+// bad example
+var doSomething = function () { ... };</code></pre> 
+  <h4><a name="element-class-and-id"></a> Element Classes and IDs</h4> 
+  <p>JavaScript can access elements by their ID attribute and class names. When
+assigning IDs and class names with multiple words, these should also be
+separated by an underscore (same as variables).</p> 
+  <p>Example</p> 
+  <pre><code>// bad example
+test.setAttribute("id", "uniqueIdentifier");
+
+// good example
+test.setAttribute("id", "unique_identifier");  </code></pre> 
+  <p>Discuss - checked with jQuery UI/jQuery Mobile, they don't use written name
+conventions, only</p> 
+  <ul> 
+    <li>events names should fit their purpose (pageChange for changing a
+page)</li> 
+    <li>element classes use “-” like in ui-shadow</li> 
+    <li>"ui" should not be used by third party developers</li> 
+    <li>variables and events use lower camel-case like pageChange and
+activePage</li> 
+  </ul> 
+  <h4>Underscore Private
+Methods
+  </h4> 
+  <p>Private methods should use a leading underscore to separate them from
+public methods (although this does not technically make a method private).</p> 
+  <p>Good Example</p> 
+  <pre><code>var person = {
+  "getName": function () {
+    return this._getFirst() + " " + this._getLast();
+  },
+  "_getFirst": function () {
+    // ...
+  },
+  "_getLast": function () {
+    // ...
+  }
+};  </code></pre> 
+  <p>Bad Example</p> 
+  <pre><code>var person = {
+  "getName": function () {
+    return this.getFirst() + " " + this.getLast();
+  },
+  // private function
+  "getFirst": function () {
+    // ...
+  }
+};</code></pre> 
+  <h4><a name="no-abbreviations"></a>No Abbreviations</h4> 
+  <p>Abbreviations should not be used to avoid confusion </p> 
+  <p>Good Example</p> 
+  <pre><code>// delivery note
+var delivery_note = 1;</code></pre> 
+  <p>Bad Example</p> 
+  <pre><code>// delivery note
+var del_note = 1;</code></pre> 
+  <h4><a name="no-plurals"></a> No Plurals</h4> 
+  <p>Plurals should not be used when assigning names</p> 
+  <p>Good Example</p> 
+  <pre><code>var delivery_note_list = ["one", "two"];
+</code></pre> 
+  <p>Bad Example</p> 
+  <pre><code>var delivery_notes = ["one", "two"];</code></pre> 
+  <h4><a name="use-comments"></a> Use Comments</h4> 
+  <p>Should be used with reason but include enough information so that a reader
+can get a first grasp of what a part of code is supposed to do. </p> 
+  <p>Good Example</p> 
+  <pre><code>var person = {
+  // returns full name string
+  "getName": function () {
+    return this._getFirst() + " " + this._getLast();
+  }
+};
+</code></pre> 
+  <p>Bad Example</p> 
+  <pre><code>var person = {
+  "getName": function () {
+    return this._getFirst() + " " + this._getLast();
+  }
+};
+</code></pre> 
+  <h4><a name="white-space"></a><code> </code></h4> 
+  <h4><a name="documentation"></a> Documentation</h4> 
+  <p>You can use YUIDoc (<a href="http://yuilibrary.com/projects/yuidoc">http://yuilibrary.com/projects/
+yuidoc</a>) and their custom comment tags together with Node.js to generate the
+documentation from the script file itself. Comments will look something like
+this:</p> 
+  <p>Good Example</p> 
+  <pre><code>/**
+ * Reverse a string
+ *
+ * @param  {String} input_string String to reverse
+ * @return {String} The reversed string
+ */
+function reverse(input_string) {
+  // ...
+  return output_string;
+};</code></pre> 
+  <p>Bad Example</p> 
+  <pre><code>function reverse(input_string) {
+  // ...
+  return output_string;
+};  </code></pre> 
+  <h3><a name="additional-readings"></a>Additional Readings</h3> 
+  <p>Resources, additional reading materials and links used
+    </p> 
+  <ul> 
+    <li><a href="http://shop.oreilly.com/product/9780596806767.do">Javascript Patterns</a>, main ressource used.</li> 
+    <li><a href="http://www.jslint.com/">JSLint</a>, code quality.</li> 
+    <li><a href="http://yuilibrary.com/projects/yuidoc">YUIDoc</a>, generate
+documentation from code.</li> 
+  </ul> <hr> 
+  <div style="font-size: 12px; font-style: italic;"> 
+    <p>Status:</p> 
+    <ul> 
+      <li>2012-11-16 first version</li> 
+      <li>2013-01-10 updated to JSLint, removed rules enforced by JSLint</li> 
+    </ul> 
+  </div></div></div>
+          
+          
+        
+      </div>
+    
+  
+              
+              </div>
+            </div>
+          </fieldset>
+        
+      
+      </div>
+      <p class="clear"></p>
+    
+  
+      
+              
+            </div>
+          </div>
+        
+        
+                      </div>
+                    </div>
+                    <!-- Layout form rendering -->
+                    
+                      <!-- Bottom Area -->
+                      <!-- Layout form rendering -->
+                      
+                        
+                          
+  <!-- Each aggregate of groups is a div wrapper -->
+  <div class="wrapper" id="wrapper_bottom">
+
+    
+      
+        
+          <div class=" gadget">                 
+            <fieldset class="widget">
+              <legend class="group_title">Bottom Gadget</legend>
+              
+                
+    
+      <div class="field hidden_label bottom-gadget" title="">
+        
+          <label>
+            Bottom Gadget
+            
+            
+          </label>
+          <div class="input"><div class="hidden_label bottom-gadget">
+
+  
+
+
+
+
+      
+
+  
+
+
+
+      
+
+</div></div>
+          
+          
+        
+      </div>
+    
+  
+              
+            </fieldset>
+          </div>
+        
+        
+      
+    
+  </div>
+
+                        
+                      
+                    
+                  </div>
+                  <!-- Layout form rendering -->
+                  
+                    <!-- Right Area -->
+                    <!-- Layout form rendering -->
+                    
+                      
+                        
+  <!-- Each aggregate of groups is a div wrapper -->
+  <div class="wrapper" id="wrapper_right">
+
+    
+      
+        
+          <div class=" column gadget">                 
+            <fieldset class="widget">
+              <legend class="group_title">Right Gadget</legend>
+              
+                
+    
+      <div class="field hidden_label gadget-management" title="">
+        
+          <label>
+            Widget Management
+            
+            
+          </label>
+          <div class="input"><div class="hidden_label gadget-management">
+
+
+
+  
+
+
+
+  
+</div></div>
+          
+          
+        
+      </div>
+    
+  
+              
+              
+                
+    
+      <div class="field hidden_label right-gadget" title="">
+        
+          <label>
+            Right Gadget
+            
+            
+          </label>
+          <div class="input"><div class="hidden_label right-gadget">
+
+  
+
+
+
+
+      
+
+  
+
+
+
+      
+
+</div></div>
+          
+          
+        
+      </div>
+    
+  
+              
+            </fieldset>
+          </div>
+        
+        
+      
+    
+  </div>
+
+                      
+                    
+                  
+                </div>
+                <!-- Top Bar: navigation and search -->
+                <!-- Layout form rendering -->
+              </div>
+              
+                
+                  
+  <!-- Each aggregate of groups is a div wrapper -->
+  <div class="wrapper" id="wrapper_footer">
+
+    
+      
+        
+          <div class="">                 
+            <fieldset class="widget">
+              <legend class="group_title"></legend>
+              
+                
+    
+      <div class="field hidden_label footer" title="">
+        
+          <label>
+            Footer
+            
+            
+          </label>
+          <div class="input"><div class="hidden_label footer">
+</div></div>
+          
+          
+        
+      </div>
+    
+  
+              
+              
+                
+    
+      <div class="field hidden_label footer" title="">
+        
+          <label>
+            Analytics
+            
+            
+          </label>
+          <div class="input"><div class="hidden_label footer">
+<!--Place analytic code or any other tracking scripts which will not be displayed--></div></div>
+          
+          
+        
+      </div>
+    
+  
+              
+            </fieldset>
+          </div>
+        
+        
+      
+    
+    
+      
+        
+          
+        
+        
+      
+    
+  </div>
+
+                
+              
+          </form>
+        
+      
+    
+  
+    
+  
+    
+  
+  
+
+</body></html>
