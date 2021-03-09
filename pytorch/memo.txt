@@ -1,4 +1,0 @@
-do not copy pytorch classes, Udacy, Scipy2020 tutorial.  
-Keep local, don't need to upload to Github.  
-
-Too big size. 

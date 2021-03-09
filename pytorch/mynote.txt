@@ -1,1 +1,0 @@
-SciPy2020 Pytorch tutorial uses Titanic dataset.  Deep Learning used instead of logistic regression.  
