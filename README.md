@@ -23,8 +23,8 @@ Author:  Jennifer E. Yoon
  
 
 #### History:  
-
- * Started on 7/17/2019 as a Github public repo "learn-mldl".  
+ * My 3rd github repository.  
+ * Started on 7/18/2019 as a Github public repo "learn-mldl".  
  * August and September 2019, add folders for CS231n, dlai (deep learning .ai), Chollet-DLPy book, 
    Vanderplas machine learning book.
  * February-March 2020, update dlai folders for more classes.  
@@ -37,3 +37,4 @@ Author:  Jennifer E. Yoon
  * 7/1/2020 - move separate book folders back under "books, " except current ones. 
  * 10/2020 - moved out all machine learning folders, streamline, combine with deep-learning repo.  
  * 11/27/2020 - repurpose this repo (learn-mldl) for more general "learn-coding" repo.  
+ * 3/11/2021 - renamed learn-coding-y19 to separate from 2021 python-ml and deep-learning repos.  
